@@ -1,0 +1,24 @@
+ENTRY       G13036                      Glycan
+COMPOSITION (GlcA)2 (GlcN)1 (GlcNAc)1 (S)3
+MASS        974.8
+REACTION    R07813 R07814
+PATHWAY     map00531  Glycosaminoglycan degradation
+            map01100  Metabolic pathways
+MODULE      M00078  Heparan sulfate degradation
+ENZYME      3.2.1.76        3.10.1.1
+NODE        7
+            1   GlcA     16.4  -1.9
+            2   GlcNAc    7.4  -1.9
+            3   S         1.4   2.1
+            4   GlcA     -1.6  -1.9
+            5   S        -7.6   2.1
+            6   GlcN    -10.6  -1.9
+            7   S       -16.6   2.1
+EDGE        6
+            1     2:a1    1:4  
+            2     3       2:6  
+            3     4:b1    2:4  
+            4     5       4:2  
+            5     6:a1    4:4  
+            6     7       6:2  
+///

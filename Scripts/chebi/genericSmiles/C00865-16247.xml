@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<TABLE>
+<ENTRY>
+<ID>CHEBI:16247</ID>
+<NAME>phospholipid</NAME>
+<DEFINITION>A lipid containing phosphoric acid as a mono- or di-ester. The term encompasses phosphatidic acids and phosphoglycerides.</DEFINITION>
+<STAR>3</STAR>
+<SECONDARY_ID>CHEBI:8150</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:14816</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:26063</SECONDARY_ID>
+<SYNONYM>phospholipids</SYNONYM>
+<SYNONYM>Phospholipid</SYNONYM>
+<SYNONYM>a phospholipid derivative</SYNONYM>
+<FORMULA>C5H6O8PR3</FORMULA>
+<KEGG_COMPOUND_ACCESSION>C00865</KEGG_COMPOUND_ACCESSION>
+</ENTRY>
+</TABLE>

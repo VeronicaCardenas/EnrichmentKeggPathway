@@ -1,0 +1,34 @@
+ENTRY       G00129                      Glycan
+NAME        GQ1balpha
+COMPOSITION (Gal)2 (GalNAc)1 (Glc)1 (Neu5Ac)4 (Cer)1
+MASS        1854.7 (Cer)
+REACTION    R05951
+PATHWAY     map00604  Glycosphingolipid biosynthesis - ganglio series
+            map01100  Metabolic pathways
+ORTHOLOGY   K00785  beta-galactosamide-alpha-2,3-sialyltransferase [EC:2.4.99.-]
+            K03376  N-acetylgalactosaminide alpha-2,6-sialyltransferase (sialyltransferase 7F) [EC:2.4.99.-]
+DBLINKS     CCSD: 6594 33112 44844 44854 46832 47972 48128
+            GlyTouCan: G54733XO
+            JCGGDB: JCGG-STR014581
+            LipidBank: GSG1008 GSG3035
+            GlycoEpitope: EP0112
+NODE        9
+            1   Cer        17    -2
+            2   Glc        11    -2
+            3   Gal         5    -2
+            4   GalNAc     -3     2
+            5   Neu5Ac     -3    -6
+            6   Gal       -11    -2
+            7   Neu5Ac    -12     6
+            8   Neu5Ac    -12    -6
+            9   Neu5Ac    -18    -2
+EDGE        8
+            1     2:b1    1:1  
+            2     3:b1    2:4  
+            3     4:b1    3:4  
+            4     5:a2    3:3  
+            5     6:b1    4:3  
+            6     7:a2    4:6  
+            7     8:a2    5:8  
+            8     9:a2    6:3  
+///

@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<TABLE>
+<ENTRY>
+<ID>CHEBI:17810</ID>
+<NAME>1-O-(alk-1-enyl)-2-O-acyl-sn-glycero-3-phosphocholine</NAME>
+<DEFINITION>A glycero-3-phosphocholine compound having an alk-1-enyl substituent at the 1-position and an acyl substituent at the 2-position.</DEFINITION>
+<STAR>3</STAR>
+<SECONDARY_ID>CHEBI:18999</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:52586</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:11233</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:8257</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:14843</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:19001</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:58281</SECONDARY_ID>
+<SYNONYM>Plasmenylcholine</SYNONYM>
+<SYNONYM>Choline plasmalogen</SYNONYM>
+<SYNONYM>2-Acyl-1-(1-alkenyl)-sn-glycero-3-phosphocholine</SYNONYM>
+<SYNONYM>1-O-(alk-1-enyl)-2-O-acyl-sn-glycero-3-phosphocholines</SYNONYM>
+<SYNONYM>1-O-(alk-1-enyl)-2-O-acyl-sn-glycero-3-phosphocholine</SYNONYM>
+<SYNONYM>1-Alkenyl-2-acylglycerophosphocholine</SYNONYM>
+<SYNONYM>1-Alkenyl-2-acyl-sn-glycero-3-phosphocholine</SYNONYM>
+<SYNONYM>1-(alk-1-enyl)-2-acyl-sn-glycero-3-phosphocholines</SYNONYM>
+<SYNONYM>1-(alk-1-enyl)-2-acyl-sn-glycero-3-phosphocholine</SYNONYM>
+<FORMULA>C11H20NO7PR2</FORMULA>
+<FORMULA>C11H20NO7PR2</FORMULA>
+<MASS>309.253</MASS>
+<MONOISOTOPIC_MASS>309.098</MONOISOTOPIC_MASS>
+<CHARGE>0</CHARGE>
+<SMILES>P(OC[C@@H](CO/C=C/*)OC(=O)*)(=O)(OCC[N+](C)(C)C)[O-]</SMILES>
+<KEGG_COMPOUND_ACCESSION>C00958</KEGG_COMPOUND_ACCESSION>
+</ENTRY>
+</TABLE>

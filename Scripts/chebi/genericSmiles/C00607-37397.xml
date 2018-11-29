@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TABLE>
+<ENTRY>
+<ID>CHEBI:37397</ID>
+<NAME>chondroitin sulfate</NAME>
+<DEFINITION>Any of a class of 10—60 kDa glycosaminoglycan sulfates, widely distributed in cartilage and other mammalian connective tissues.</DEFINITION>
+<STAR>3</STAR>
+<SECONDARY_ID>CHEBI:3676</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:23224</SECONDARY_ID>
+<SYNONYM>Chondroitinsulfat</SYNONYM>
+<SYNONYM>chondroitin sulphate</SYNONYM>
+<SYNONYM>chondroitin sulfuric acid</SYNONYM>
+<SYNONYM>chondroitin sulfates</SYNONYM>
+<SYNONYM>Chondroitin sulfate</SYNONYM>
+<SYNONYM>chondroitin polysulfate</SYNONYM>
+<CAS_REGISTRY_NUMBER>9007-28-7</CAS_REGISTRY_NUMBER>
+<CHEMIDPLUS>9007-28-7</CHEMIDPLUS>
+<KEGG_COMPOUND_ACCESSION>C00607</KEGG_COMPOUND_ACCESSION>
+<PUBMED_CITATION>11514091</PUBMED_CITATION>
+<PUBMED_CITATION>7538297</PUBMED_CITATION>
+</ENTRY>
+</TABLE

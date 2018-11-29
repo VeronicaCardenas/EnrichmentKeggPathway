@@ -1,0 +1,22 @@
+ENTRY       G00106                      Glycan
+COMPOSITION (Gal)4 (Glc)1 (Cer)1
+MASS        810.7 (Cer)
+PATHWAY     map00603  Glycosphingolipid biosynthesis - globo and isoglobo series
+DBLINKS     CCSD: 743 744 16271 21455 48895
+            GlyTouCan: G71230WH
+            JCGGDB: JCGG-STR010587
+            LipidBank: GSG1195
+NODE        6
+            1   Cer        17     0
+            2   Glc        10     0
+            3   Gal         3     0
+            4   Gal        -4     0
+            5   Gal       -11     0
+            6   Gal       -18     0
+EDGE        5
+            1     2:b1    1:1  
+            2     3:b1    2:4  
+            3     4:a1    3:4  
+            4     5:a1    4:3  
+            5     6:a1    5:3  
+///

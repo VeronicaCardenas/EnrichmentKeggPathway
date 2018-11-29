@@ -1,0 +1,33 @@
+ENTRY       G13098                      Glycan
+COMPOSITION (GalNAc)1 (GlcA)2 (GlcNAc)1 (Man)1 (Rib-ol)2 (Xyl)2 (P)3 (Ser/Thr)1
+MASS        1693.2 (Ser/Thr)
+PATHWAY     map00515  Mannose type O-glycan biosynthesis
+            map01100  Metabolic pathways
+NODE        13
+            1   Ser/Thr  43.4   0.1
+            2   Man      34.4   0.1
+            3   P        27.2   4.3
+            4   GlcNAc   24.4     0
+            5   GalNAc   14.4     0
+            6   P         7.7  -3.7
+            7   Rib-ol    1.5  -3.7
+            8   P        -4.5  -3.7
+            9   Rib-ol  -10.5  -3.7
+            10  Xyl     -18.6  -3.7
+            11  GlcA    -26.7  -3.7
+            12  Xyl     -35.2  -3.7
+            13  GlcA    -43.7  -3.7
+EDGE        12
+            1     2:a1    1    
+            2     3       2:6  
+            3     4:b1    2:4  
+            4     5:b1    4:3  
+            5     6       5:3  
+            6     7:5     6    
+            7     8       7:1  
+            8     9:5     8    
+            9    10:b1    9:4  
+            10   11:b1   10:4  
+            11   12:a1   11:3  
+            12   13:b1   12:3  
+///

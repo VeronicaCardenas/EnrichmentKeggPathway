@@ -1,0 +1,43 @@
+ENTRY       G00050                      Glycan
+NAME        Paragloboside;
+            Lactoneotetraosylceramide;
+            Lacto-N-neotetraosylceramide;
+            Neolactotetraosylceramide;
+            LA1;
+            nLcCer
+COMPOSITION (Gal)2 (Glc)1 (GlcNAc)1 (Cer)1
+MASS        689.6 (Cer)
+REMARK      Same as: C04922
+REACTION    R05975 R05977 R05978 R06013 R06024 R06025 R06026 R06215 
+            R11375 R11378
+PATHWAY     map00601  Glycosphingolipid biosynthesis - lacto and neolacto series
+            map01100  Metabolic pathways
+MODULE      M00071  Glycosphingolipid biosynthesis, neolacto-series, LacCer => nLc4Cer
+ENZYME      2.4.1.69        2.4.1.79        2.4.1.87        2.4.1.149       
+            2.4.1.152       2.4.1.164       2.4.1.228       2.4.1.275       
+            2.4.1.-         2.4.99.6        2.4.99.-
+BRITE       Lipids [BR:br08002]
+             SP  Sphingolipids
+              SP05 Neutral glycosphingolipids
+               SP0505 Galb1-4GlcNAcb1-3Galb1-4Glc- (Neolacto series)
+                G00050  Gal-beta1->4GlcNAc-beta1->3Gal-beta1->4Glc-beta1->1'Cer (nLcCer)
+REFERENCE   1  [PMID:2960671]
+            Holmes EH, Hakomori S, Ostrander GK.
+            Synthesis of type 1 and 2 lacto series glycolipid antigens in human colonic adenocarcinoma and derived cell lines is due to activation of a normally unexpressed beta 1----3N-acetylglucosaminyltransferase.
+            J. Biol. Chem. 262 (1987) 15649-58.
+DBLINKS     CCSD: 163 459 460 461 462 2503 4648 4853 5301 5540 5614 6248 8359 8572 8762 9295 14073 14079 14427 14486 14858 15259 15283 15550 16226 16357 16406 16463 16475 16870 16880 16894 17010 17107 17420 17687 17703 18483 18919 19336 21118 21626 21627 21720 21732 21770 21919 22112 22489 22624 23026 23063 23877 23890 23902 23905 23937 23939 24439 24769 25255 25275 25309 25361 25468 25517 25855 25878 26171 26269 26358 26601 26608 26617 27234 27472 27535 27709 28497 28505 29758 30298 31662 31692 31752 32741 32884 33047 33734 33883 35093 35365 35503 35924 35952 36002 36118 36168 37063 37094 37214 37266 37842 38059 38093 38371 39385 40564 41774 41777 41871 41905 41926 42846 42955 43214 44621 45488 46804 47204 47563 47599 47660 47781 48137 48205 48549 49338 50187 50497
+            GlyTouCan: G58896AZ
+            JCGGDB: JCGG-STR026439
+            GlycoEpitope: EP0068 EP0075 EP0140 EP0350
+NODE        5
+            1   Cer        15     0
+            2   Glc         8     0
+            3   Gal         1     0
+            4   GlcNAc     -7     0
+            5   Gal       -15     0
+EDGE        4
+            1     2:b1    1:1  
+            2     3:b1    2:4  
+            3     4:b1    3:3  
+            4     5:b1    4:4  
+///

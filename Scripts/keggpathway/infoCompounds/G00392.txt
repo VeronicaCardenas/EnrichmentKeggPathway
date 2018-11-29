@@ -1,0 +1,30 @@
+ENTRY       G00392                      Glycan
+NAME        iGb4-Cer ;
+            iso-Gb4-Cer
+COMPOSITION (Gal)2 (GalNAc)1 (Glc)1 (Cer)1
+MASS        689.6 (Cer)
+REMARK      Same as: C13925
+REACTION    R11321 R11322
+PATHWAY     map00603  Glycosphingolipid biosynthesis - globo and isoglobo series
+ENZYME      2.4.1.79        2.4.1.88
+BRITE       Lipids [BR:br08002]
+             SP  Sphingolipids
+              SP05 Neutral glycosphingolipids
+               SP0506 GalNAcb1-3Gala1-3Galb1-4Glc- (Isoglobo series)
+                G00392  GalNAc-beta1->3Gal-alpha1->3Gal-beta1->4Glc-beta1->1'Cer (iGb4Cer)
+DBLINKS     CCSD: 513 527 6604 8570 10989 12380 12381 14546 15634 15641 16140 16274 16341 17116 17705 18902 21521 22262 23025 27916 33732 36162 45296
+            GlyTouCan: G57710SU
+            JCGGDB: JCGG-STR027175
+            LipidBank: GSG1155
+NODE        5
+            1   Cer        16     0
+            2   Glc         8     0
+            3   Gal         0     0
+            4   Gal        -8     0
+            5   GalNAc    -17     0
+EDGE        4
+            1     2:b1    1:1  
+            2     3:b1    2:4  
+            3     4:a1    3:3  
+            4     5:b1    4:3  
+///

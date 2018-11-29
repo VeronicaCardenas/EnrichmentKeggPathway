@@ -1,0 +1,45 @@
+ENTRY       G00017                      Glycan
+COMPOSITION (Gal)2 (GlcNAc)4 (LFuc)1 (Man)3 (Asn)1
+MASS        1769.6 (Asn)
+REACTION    R05989 R05990
+PATHWAY     map00510  N-Glycan biosynthesis
+            map00513  Various types of N-glycan biosynthesis
+            map01100  Metabolic pathways
+MODULE      M00075  N-glycan biosynthesis, complex type
+ENZYME      2.4.1.38        2.4.99.1
+ORTHOLOGY   K00778  beta-galactoside alpha-2,6-sialyltransferase (sialyltransferase 1) [EC:2.4.99.1]
+REFERENCE   1  [PMID:10463590]
+            Takamatsu S, Oguri S, Minowa MT, Yoshida A, Nakamura K, Takeuchi M, Kobata A.
+            Unusually high expression of N-acetylglucosaminyltransferase-IVa in human choriocarcinoma cell lines: a possible enzymatic basis of the formation of abnormal biantennary sugar chain.
+            Cancer. Res. 59 (1999) 3949-53.
+            2  [PMID:12485595]
+            Kotra LP, Zhang L, Fridman R, Orlando R, Mobashery S.
+            N-Glycosylation pattern of the zymogenic form of human matrix metalloproteinase-9.
+            Bioorg. Chem. 30 (2002) 356-70.
+DBLINKS     CCSD: 1773 3892 4642 5103 5104 7353 7466 7825 7826 7827 7828 7829 7830 7831 7833 7835 7836 8279 10870 10927 11940 12790 20301 25177 25743 26077 33019 33179 35218 35291 42691 46609 46617 46670
+            GlyTouCan: G78059CC
+            JCGGDB: JCGG-STR013729
+NODE        11
+            1   Asn        24     3
+            2   GlcNAc     14     3
+            3   LFuc        7     8
+            4   GlcNAc      6    -2
+            5   Man        -2    -2
+            6   Man        -8     3
+            7   Man        -8    -7
+            8   GlcNAc    -16     3
+            9   GlcNAc    -16    -7
+            10  Gal       -24     3
+            11  Gal       -24    -7
+EDGE        10
+            1     2:b1    1    
+            2     3:a1    2:6  
+            3     4:b1    2:4  
+            4     5:b1    4:4  
+            5     6:a1    5:6  
+            6     7:a1    5:3  
+            7     8:b1    6:2  
+            8     9:b1    7:2  
+            9    10:b1    8:4  
+            10   11:b1    9:4  
+///

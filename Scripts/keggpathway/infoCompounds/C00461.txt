@@ -1,0 +1,55 @@
+ENTRY       C00461                      Compound
+NAME        Chitin;
+            beta-1,4-Poly-N-acetyl-D-glucosamine;
+            [1,4-(N-Acetyl-beta-D-glucosaminyl)]n;
+            [1,4-(N-Acetyl-beta-D-glucosaminyl)]n+1
+FORMULA     (C8H13NO5)n
+REMARK      Same as: G10483
+REACTION    R01206 R02333 R02334 R02335 R11660
+PATHWAY     map00520  Amino sugar and nucleotide sugar metabolism
+            map01100  Metabolic pathways
+ENZYME      1.14.99.53      2.4.1.16        3.2.1.14        3.5.1.41
+DBLINKS     CAS: 1398-61-4
+            PubChem: 3745
+            ChEBI: 17029
+            NIKKAJI: J209.135F
+ATOM        16
+            1   C1y C    17.7100  -15.8200
+            2   C1y C    17.7100  -17.2200
+            3   C1y C    18.9224  -17.9200
+            4   C1y C    20.1349  -17.2200
+            5   C1x C    20.1349  -15.8200
+            6   O2x O    18.9224  -15.1200
+            7   C1b C    16.4976  -15.1200
+            8   O1a O    15.3021  -15.8104
+            9   O1a O    16.4976  -17.9200
+            10  N1b N    21.3660  -17.9310
+            11  O1a O    18.9224  -19.3198
+            12  Z   *    23.4660  -13.7090
+            13  Z   *    13.5576  -17.9200
+            14  C5a C    22.5712  -17.2353
+            15  C1a C    23.7535  -17.9181
+            16  O5a O    22.5717  -15.8204
+BOND        16
+            1     1   2 1
+            2     2   3 1
+            3     3   4 1
+            4     4   5 1
+            5     5   6 1
+            6     1   6 1
+            7     1   7 1 #Up
+            8     7   8 1
+            9     2   9 1 #Down
+            10    4  10 1 #Down
+            11    3  11 1 #Up
+            12    5  12 1 #Up
+            13    9  13 1
+            14   10  14 1
+            15   14  15 1
+            16   14  16 2
+BRACKET     1    15.4700  -19.0400   15.4700  -17.1500
+            1    22.2600  -13.0900   22.2600  -15.0500
+            1  n
+  ORIGINAL  1    1   2   3   4   5   6   7   8   9  10  11  14  15  16
+  REPEAT    1 
+///

@@ -1,0 +1,38 @@
+ENTRY       G10598                      Glycan
+COMPOSITION (Glc)1 (GlcNAc)2 (Man)9 (PP-Dol)1
+MASS        2027.8 (PP-Dol)
+REACTION    R06262 R06263
+PATHWAY     map00510  N-Glycan biosynthesis
+            map01100  Metabolic pathways
+MODULE      M00055  N-glycan precursor biosynthesis
+ENZYME      2.4.1.265       2.4.1.267
+DBLINKS     GlyTouCan: G24620AI
+            JCGGDB: JCGG-STR000072
+NODE        13
+            1   PP-Dol     27    -2
+            2   GlcNAc     18    -2
+            3   GlcNAc     10    -2
+            4   Man         1    -2
+            5   Man        -6     4
+            6   Man        -6    -9
+            7   Man       -13     9
+            8   Man       -13     0
+            9   Man       -13    -9
+            10  Man       -20     9
+            11  Man       -20     0
+            12  Man       -20    -9
+            13  Glc       -27    -9
+EDGE        12
+            1     2:a1    1    
+            2     3:b1    2:4  
+            3     4:b1    3:4  
+            4     5:a1    4:6  
+            5     6:a1    4:3  
+            6     7:a1    5:6  
+            7     8:a1    5:3  
+            8     9:a1    6:2  
+            9    10:a1    7:2  
+            10   11:a1    8:2  
+            11   12:a1    9:2  
+            12   13:a1   12:3  
+///

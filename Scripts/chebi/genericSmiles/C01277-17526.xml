@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<TABLE>
+<ENTRY>
+<ID>CHEBI:17526</ID>
+<NAME>1-phosphatidyl-1D-myo-inositol 4-phosphate</NAME>
+<DEFINITION>A phosphatidylinositol 4-phosphate having 1D-myo-configuration.</DEFINITION>
+<STAR>3</STAR>
+<SECONDARY_ID>CHEBI:675</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:11289</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:19085</SECONDARY_ID>
+<SYNONYM>PtdIns4P</SYNONYM>
+<SYNONYM>PtdIns-4-P</SYNONYM>
+<SYNONYM>Phosphatidylinositol 4-phosphate</SYNONYM>
+<SYNONYM>1-Phosphatidyl-1D-myo-inositol 4-phosphate</SYNONYM>
+<SYNONYM>1-phosphatidyl-1D-myo-inositol 4-monophosphate</SYNONYM>
+<SYNONYM>1,2-Diacyl-sn-glycero-3-phospho-(1'-myo-inositol-4'-phosphate)</SYNONYM>
+<IUPAC_NAME>1-O-(3-sn-phosphatidyl)-1D-myo-inositol 4-(dihydrogen phosphate)</IUPAC_NAME>
+<FORMULA>C11H18O16P2R2</FORMULA>
+<MASS>468.19850</MASS>
+<MONOISOTOPIC_MASS>468.007</MONOISOTOPIC_MASS>
+<CHARGE>0</CHARGE>
+<SMILES>[H][C@@](COC([*])=O)(COP(O)(=O)O[C@@H]1[C@H](O)[C@H](O)[C@@H](OP(O)(O)=O)[C@H](O)[C@H]1O)OC([*])=O</SMILES>
+<KEGG_COMPOUND_ACCESSION>C01277</KEGG_COMPOUND_ACCESSION>
+</ENTRY>
+</TABLE>

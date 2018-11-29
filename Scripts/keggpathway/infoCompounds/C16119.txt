@@ -1,0 +1,18 @@
+ENTRY       C16119                      Compound
+NAME        Vasoactive intestinal peptide;
+            VIP
+SEQUENCE    His Ser Asp Ala Val Phe Thr Asp Asn Tyr Thr Arg Leu Arg Lys Gln
+            Met Ala Val Lys Lys Tyr Leu Asn Ser Ile Leu Asn-NH2
+  ORGANISM  Human [HSA:7432] [UP:VIP_HUMAN]
+  TYPE      Peptide
+PATHWAY     map04024  cAMP signaling pathway
+            map04080  Neuroactive ligand-receptor interaction
+BRITE       Bioactive peptides [BR:br08005]
+             Non-endocrine glands secretion peptides
+              Gut peptide
+               C16119  Vasoactive intestinal peptide
+DBLINKS     CAS: 37221-79-7
+            PubChem: 47205429
+            ChEBI: 80331
+            NIKKAJI: J263.856H
+///

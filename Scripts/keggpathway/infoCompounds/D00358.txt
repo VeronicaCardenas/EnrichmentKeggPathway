@@ -1,0 +1,296 @@
+ENTRY       D00358                      Drug
+NAME        Lidocaine (JP17/USP/INN);
+            Dentipatch (TN);
+            Xylocaine (TN)
+PRODUCT     LIDODERM (Aidarex Pharmaceuticals LLC) 67a10009-085a-4d45-89bb-36907bfc0f63
+            LIDODERM (Bryant Ranch Prepack) 165845cf-c59c-4dbe-af8f-ecb92a1fcdc6
+            LIDOCAINE (DIRECT RX) 2f1e77e1-86b6-635e-e054-00144ff88e88
+            LIDODERM (Dispensing Solutions) 55be87b4-a69b-4bfd-bf92-2949ec5e5dab
+            LIDODERM (Endo Pharmaceuticals) f1c40164-4626-4290-9012-c00e33420a33
+            LIDODERM (H.J. Harkins Company) 7e7e03ba-5035-4e6d-9aa0-a00c8d3e0d87
+            LIDODERM (Physicians Total Care) 5ffefcdc-ebfa-4dc8-b484-719658da9d6d
+            LIDODERM (Rebel Distributors Corp.) 18e420b9-0fd1-48d9-9a23-c1e29a5f629f
+            LIDODERM (STAT RX USA LLC) 7ab30afe-4de2-4fe5-9e62-a484683fb93f
+            LIDODERM (STAT Rx USA LLC) 4e45cd6c-a777-4100-943b-985058bff75a
+            LIDODERM 5 (St Marys Medical Park Pharmacy) 22e92e0a-77ad-4128-8ea9-28766297026a
+            LIDODERM (Unit Dose Services) d499efc5-8bc3-4dbc-9d85-fae57dd9263c
+            LIDODERM (Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC) 09be2cbc-73bf-4894-add6-10e46c4471c9
+  GENERIC   LIDOCAINE (Actavis Pharma) 4d04052c-3e0a-469a-9265-99604f13e507
+            LIDOCAINE (Actavis Pharma) c18799cd-9e11-4196-9ab1-0a2a84585e56
+            LIDOCAINE (Aidarex Pharmaceuticals LLC) 2583149a-9efd-418d-89eb-c439b8752d26
+            LIDOCAINE (Aidarex Pharmaceuticals LLC) 670287ac-9d8d-4514-b433-4adcca2d915a
+            LIDOCAINE (Amneal Pharmaceuticals LLC) d1509740-f9f1-44e3-8fde-51d8683fcd87
+            LIDOCAINE (Ascend Laboratories) e2748dfb-bffe-47a8-a886-853d0f7c910a
+            LIDOCAINE (AvKARE) 37ce4a6b-fd0d-8800-4e94-1ed65f6d4361
+            LIDOCAINE (AvKARE) 42abc81b-668f-7ec4-f37f-bdc5ac43465d
+            LIDOCAINE (Bryant Ranch Prepack) 4e856dd5-f2fa-4acb-a205-f87baf26b8cc
+            LIDOCAINE (Bryant Ranch Prepack) 6d7fdc43-e493-449e-9af6-825e584b547a
+            LIDOCAINE (Cardinal Health) eb808fdf-0420-45e9-ad17-8380d49d5c21
+            LIDOCAINE (Cardinal Health) fa69dfdf-ab73-48a9-944d-25e88d7766df
+            LIDOCAINE (DIRECT RX) 8112b45f-b6b3-4c68-bbd0-4a6d65d73bbe
+            LIDOCAINE (E. Fougera & Co. a division of Fougera Pharmaceuticals) 88ca9cba-0c4a-482f-b502-ceefdb1bfbcd
+            LIDOCAINE (Gemini Laboratories) 2dc8a3a2-380b-5219-e054-00144ff88e88
+            LIDOCAINE (Glenmark Pharmaceuticals) eaa15be7-11ea-49bc-ac07-739075453be6
+            LIDOCAINE (Hi-Tech Pharmacal) f130a654-ee3b-4daa-8dc6-8f514edf75a1
+            LIDOCAINE (IPG PHARMACEUTICALS) 6fa78380-99ac-4db0-9634-7eb849c6852e
+            LIDOCAINE (IPG Pharmaceuticals) a2e56162-2d2f-434c-8581-c7b3f68192b6
+            LIDOCAINE (Ingenus Pharmaceuticals) c8fdd304-af9e-4f43-8798-7366000a06d1
+            LIDOCAINE (Lake Erie Medical DBA Quality Care Products LLC) 0463d73a-f336-4e6d-81ea-c0321e1a52f5
+            LIDOCAINE (Lake Erie Medical DBA Quality Care Products LLC) 42626da9-8117-4f95-8b3d-f675e0affb43
+            LIDOCAINE (Lake Erie Medical DBA Quality Care Products LLC) 6b9ba38c-7df4-4e95-814e-c58d99ccae17
+            LIDOCAINE (Lake Erie Medical DBA Quality Care Products LLC) c1444ba1-fd4e-489f-a712-b84b1642e1e3
+            LIDOCAINE (Lake Erie Medical DBA Quality Care Products LLC) f20ab860-e49a-4f3f-868e-6a60780af5a7
+            LIDOCAINE (Liberty Pharmaceuticals) 7e81c577-5a08-4c97-93e1-7a05c2f7c237
+            LIDOCAINE (Mylan Pharmaceuticals) 5c66f3b9-6e04-47ab-8d94-21e89ceec154
+            LIDOCAINE (Novocol) c66b3509-c670-4124-86ac-da313958aabd
+            LIDOCAINE (Pharmaceutica North America) 22693fd1-f831-49af-a389-26504e5db2eb
+            LIDOCAINE (Pharmaceutica North America) 327c573b-27b3-694d-e054-00144ff88e88
+            LIDOCAINE (Preferred Pharmaceuticals) 1f6e2cff-e6fe-4958-9043-2ca6bdf5e2be
+            LIDOCAINE (Preferred Pharmaceuticals) 3d30e6d2-75af-4bd3-83a6-a657585bc90e
+            LIDOCAINE (Preferred Pharmaceuticals) 4380d23a-5467-457d-943b-56a8cb6ca1a6
+            LIDOCAINE (Preferred Pharmaceuticals) 4806f94d-cbac-4107-b93b-8f715868ffb3
+            LIDOCAINE (Preferred Pharmaceuticals) 8819365a-d1e8-4966-b83a-4ec472c5158c
+            LIDOCAINE (Preferred Pharmaceuticals) b522f1d0-045a-4e9c-9de9-87190503ea89
+            LIDOCAINE (Preferred Pharmaceuticals) bc70bb9f-38c2-4a4a-9401-8ed11db413d9
+            LIDOCAINE (Preferred Pharmaceuticals) cebbdd68-a913-4b64-940e-9d99b17acbcd
+            LIDOCAINE (Proficient Rx LP) 2996f29c-880f-425a-9fdf-d2b3b5f62308
+            LIDOCAINE (PureTek Corporation) 85e72943-6989-42f4-b519-a3ebbf4bc777
+            LIDOCAINE (Qualitest Pharmaceuticals) 2ce8a4fe-8aa6-4dc5-ad0f-3984ae68c4bc
+            LIDOCAINE (REMEDYREPACK) 94ab1b99-e203-4a14-b852-42d3b37999c3
+            LIDOCAINE (Rebel Distributors Corp) a1e2c14f-0682-4b19-9159-de0aca1960c6
+            LIDOCAINE (Septodont) 82a4c16f-d47e-479f-8f85-7d1be6fc2318
+            LIDOPAC (Sterling-Knight Pharmaceuticals) b6ed830e-6548-4918-915f-c858d831e953
+            LIDOCAINE (Sterling-Knight Pharmaceuticals) fbfd0cc7-2038-496b-b9ca-f3327f38bde7
+            LIDOCAINE (Taro Pharmaceuticals U.S.A.) 5eb2c62f-5352-41d7-bd66-c65b1988a9ab
+            LIDOCAINE (Taro Pharmaceuticals U.S.A.) ae758020-a508-4a2e-8164-e6c324e826a3
+            LIDOCAINE (Teligent Pharma) 12639881-632d-445d-9ff5-b84567f49179
+            LIDOCAINE (Unit Dose Services) 03bd61bf-85a7-4963-8f06-57fd6d48a4e8
+            LIDOCAINE (Unit Dose Services) 20b8df6b-34d3-468c-9726-39fe947da274
+            LIDOCAINE HYDROCHLORIDE (Unit Dose Services) 10435379-1bb2-4023-98a7-ee4f28d620fd
+            LIDOCAINE (Solubiomix) a18d2e07-fe58-4641-b03b-d9d56642f13c
+  OTHER     LIDOCAINE HYDROCHLORIDE (Aidarex Pharmaceuticals LLC) 95ae61d8-d9a2-4e50-9065-c0cb97b95743
+            PREMIUM LIDOCAINE 5% EXTRA (Alivio Medical Products) a7fd037b-28b2-4431-85e6-958b7ce49b78
+            ASTERO (All Pharma) 832b0d7b-5610-4382-a88a-6d0a1f81a9ff
+            BIO-SCRIPTIVES LIDUM TOPICAL ANALGESIC (Bio-Scriptives) a19bb9cc-b20b-4a15-9c82-dd2544cb252d
+            ASTERO (Gensco Laboratories) 61ad536b-f333-4dc1-8b6e-1ebb1feb2a30
+            LIDOCAINE HYDROCHLORIDE (Gensco Laboratories) 88dbd438-02c0-481a-bdb7-8b3f3c41fd46
+            LIDO RX (Gensco Laboratories) 909baba8-9656-4769-97cf-b642982c3c9f
+            LIDOCAINE HYDROCHLORIDE (Lake Erie Medical DBA Quality Care Products LLC) 4a4f6692-779b-4216-b3fb-3f961d5c80ed
+            LIDOCAINE HYDROCHLORIDE (Lake Erie Medical DBA Quality Care Products LLC) 60afd3bd-4e0b-4d2f-807b-4f872147d527
+            LIDOCAINE (MARTIN EKWEALOR PHARMACEUTICALS) 3ea9b7ae-b05a-4415-a451-05763b3c6ffd
+            TRANZAREL (Taleos Pharma) 23a36261-98dc-40c9-9adf-99a43b6a9ddc
+            LIDOCAINE (Two Hip Consulting) d5e2e8c0-48b3-4666-95a2-d9aef29f1a1c
+            LIDOCAINE HYDROCHLORIDE (Unit Dose Services) 668477b0-2ab7-4b7d-be37-d4394799cd1c
+FORMULA     C14H22N2O
+EXACT_MASS  234.1732
+MOL_WEIGHT  234.3373
+CLASS       Cardiovascular agent
+             DG01653  Antiarrhythmics
+              DG01652  Class I antiarrhythmic agent
+               DG01651  Class Ib antiarrhythmic agent
+            Neuropsychiatric agent
+             DG02030  Anesthetics
+              DG01675  Local anesthetic
+               DG01673  Amide type local anesthetic
+             DG01675  Local anesthetic
+              DG01673  Amide type local anesthetic
+            Cyp substrate
+             DG01892  CYP1A2 substrate
+             DG01644  CYP2D6 substrate
+             DG01633  CYP3A substrate
+REMARK      Same as: C07073
+            Therapeutic category: 1214
+            ATC code: C01BB01 C05AD01 D04AB01 N01BB02 R02AD02 S01HA07 S02DA01
+            Chemical group: DG00196
+ACTIVITY    Anesthetic (topical), Antiarrhythmic, Sodium channel blocker
+COMMENT     Class I antiarrhythmic agent (Ib)
+            Anilide derivative
+TARGET      SCN1A [HSA:6323] [KO:K04833];
+            SCN2A [HSA:6326] [KO:K04834];
+            SCN3A [HSA:6328] [KO:K04836];
+            SCN4A [HSA:6329] [KO:K04837];
+            SCN5A [HSA:6331] [KO:K04838];
+            SCN8A [HSA:6334] [KO:K04840];
+            SCN9A [HSA:6335] [KO:K04841];
+            SCN10A [HSA:6336] [KO:K04842];
+            SCN11A [HSA:11280] [KO:K04843]
+METABOLISM  Enzyme: CYP1A2 [HSA:1544], CYP3A4 [HSA:1576], CYP2D6 [HSA:1565]
+            Transporter: SLC22A3 [HSA:6581]
+INTERACTION  
+STR_MAP     map07037  Antiarrhythmic drugs
+            map07231  Sodium channel blocking drugs
+OTHER_MAP   map00982  Drug metabolism - cytochrome P450
+BRITE       Anatomical Therapeutic Chemical (ATC) classification [BR:br08303]
+             C CARDIOVASCULAR SYSTEM
+              C01 CARDIAC THERAPY
+               C01B ANTIARRHYTHMICS, CLASS I AND III
+                C01BB Antiarrhythmics, class Ib
+                 C01BB01 Lidocaine
+                  D00358  Lidocaine (JP17/USP/INN)
+              C05 VASOPROTECTIVES
+               C05A AGENTS FOR TREATMENT OF HEMORRHOIDS AND ANAL FISSURES FOR TOPICAL USE
+                C05AD Local anesthetics
+                 C05AD01 Lidocaine
+                  D00358  Lidocaine (JP17/USP/INN)
+             D DERMATOLOGICALS
+              D04 ANTIPRURITICS, INCL. ANTIHISTAMINES, ANESTHETICS, ETC.
+               D04A ANTIPRURITICS, INCL. ANTIHISTAMINES, ANESTHETICS, ETC.
+                D04AB Anesthetics for topical use
+                 D04AB01 Lidocaine
+                  D00358  Lidocaine (JP17/USP/INN)
+             N NERVOUS SYSTEM
+              N01 ANESTHETICS
+               N01B ANESTHETICS, LOCAL
+                N01BB Amides
+                 N01BB02 Lidocaine
+                  D00358  Lidocaine (JP17/USP/INN)
+             R RESPIRATORY SYSTEM
+              R02 THROAT PREPARATIONS
+               R02A THROAT PREPARATIONS
+                R02AD Anesthetics, local
+                 R02AD02 Lidocaine
+                  D00358  Lidocaine (JP17/USP/INN)
+             S SENSORY ORGANS
+              S01 OPHTHALMOLOGICALS
+               S01H LOCAL ANESTHETICS
+                S01HA Local anesthetics
+                 S01HA07 Lidocaine
+                  D00358  Lidocaine (JP17/USP/INN)
+              S02 OTOLOGICALS
+               S02D OTHER OTOLOGICALS
+                S02DA Analgesics and anesthetics
+                 S02DA01 Lidocaine
+                  D00358  Lidocaine (JP17/USP/INN)
+            USP drug classification [BR:br08302]
+             Anesthetics
+              Local Anesthetics
+               Lidocaine
+                D00358  Lidocaine (JP17/USP/INN)
+            Therapeutic category of drugs in Japan [BR:br08301]
+             1  Agents affecting nervous system and sensory organs
+              12  Agents affecting peripheral nervous system
+               121  Local anesthetics
+                1214  Xylidines
+                 D00358  Lidocaine (JP17/USP/INN)
+            Classification of Japanese OTC drugs [BR:br08313]
+             Agents for  urogenital organs and anus
+              30 Hemorrhoid drugs for external use
+               D00358  Lidocaine (JP17/USP/INN)
+             Agents for integumentary system
+              57 Analgesic, antipruritic, astringent, and anti-inflammatory remedies (incl. gel patches)
+               D00358  Lidocaine (JP17/USP/INN)
+            Risk category of Japanese OTC drugs [BR:br08312]
+             Second-class OTC drugs
+              Inorganic and organic chemicals
+               Lidocaine
+                D00358  Lidocaine (JP17/USP/INN)
+            Pharmaceutical additives in Japan [BR:br08316]
+             Soothing agent
+              D00358  [001667] Lidocaine
+             Solubilizer
+              D00358  [001667] Lidocaine
+             Solubilization agent
+              D00358  [001667] Lidocaine
+             Solvent
+              D00358  [001667] Lidocaine
+            Target-based classification of drugs [BR:br08310]
+             Ion channels
+              Voltage-gated cation channels
+               Na+ channel, SCN alpha, NaV1.x
+                voltage-gated sodium channel (SCN1A)
+                 Lidocaine
+                  D00358  Lidocaine (JP17/USP/INN)
+                voltage-gated sodium channel (SCN2A)
+                 Lidocaine
+                  D00358  Lidocaine (JP17/USP/INN)
+                voltage-gated sodium channel (SCN3A)
+                 Lidocaine
+                  D00358  Lidocaine (JP17/USP/INN)
+                voltage-gated sodium channel (SCN4A)
+                 Lidocaine
+                  D00358  Lidocaine (JP17/USP/INN)
+                voltage-gated sodium channel (SCN5A)
+                 Lidocaine
+                  D00358  Lidocaine (JP17/USP/INN)
+                voltage-gated sodium channel (SCN8A)
+                 Lidocaine
+                  D00358  Lidocaine (JP17/USP/INN)
+                voltage-gated sodium channel (SCN9A)
+                 Lidocaine
+                  D00358  Lidocaine (JP17/USP/INN)
+                voltage-gated sodium channel (SCN10A)
+                 Lidocaine
+                  D00358  Lidocaine (JP17/USP/INN)
+                voltage-gated sodium channel (SCN11A)
+                 Lidocaine
+                  D00358  Lidocaine (JP17/USP/INN)
+            Cytochrome P450 interactions [BR:br08309]
+             CYP substrates
+              CYP1A2
+               Lidocaine
+                D00358  Lidocaine (JP17/USP/INN)
+              CYP2D6
+               Lidocaine
+                D00358  Lidocaine (JP17/USP/INN)
+              CYP3A4
+               Lidocaine
+                D00358  Lidocaine (JP17/USP/INN)
+             Transporter substrates
+              SLC22A3
+               Lidocaine
+                D00358  Lidocaine (JP17/USP/INN)
+            Drugs listed in the Japanese Pharmacopoeia [BR:br08311]
+             Chemicals
+              D00358  Lidocaine
+              D00358  Lidocaine injection
+            Anesthetics, analgesics and anti-inflammatory drugs [br08369.html]
+             Anesthetics
+              D00358
+            Orphan drugs in the USA [br08355.html]
+             Orphan drugs in the USA
+              D00358
+DBLINKS     CAS: 137-58-6
+            PubChem: 7847424
+            ChEBI: 6456
+            ChEMBL: CHEMBL79
+            DrugBank: DB00281
+            PDB-CCD: LQZ
+            LigandBox: D00358
+            NIKKAJI: J5.631F
+ATOM        17
+            1   C8y C    23.2602  -19.0646
+            2   N1b N    24.4935  -19.7778
+            3   C8y C    22.0325  -19.7836
+            4   C8y C    23.2602  -17.6441
+            5   C5a C    25.7213  -19.0587
+            6   C8x C    20.8049  -19.0646
+            7   C1a C    22.0384  -21.1983
+            8   C8x C    22.0325  -16.9367
+            9   C1a C    24.4818  -16.9367
+            10  C1b C    26.9488  -19.7778
+            11  O5a O    25.7096  -17.6332
+            12  C8x C    20.8049  -17.6441
+            13  N1c N    28.1823  -19.0587
+            14  C1b C    29.4158  -19.7778
+            15  C1b C    28.1823  -17.6441
+            16  C1a C    30.6317  -19.0587
+            17  C1a C    29.4158  -16.9309
+BOND        17
+            1     1   2 1
+            2     1   3 2
+            3     1   4 1
+            4     2   5 1
+            5     3   6 1
+            6     3   7 1
+            7     4   8 2
+            8     4   9 1
+            9     5  10 1
+            10    5  11 2
+            11    6  12 2
+            12   10  13 1
+            13   13  14 1
+            14   13  15 1
+            15   14  16 1
+            16   15  17 1
+            17    8  12 1
+///

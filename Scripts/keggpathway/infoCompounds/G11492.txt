@@ -1,0 +1,29 @@
+ENTRY       G11492                      Glycan
+NAME        IV4-alpha-Gal-Gb4Cer;
+            NOR1 antigen
+COMPOSITION (Gal)3 (GalNAc)1 (Glc)1 (Cer)1
+MASS        851.8 (Cer)
+REACTION    R11376 R11379
+PATHWAY     map00603  Glycosphingolipid biosynthesis - globo and isoglobo series
+            map01100  Metabolic pathways
+ENZYME      2.4.1.79        2.4.1.228
+REFERENCE   1  [PMID:11504714]
+            Duk M, Reinhold BB, Reinhold VN, Kusnierz-Alejska G, Lisowska E.
+            Structure of a neutral glycosphingolipid recognized by human antibodies in polyagglutinable erythrocytes from the rare NOR phenotype.
+            J. Biol. Chem. 276 (2001) 40574-82.
+DBLINKS     GlyTouCan: G33020YH
+            JCGGDB: JCGG-STR015591
+NODE        6
+            1   Cer      18.5  -0.4
+            2   Glc      11.5  -0.4
+            3   Gal       4.5  -0.4
+            4   Gal      -2.5  -0.4
+            5   GalNAc  -10.5  -0.4
+            6   Gal     -18.5  -0.4
+EDGE        5
+            1     2:b1    1:1  
+            2     3:b1    2:4  
+            3     4:a1    3:4  
+            4     5:b1    4:3  
+            5     6:a1    5:4  
+///

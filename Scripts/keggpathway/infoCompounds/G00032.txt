@@ -1,0 +1,19 @@
+ENTRY       G00032                      Glycan
+COMPOSITION (Gal)1 (GalNAc)1 (GlcNAc)1 (Ser/Thr)1
+MASS        568.5 (Ser/Thr)
+REACTION    R07628
+PATHWAY     map00512  Mucin type O-glycan biosynthesis
+ENZYME      2.4.1.-
+DBLINKS     CCSD: 34109 48890
+            GlyTouCan: G61730RY
+            JCGGDB: JCGG-STR026712
+NODE        4
+            1   Ser/Thr    14     0
+            2   GalNAc      5     0
+            3   GlcNAc     -5     0
+            4   Gal       -14     0
+EDGE        3
+            1     2:a1    1    
+            2     3:b1    2:6  
+            3     4:b1    3:4  
+///

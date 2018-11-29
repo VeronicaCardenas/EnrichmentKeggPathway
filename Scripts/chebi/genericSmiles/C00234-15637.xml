@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TABLE>
+<ENTRY>
+<ID>CHEBI:15637</ID>
+<NAME>10-formyltetrahydrofolic acid</NAME>
+<DEFINITION>A form of tetrahydrofolate that acts as a donor of formyl groups in anabolism. In these reactions 10-formyltetrahydrofolic acid is used as a substrate in formyltransferase reactions, which is important in purine biosynthesis.</DEFINITION>
+<STAR>3</STAR>
+<SECONDARY_ID>CHEBI:698</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:11304</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:19108</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:19109</SECONDARY_ID>
+<SYNONYM>N-(10-formyl-5,6,7,8-tetrahydropteroyl)-L-glutamic acid</SYNONYM>
+<SYNONYM>10-FTHF</SYNONYM>
+<SYNONYM>10-formyltetrahydropteroylglutamic acid</SYNONYM>
+<SYNONYM>10-formyltetrahydrofolic acid</SYNONYM>
+<SYNONYM>10-Formyltetrahydrofolate</SYNONYM>
+<SYNONYM>10-Formyl-THF</SYNONYM>
+<SYNONYM>(6S)-10-HCO-H4folate</SYNONYM>
+<IUPAC_NAME>N-[4-(N-{[(6S)-2-amino-4-oxo-3,4,5,6,7,8-hexahydropteridin-6-yl]methyl}formamido)benzoyl]-L-glutamic acid</IUPAC_NAME>
+<FORMULA>C20H23N7O7</FORMULA>
+<MASS>473.43960</MASS>
+<MONOISOTOPIC_MASS>473.166</MONOISOTOPIC_MASS>
+<CHARGE>0</CHARGE>
+<SMILES>[H]C(=O)N(C[C@H]1CNc2nc(N)[nH]c(=O)c2N1)c1ccc(cc1)C(=O)N[C@@H](CCC(O)=O)C(O)=O</SMILES>
+<INCHI>InChI=1S/C20H23N7O7/c21-20-25-16-15(18(32)26-20)23-11(7-22-16)8-27(9-28)12-3-1-10(2-4-12)17(31)24-13(19(33)34)5-6-14(29)30/h1-4,9,11,13,23H,5-8H2,(H,24,31)(H,29,30)(H,33,34)(H4,21,22,25,26,32)/t11-,13+/m1/s1</INCHI>
+<INCHIKEY>AUFGTPPARQZWDO-YPMHNXCESA-N</INCHIKEY>
+<BEILSTEIN_REGISTRY_NUMBER>101559</BEILSTEIN_REGISTRY_NUMBER>
+<CAS_REGISTRY_NUMBER>2800-34-2</CAS_REGISTRY_NUMBER>
+<CHEMIDPLUS>2800-34-2</CHEMIDPLUS>
+<KEGG_COMPOUND_ACCESSION>C00234</KEGG_COMPOUND_ACCESSION>
+<KNAPSACK_ACCESSION>C00007251</KNAPSACK_ACCESSION>
+</ENTRY>
+</TABLE>

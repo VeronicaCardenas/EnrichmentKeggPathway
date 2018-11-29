@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<TABLE>
+<ENTRY>
+<ID>CHEBI:17448</ID>
+<NAME>methanofuran</NAME>
+<STAR>3</STAR>
+<SECONDARY_ID>CHEBI:6815</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:14587</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:25226</SECONDARY_ID>
+<SYNONYM>Methanofuran</SYNONYM>
+<SYNONYM>L-Glutamine, N-(2-(4-((5-(aminomethyl)-3-furanyl)methoxy)phenyl)ethyl)-N2-(N-(4,5,7-tricarboxy-1-oxoheptyl)-L-gamma-glutamyl)-</SYNONYM>
+<SYNONYM>Cdr factor</SYNONYM>
+<SYNONYM>Carbon dioxide reduction factor</SYNONYM>
+<SYNONYM>4-[N-(4,5,7-tricarboxyheptanoyl)-gamma-L-glutamyl-gamma-L-glutamyl-4-(2-aminoethyl)phenoxymethyl]-2-(aminomethyl)furan</SYNONYM>
+<IUPAC_NAME>N(2)-[rel-(4R,5S)-4,5,7-tricarboxyheptanoyl]-L-gamma-glutamyl-N(5)-[2-(4-{[5-(aminomethyl)-3-furyl]methoxy}phenyl)ethyl]-L-glutamine</IUPAC_NAME>
+<FORMULA>C34H44N4O15</FORMULA>
+<MASS>748.73112</MASS>
+<MONOISOTOPIC_MASS>748.280</MONOISOTOPIC_MASS>
+<CHARGE>0</CHARGE>
+<SMILES>NCc1cc(COc2ccc(CCNC(=O)CC[C@H](NC(=O)CC[C@H](NC(=O)CC[C@@H]([C@@H](CCC(O)=O)C(O)=O)C(O)=O)C(O)=O)C(O)=O)cc2)co1</SMILES>
+<INCHI>InChI=1S/C34H44N4O15/c35-16-22-15-20(18-53-22)17-52-21-3-1-19(2-4-21)13-14-36-27(39)10-7-25(33(48)49)38-29(41)11-8-26(34(50)51)37-28(40)9-5-23(31(44)45)24(32(46)47)6-12-30(42)43/h1-4,15,18,23-26H,5-14,16-17,35H2,(H,36,39)(H,37,40)(H,38,41)(H,42,43)(H,44,45)(H,46,47)(H,48,49)(H,50,51)/t23-,24+,25-,26-/m0/s1</INCHI>
+<INCHIKEY>CKRUWFDORAQSRC-QYOOZWMWSA-N</INCHIKEY>
+<CAS_REGISTRY_NUMBER>89873-36-9</CAS_REGISTRY_NUMBER>
+<CHEMIDPLUS>89873-36-9</CHEMIDPLUS>
+<KEGG_COMPOUND_ACCESSION>C00862</KEGG_COMPOUND_ACCESSION>
+</ENTRY>
+</TABLE>

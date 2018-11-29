@@ -1,0 +1,36 @@
+ENTRY       G00124                      Glycan
+NAME        GA1
+COMPOSITION (Gal)2 (GalNAc)1 (Glc)1 (Cer)1
+MASS        689.6 (Cer)
+REMARK      Same as: C06136
+REACTION    R05956 R05957 R05994 R06003
+PATHWAY     map00604  Glycosphingolipid biosynthesis - ganglio series
+            map01100  Metabolic pathways
+ENZYME      2.4.1.62        2.4.99.4        2.4.99.9        3.2.1.23
+ORTHOLOGY   K00715  ganglioside galactosyltransferase [EC:2.4.1.62]
+            K03368  beta-galactoside alpha-2,3-sialyltransferase (sialyltransferase 4B) [EC:2.4.99.4]
+BRITE       Lipids [BR:br08002]
+             SP  Sphingolipids
+              SP05 Neutral glycosphingolipids
+               SP0503 GalNAcb1-4Galb1-4Glc- (Ganglio series)
+                G00124  Gal-beta1->3GalNAc-beta1->4LacCer (GA1)
+REFERENCE   1  [PMID:2430018]
+            Umeda M, Diego I, Marcus DM.
+            The occurrence of anti-3-fucosyllactosamine antibodies and their cross-reactive idiotopes in preimmune and immune mouse sera.
+            J. Immunol. 137 (1986) 3264-9.
+DBLINKS     CCSD: 199 2490 4653 5219 6253 6903 8267 9905 10559 11332 11655 11803 12375 14413 14870 14908 15900 15928 16346 16358 16971 17025 17030 17682 17706 18315 18523 18557 18900 18934 19345 19356 20466 22220 22223 22225 22289 22586 23879 24083 24126 24768 24991 25277 25320 25328 25523 25543 25579 25881 25899 25910 26275 26604 26737 27237 27325 27392 27527 27917 28339 28350 28498 28528 28557 29003 29180 29569 29954 30084 30638 30874 30929 31604 31658 32597 32681 32742 32770 32886 33626 33675 33712 33729 33897 33932 33955 34731 34744 34757 34882 34883 34974 35121 35224 35295 35419 35432 35437 35444 35516 35599 35921 36001 36159 36582 36593 36644 37066 37092 37152 37169 37210 37248 37273 37336 37518 37550 38061 38157 38254 39384 39431 39522 41242 41907 42201 42670 42912 42917 42957 43345 43439 43490 44039 44066 44225 44752 44959 45253 45263 46042 46050 46172 46195 46200 46837 47335 47369 47392 47405 47419 48201 48215 48367 48577 49328 50188 50222 50455
+            GlyTouCan: G21856LC
+            JCGGDB: JCGG-STR027464
+            LipidBank: GSG1156
+NODE        5
+            1   Cer        18     0
+            2   Glc        10     0
+            3   Gal         2     0
+            4   GalNAc     -7     0
+            5   Gal       -18     0
+EDGE        4
+            1     2:b1    1:1  
+            2     3:b1    2:4  
+            3     4:b1    3:4  
+            4     5:b1    4:3  
+///

@@ -1,0 +1,42 @@
+ENTRY       G00012                      Glycan
+COMPOSITION (GlcNAc)2 (Man)5 (Asn)1
+MASS        1217.1 (Asn)
+REACTION    R05982 R05983
+PATHWAY     map00510  N-Glycan biosynthesis
+            map00513  Various types of N-glycan biosynthesis
+            map01100  Metabolic pathways
+            map04141  Protein processing in endoplasmic reticulum
+MODULE      M00073  N-glycan precursor trimming
+            M00074  N-glycan biosynthesis, high-mannose type
+ENZYME      2.4.1.101       3.2.1.113
+ORTHOLOGY   K00726  alpha-1,3-mannosyl-glycoprotein beta-1,2-N-acetylglucosaminyltransferase [EC:2.4.1.101]
+            K01230  mannosyl-oligosaccharide alpha-1,2-mannosidase [EC:3.2.1.113]
+REFERENCE   1  [PMID:7592613]
+            Dell A, Morris HR, Easton RL, Panico M, Patankar M, Oehniger S, Koistinen R, Koistinen H, Seppala M, Clark GF.
+            Structural analysis of the oligosaccharides derived from glycodelin, a human glycoprotein with potent immunosuppressive and contraceptive activities.
+            J. Biol. Chem. 270 (1995) 24116-26.
+            2  [PMID:12199704]
+            Ikeda K, Yonezawa N, Naoi K, Katsumata T, Hamano S, Nakano M.
+            Localization of N-linked carbohydrate chains in glycoprotein ZPA of the bovine egg zona pellucida.
+            Eur. J. Biochem. 269 (2002) 4257-66.
+DBLINKS     CCSD: 1401 1416 1418 1419 1421 1422 1423 1424 2780 2783 3832 3833 4347 4633 5053 5964 5985 6016 6220 6221 7531 7532 7533 7534 7536 7537 7538 7539 7540 7541 7542 7543 7544 7547 7548 7549 7551 7552 7553 7554 7555 7556 7557 7558 7559 7560 7561 7562 7563 7564 7565 7566 7567 7568 7569 7570 8524 9021 9837 11439 11854 12343 13814 15704 16827 21760 22017 22615 24629 25195 25487 25613 30787 31281 33051 33560 33973 34642 36232 38413 38458 38694 41429 41471 41482 41786 41788 42023 43562 43664 44910 45832 46669 46712 50778
+            GlyTouCan: G55220VL
+            JCGGDB: JCGG-STR014426
+NODE        8
+            1   Asn        20    -2
+            2   GlcNAc     11    -2
+            3   GlcNAc      2    -2
+            4   Man        -6    -2
+            5   Man       -13     3
+            6   Man       -13    -7
+            7   Man       -20     8
+            8   Man       -20    -2
+EDGE        7
+            1     2:b1    1    
+            2     3:b1    2:4  
+            3     4:b1    3:4  
+            4     5:a1    4:6  
+            5     6:a1    4:3  
+            6     7:a1    5:6  
+            7     8:a1    5:3  
+///

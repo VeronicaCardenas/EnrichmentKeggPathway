@@ -1,0 +1,30 @@
+ENTRY       G00157                      Glycan
+COMPOSITION (Gal)2 (GlcA)1 (Xyl)1 (Ser)1
+MASS        632.5 (Ser)
+REMARK      Same as: C04903
+REACTION    R05928 R05929 R05930
+PATHWAY     map00532  Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+            map00534  Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+            map01100  Metabolic pathways
+MODULE      M00057  Glycosaminoglycan biosynthesis, linkage tetrasaccharide
+            M00058  Glycosaminoglycan biosynthesis, chondroitin sulfate backbone
+            M00059  Glycosaminoglycan biosynthesis, heparan sulfate backbone
+ENZYME      2.4.1.135       2.4.1.174       2.4.1.223
+ORTHOLOGY   K00735  galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1 [EC:2.4.1.135]
+            K02369  alpha-1,4-N-acetylglucosaminyltransferase EXTL2 [EC:2.4.1.223]
+            K02370  alpha-1,4-N-acetylglucosaminyltransferase EXTL3 [EC:2.4.1.223 2.4.1.224]
+DBLINKS     CCSD: 17358 17399 26915 34358 38588 49286
+            GlyTouCan: G14371GV
+            JCGGDB: JCGG-STR027487
+NODE        5
+            1   Ser        14     0
+            2   Xyl         8     0
+            3   Gal         1     0
+            4   Gal        -6     0
+            5   GlcA      -14     0
+EDGE        4
+            1     2:b1    1    
+            2     3:b1    2:4  
+            3     4:b1    3:3  
+            4     5:b1    4:3  
+///

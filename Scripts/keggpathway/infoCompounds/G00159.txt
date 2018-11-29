@@ -1,0 +1,26 @@
+ENTRY       G00159                      Glycan
+COMPOSITION (Gal)2 (GalNAc)1 (GlcA)2 (Xyl)1 (Ser)1
+MASS        1011.8 (Ser)
+REACTION    R05931 R05932
+PATHWAY     map00532  Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+            map01100  Metabolic pathways
+MODULE      M00058  Glycosaminoglycan biosynthesis, chondroitin sulfate backbone
+ENZYME      2.4.1.175       2.4.1.226
+DBLINKS     GlyTouCan: G09318DC
+            JCGGDB: JCGG-STR007926
+NODE        7
+            1   Ser        20     0
+            2   Xyl        14     0
+            3   Gal         8     0
+            4   Gal         2     0
+            5   GlcA       -5     0
+            6   GalNAc    -13     0
+            7   GlcA      -21     0
+EDGE        6
+            1     2:b1    1    
+            2     3:b1    2:4  
+            3     4:b1    3:3  
+            4     5:b1    4:3  
+            5     6:b1    5:4  
+            6     7:b1    6:3  
+///

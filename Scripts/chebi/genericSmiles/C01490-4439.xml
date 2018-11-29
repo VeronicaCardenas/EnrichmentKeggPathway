@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<TABLE>
+<ENTRY>
+<ID>CHEBI:4439</ID>
+<NAME>dermatan</NAME>
+<DEFINITION>A mucopolysaccharide consisting of repeating β-(1→4)-linked L-iduronyl-(β1→3)-N-acetyl-D-galactosamine units.</DEFINITION>
+<STAR>3</STAR>
+<SYNONYM>Dermatan L-iduronate</SYNONYM>
+<SYNONYM>Dermatan</SYNONYM>
+<FORMULA>(C14H21NO11)n</FORMULA>
+<CHARGE>0</CHARGE>
+<KEGG_COMPOUND_ACCESSION>C01490</KEGG_COMPOUND_ACCESSION>
+</ENTRY>
+</T

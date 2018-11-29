@@ -1,0 +1,20 @@
+ENTRY       G00144                      Glycan
+COMPOSITION (GlcN)1 (Ino-P)1
+MASS        161.2 (Ino-P)
+REACTION    R05917 R05918 R06623
+PATHWAY     map00563  Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+            map01100  Metabolic pathways
+MODULE      M00065  GPI-anchor biosynthesis, core oligosaccharide
+ENZYME      2.3.-.-         3.1.4.50        3.5.1.89
+ORTHOLOGY   K01127  glycosylphosphatidylinositol phospholipase D [EC:3.1.4.50]
+            K03434  N-acetylglucosaminylphosphatidylinositol deacetylase [EC:3.5.1.89]
+            K05283  phosphatidylinositol glycan, class W [EC:2.3.-.-]
+DBLINKS     CCSD: 33011 37193 44515 47902 47904 47905 47906 47911
+            GlyTouCan: G94923PG
+            JCGGDB: JCGG-STR025316
+NODE        2
+            1   Ino-P       5     0
+            2   GlcN       -6     0
+EDGE        1
+            1     2:a1    1:6  
+///

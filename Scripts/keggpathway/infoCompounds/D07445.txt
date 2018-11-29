@@ -1,0 +1,76 @@
+ENTRY       D07445                      Drug
+NAME        Amfetamine (INN);
+            Amphetamine;
+            Amfetamin (TN)
+PRODUCT     ADZENYS XR-ODT (Neos Therapeutics) c1179269-00b5-48ea-972d-31e614e99b7e
+            ADZENYS ER (Neos Therapeutics) eb1cc8d0-4231-41ea-8535-4fd872129713
+            DYANAVEL XR (Tris Pharma) a8a7eb93-4192-4826-bbf1-82c06634f553
+FORMULA     C9H13N
+EXACT_MASS  135.1048
+MOL_WEIGHT  135.2062
+CLASS       Cyp substrate
+             DG01644  CYP2D6 substrate
+REMARK      Same as: C07514
+            ATC code: N06BA01
+            Chemical group: DG00966
+ACTIVITY    Stimulant (central), Noradrenaline and dopamine reuptake inhibitor
+TARGET      SLC6A2 (NAT1) [HSA:6530] [KO:K05035];
+            SLC6A3 (DAT1) [HSA:6531] [KO:K05036];
+            SLC6A4 (HTT) [HSA:6532] [KO:K05037]
+  PATHWAY   hsa04726(6532)  Serotonergic synapse
+            hsa04728(6531)  Dopaminergic synapse
+            hsa05031(6531)  Amphetamine addiction
+INTERACTION  
+STR_MAP     map07234  Neurotransmitter transporter inhibitors
+OTHER_MAP   map05031  Amphetamine addiction
+BRITE       Anatomical Therapeutic Chemical (ATC) classification [BR:br08303]
+             N NERVOUS SYSTEM
+              N06 PSYCHOANALEPTICS
+               N06B PSYCHOSTIMULANTS, AGENTS USED FOR ADHD AND NOOTROPICS
+                N06BA Centrally acting sympathomimetics
+                 N06BA01 Amfetamine
+                  D07445  Amfetamine (INN)
+            Target-based classification of drugs [BR:br08310]
+             Transporters
+              Solute carrier family
+               SLC6
+                SLC6A2 (noradrenalin transporter)
+                 Amfetamine
+                  D07445  Amfetamine (INN)
+                SLC6A3 (dopamine transporter)
+                 Amfetamine
+                  D07445  Amfetamine (INN)
+            Cytochrome P450 interactions [BR:br08309]
+             CYP substrates
+              CYP2D6
+               Amfetamine
+                D07445  Amfetamine (INN)
+DBLINKS     CAS: 300-62-9
+            PubChem: 51091776
+            ChEBI: 2679
+            ChEMBL: CHEMBL405
+            LigandBox: D07445
+            NIKKAJI: J231.296D
+ATOM        10
+            1   C8y C    18.0426  -15.4812
+            2   C8x C    16.8566  -14.7835
+            3   C8x C    18.0426  -16.8766
+            4   C1b C    19.2287  -14.7835
+            5   C8x C    15.6008  -15.4812
+            6   C8x C    16.8566  -17.5742
+            7   C1c C    20.4845  -15.4812
+            8   C8x C    15.6008  -16.8766
+            9   N1a N    21.6705  -14.7835
+            10  C1a C    20.4845  -16.8766
+BOND        10
+            1     1   2 2
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     3   6 2
+            6     4   7 1
+            7     5   8 2
+            8     7   9 1
+            9     7  10 1
+            10    6   8 1
+///

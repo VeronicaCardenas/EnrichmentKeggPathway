@@ -1,0 +1,29 @@
+ENTRY       G00369                      Glycan
+COMPOSITION (Gal)3 (GlcNAc)4 (Man)3
+MASS        1803.6
+PATHWAY     map04931  Insulin resistance
+DBLINKS     CCSD: 1765 1766 2880 2881 11531 12793 13303 13337 13808 14538 16313 16578 17384 20315 20878 24138 24914 25062 25172 27588 29134 32314 35970 36604 39712 41182 49252
+            GlyTouCan: G45811PK
+            JCGGDB: JCGG-STR008032
+NODE        10
+            1   GlcNAc     16     2
+            2   Man         6     2
+            3   Man        -1     6
+            4   Man        -1    -2
+            5   GlcNAc     -9     6
+            6   GlcNAc     -9     2
+            7   GlcNAc     -9    -6
+            8   Gal       -17     6
+            9   Gal       -17     2
+            10  Gal       -17    -6
+EDGE        9
+            1     2:b1    1:4  
+            2     3:a1    2:6  
+            3     4:a1    2:3  
+            4     5:b1    3:2  
+            5     6:b1    4:4  
+            6     7:b1    4:2  
+            7     8:b1    5:4  
+            8     9:b1    6:4  
+            9    10:b1    7:4  
+///

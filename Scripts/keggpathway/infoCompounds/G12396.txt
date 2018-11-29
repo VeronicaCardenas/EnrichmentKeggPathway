@@ -1,0 +1,17 @@
+ENTRY       G12396                      Glycan
+NAME        6-(alpha-D-glucosaminyl)-1D-myo-inositol
+COMPOSITION (GlcN)1 (Ino)1
+MASS        161.2 (Ino)
+REMARK      Same as: C15658
+REACTION    R06623
+PATHWAY     map00563  Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+ENZYME      3.1.4.50
+ORTHOLOGY   K01127  glycosylphosphatidylinositol phospholipase D [EC:3.1.4.50]
+DBLINKS     GlyTouCan: G94923PG
+            JCGGDB: JCGG-STR025316
+NODE        2
+            1   Ino         4     0
+            2   GlcN       -4     0
+EDGE        1
+            1     2:a1    1:6  
+///

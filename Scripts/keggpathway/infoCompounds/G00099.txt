@@ -1,0 +1,40 @@
+ENTRY       G00099                      Glycan
+NAME        Globo-H
+COMPOSITION (Gal)3 (GalNAc)1 (Glc)1 (LFuc)1 (Cer)1
+MASS        997.9 (Cer)
+REACTION    R05968
+PATHWAY     map00603  Glycosphingolipid biosynthesis - globo and isoglobo series
+            map01100  Metabolic pathways
+ENZYME      2.4.1.69
+BRITE       Lipids [BR:br08002]
+             SP  Sphingolipids
+              SP05 Neutral glycosphingolipids
+               SP0502 GalNAcb1-3Gala1-4Galb1-4Glc- (Globo series)
+                G00099  Fuc-alpha1->2Gal-beta1->3GalNAc-beta1->3Gal-alpha1->4Gal-beta1->4Glc-beta1->1'Cer
+            Cancer-accociated carbohydrates [br08441.html]
+             G00099
+REFERENCE   1  [PMID:12227795]
+            Bosse F, Marcaurelle LA, Seeberger PH.
+            Linear synthesis of the tumor-associated carbohydrate antigens Globo-H, SSEA-3, and Gb3.
+            J. Org. Chem. 67 (2002) 6659-70.
+DBLINKS     CCSD: 980 8838 11788 12059 13970 14304 15546 15728 16326 17359 17366 21098 21144 21317 24772 28504 32937 33330 33612 47762
+            GlyTouCan: G98465JN
+            JCGGDB: JCGG-STR011603
+            LipidBank: GSG1360
+            GlycoEpitope: EP0250 EP0254
+NODE        7
+            1   Cer      19.2  -0.2
+            2   Glc      13.2  -0.2
+            3   Gal       7.2  -0.2
+            4   Gal       1.2  -0.2
+            5   GalNAc   -5.8  -0.2
+            6   Gal     -12.8  -0.2
+            7   LFuc    -18.8  -0.2
+EDGE        6
+            1     2:b1    1:1  
+            2     3:b1    2:4  
+            3     4:a1    3:4  
+            4     5:b1    4:3  
+            5     6:b1    5:3  
+            6     7:a1    6:2  
+///

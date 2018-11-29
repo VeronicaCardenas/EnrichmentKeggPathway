@@ -1,0 +1,51 @@
+ENTRY       G00093                      Glycan
+NAME        Globotriaosylceramide;
+            Gb3Cer;
+            Pk antigen;
+            CD77
+COMPOSITION (Gal)2 (Glc)1 (Cer)1
+MASS        486.4 (Cer)
+REMARK      Same as: C04737
+REACTION    R05960 R05961 R05962 R05963
+PATHWAY     map00603  Glycosphingolipid biosynthesis - globo and isoglobo series
+            map01100  Metabolic pathways
+MODULE      M00068  Glycosphingolipid biosynthesis, globo-series, LacCer => Gb4Cer
+ENZYME      2.4.1.79        2.4.1.228       3.2.1.22        3.2.1.47        
+            3.2.1.52
+ORTHOLOGY   K00719  galactosylgalactosylglucosylceramide beta-D-acetylgalactosaminyltransferase [EC:2.4.1.79]
+            K01189  alpha-galactosidase [EC:3.2.1.22]
+            K01207  beta-N-acetylhexosaminidase [EC:3.2.1.52]
+            K01988  lactosylceramide 4-alpha-galactosyltransferase [EC:2.4.1.228]
+BRITE       Lipids [BR:br08002]
+             SP  Sphingolipids
+              SP05 Neutral glycosphingolipids
+               SP0502 GalNAcb1-3Gala1-4Galb1-4Glc- (Globo series)
+                G00093  Gal-alpha1->4Gal-beta1->4Glc-beta1->1'Cer (Gb3Cer)
+            Cancer-accociated carbohydrates [br08441.html]
+             G00093
+            Carbohydrates in viral and bacterial infections [br08431.html]
+             Bacterial infection
+              G00093
+REFERENCE   1  [PMID:12227795]
+            Bosse F, Marcaurelle LA, Seeberger PH.
+            Linear synthesis of the tumor-associated carbohydrate antigens Globo-H, SSEA-3, and Gb3.
+            J. Org. Chem. 67 (2002) 6659-70.
+            2  [PMID:2960671]
+            Holmes EH, Hakomori S, Ostrander GK.
+            Synthesis of type 1 and 2 lacto series glycolipid antigens in human colonic adenocarcinoma and derived cell lines is due to activation of a normally unexpressed beta 1----3N-acetylglucosaminyltransferase.
+            J. Biol. Chem. 262 (1987) 15649-58.
+DBLINKS     CCSD: 291 293 2404 3587 4651 4778 5723 6241 7333 8268 9933 9987 10297 10299 10869 11331 11641 11801 12378 14423 15149 15503 15548 15725 15925 16227 16330 16353 16403 16460 16868 17111 17680 17708 17928 18494 18545 18587 18633 18971 19298 21064 21142 21348 21363 21369 22111 23006 23163 23388 23853 23876 23918 24085 24122 24354 24435 24650 24766 25040 25302 25306 25315 25321 25330 25520 25546 25555 25581 25794 25820 25981 26179 26267 26597 26605 26614 26736 27232 27273 27542 27632 28502 29096 29266 29958 30834 31630 31690 31941 31985 32048 32591 32623 32730 32737 32740 33185 33204 33207 33213 33715 33899 33971 34169 35082 35720 35922 35950 35959 36104 36156 36463 36648 36860 36985 36991 36998 37049 37062 37067 37211 37591 37604 37839 38016 38023 38085 38091 38132 38367 39383 40782 41773 41869 41902 42044 42841 42982 43010 43023 43465 43578 43605 43704 43796 44080 44226 44241 44612 44688 44992 45293 45300 46811 47010 47195 47424 47632 47759 47782 47974 48196 48204 48208 48225 48501 48732 49324 50141 50143 50463
+            GlyTouCan: G00059MO
+            JCGGDB: JCGG-STR002182
+            LipidBank: GSG1328
+            GlycoEpitope: EP0045 EP0071
+NODE        4
+            1   Cer        13     0
+            2   Glc         4     0
+            3   Gal        -5     0
+            4   Gal       -13     0
+EDGE        3
+            1     2:b1    1:1  
+            2     3:b1    2:4  
+            3     4:a1    3:4  
+///

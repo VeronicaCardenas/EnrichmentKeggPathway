@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TABLE>
+<ENTRY>
+<ID>CHEBI:16670</ID>
+<NAME>peptide</NAME>
+<DEFINITION>Amide derived from two or more amino carboxylic acid molecules (the same or different) by formation of a covalent bond from the carbonyl carbon of one to the nitrogen atom of another with formal loss of water. The term is usually applied to structures formed from α-amino acids, but it includes those derived from any amino carboxylic acid. X = OH, OR, NH2, NHR, etc.</DEFINITION>
+<STAR>3</STAR>
+<SECONDARY_ID>CHEBI:7990</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:14753</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:25906</SECONDARY_ID>
+<SYNONYM>peptidos</SYNONYM>
+<SYNONYM>peptido</SYNONYM>
+<SYNONYM>Peptide</SYNONYM>
+<SYNONYM>Peptid</SYNONYM>
+<IUPAC_NAME>peptides</IUPAC_NAME>
+<FORMULA>(C2H2NOR)nC2H3NOR</FORMULA>
+<CHARGE>0</CHARGE>
+<KEGG_COMPOUND_ACCESSION>C00012</KEGG_COMPOUND_ACCESSION>
+</ENTRY>
+</TABLE>

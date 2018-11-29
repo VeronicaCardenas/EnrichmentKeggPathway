@@ -1,0 +1,26 @@
+ENTRY       G00023                      Glycan
+NAME        Tn antigen
+COMPOSITION (GalNAc)1 (Ser/Thr)1
+MASS        203.2 (Ser/Thr)
+REMARK      Same as: C04387
+REACTION    R05907 R05908 R05909 R05910 R05911
+PATHWAY     map00512  Mucin type O-glycan biosynthesis
+            map01100  Metabolic pathways
+MODULE      M00056  O-glycan biosynthesis, mucin type core
+ENZYME      2.4.1.41        2.4.1.102       2.4.1.122       2.4.1.147       
+            2.4.1.148       2.4.99.3
+ORTHOLOGY   K00710  polypeptide N-acetylgalactosaminyltransferase [EC:2.4.1.41]
+            K00727  beta-1,3-galactosyl-O-glycosyl-glycoprotein beta-1,6-N-acetylglucosaminyltransferase [EC:2.4.1.102]
+            K00731  glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase [EC:2.4.1.122]
+            K03479  alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase (sialyltransferase 7A) [EC:2.4.99.3]
+BRITE       Cancer-accociated carbohydrates [br08441.html]
+             G00023
+DBLINKS     CCSD: 6 7 2185 2186 2187 5034 30785 30918 31592 32839 32957 33178 33218 33468 33887 33913 34825 34838 34841 34951 34985 35031 35036 35106 35261 35803 35831 35944 35992 36237 36249 37727 37922 37939 37952 38122 38186 38187 38193 38194 38196 38197 38206 38208 38561 38638 38698 39379 41864 42380 42739 42792 43916 43918 43948 44243 44374 44492 44493 45638 45778 45890 46467 46557 46860 47328 47385 48045 48233 48245 48407 48408 48409 49041 49508 49665 50280 50465 50468
+            GlyTouCan: G57321FI
+            JCGGDB: JCGG-STR025718
+NODE        2
+            1   Ser/Thr     5     0
+            2   GalNAc     -5     0
+EDGE        1
+            1     2:a1    1    
+///

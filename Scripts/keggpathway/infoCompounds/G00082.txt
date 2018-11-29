@@ -1,0 +1,33 @@
+ENTRY       G00082                      Glycan
+COMPOSITION (Gal)3 (Glc)1 (GlcNAc)2 (LFuc)3 (Cer)1
+MASS        1493.4 (Cer)
+REACTION    R06227
+PATHWAY     map00601  Glycosphingolipid biosynthesis - lacto and neolacto series
+ENZYME      2.4.1.-
+DBLINKS     CCSD: 1671 1672 1673 14845 20743 25724 33725 45342
+            GlyTouCan: G03564IA
+            JCGGDB: JCGG-STR019584
+            LipidBank: GSG1273
+            GlycoEpitope: EP0018 EP0094
+NODE        10
+            1   Cer        23    -2
+            2   Glc        17    -2
+            3   Gal        11    -2
+            4   GlcNAc      4    -2
+            5   Gal        -3     2
+            6   LFuc       -3    -6
+            7   GlcNAc    -10     2
+            8   Gal       -17     6
+            9   LFuc      -17    -2
+            10  LFuc      -23     6
+EDGE        9
+            1     2:b1    1:1  
+            2     3:b1    2:4  
+            3     4:b1    3:3  
+            4     5:b1    4:4  
+            5     6:a1    4:3  
+            6     7:b1    5:3  
+            7     8:b1    7:4  
+            8     9:a1    7:3  
+            9    10:a1    8:2  
+///

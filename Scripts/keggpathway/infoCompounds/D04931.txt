@@ -1,0 +1,84 @@
+ENTRY       D04931                      Drug
+NAME        Mercaptopurine (INN);
+            Mercaptopurine anhydrous;
+            Purinethol (TN)
+FORMULA     C5H4N4S
+EXACT_MASS  152.0157
+MOL_WEIGHT  152.1771
+CLASS       Antineoplastic
+             DG01958  Nucleic acid derivative, antineoplastic
+            Unclassified
+             DG02018  Antimetabolite
+              DG01958  Nucleic acid derivative, antineoplastic
+REMARK      Same as: C02380
+            ATC code: L01BB02
+            Chemical group: DG00683
+ACTIVITY    Antineoplastic, Antimetabolite
+METABOLISM  Transporter: SLC28A2 [HSA:9153], SLC28A3 [HSA:64078], SLC29A1 [HSA:2030], SLC29A2 [HSA:3177]
+INTERACTION Genomic biomarker: TPMT [HSA:7172]
+STR_MAP     map07041  Antineoplastics - antimetabolic agents
+            map07046  Immunosuppressive agents
+OTHER_MAP   map00983  Drug metabolism - other enzymes
+            map04976  Bile secretion
+BRITE       Anatomical Therapeutic Chemical (ATC) classification [BR:br08303]
+             L ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS
+              L01 ANTINEOPLASTIC AGENTS
+               L01B ANTIMETABOLITES
+                L01BB Purine analogues
+                 L01BB02 Mercaptopurine
+                  D04931  Mercaptopurine (INN)
+            USP drug classification [BR:br08302]
+             Antineoplastics
+              Antimetabolites
+               Mercaptopurine
+                D04931  Mercaptopurine (INN)
+             Immunological Agents
+              Immune Suppressants
+               Mercaptopurine
+                D04931  Mercaptopurine (INN)
+            Cytochrome P450 interactions [BR:br08309]
+             Transporter substrates
+              SLC28A2
+               Mercaptopurine
+                D04931  Mercaptopurine (INN)
+              SLC28A3
+               Mercaptopurine
+                D04931  Mercaptopurine (INN)
+              SLC29A1
+               Mercaptopurine
+                D04931  Mercaptopurine (INN)
+              SLC29A2
+               Mercaptopurine
+                D04931  Mercaptopurine (INN)
+DBLINKS     CAS: 50-44-2
+            PubChem: 47206682
+            ChEBI: 50667
+            ChEMBL: CHEMBL1425
+            DrugBank: DB01033
+            PDB-CCD: PM6
+            LigandBox: D04931
+            NIKKAJI: J2.298E
+ATOM        10
+            1   C8y C    23.8700  -16.9400
+            2   C8y C    23.8700  -18.2700
+            3   C8y C    24.9900  -16.3100
+            4   N4x N    24.9900  -18.9700
+            5   N5x N    26.1100  -16.9400
+            6   S0  S    24.9900  -14.9800
+            7   C8x C    26.1100  -18.2700
+            8   N4x N    22.6051  -16.5290
+            9   C8x C    21.8233  -17.6050
+            10  N5x N    22.6051  -18.6810
+BOND        11
+            1     1   2 2
+            2     1   3 1
+            3     2   4 1
+            4     3   5 1
+            5     3   6 2
+            6     4   7 1
+            7     5   7 2
+            8     1   8 1
+            9     8   9 1
+            10    9  10 2
+            11    2  10 1
+///

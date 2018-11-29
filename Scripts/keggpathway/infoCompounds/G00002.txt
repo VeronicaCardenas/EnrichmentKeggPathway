@@ -1,0 +1,26 @@
+ENTRY       G00002                      Glycan
+NAME        N,N'-Chitobiosyldiphosphodolichol
+COMPOSITION (GlcNAc)2 (PP-Dol)1
+MASS        406.4 (PP-Dol)
+REMARK      Same as: C04537
+REACTION    R05970 R05972
+PATHWAY     map00510  N-Glycan biosynthesis
+            map01100  Metabolic pathways
+MODULE      M00055  N-glycan precursor biosynthesis
+ENZYME      2.4.1.141       2.4.1.142
+BRITE       Lipids [BR:br08002]
+             PR  Prenol Lipids
+              PR03 Polyprenols
+               PR0309 Dolichol diphosphates
+                C04537  N,N'-Diacetylchitobiosyldiphosphodolichol
+DBLINKS     CCSD: 5719 6175 6765 23307 23312 29333 29581 29582 33645 40850 41794 44423 45112
+            GlyTouCan: G05026ZL
+            JCGGDB: JCGG-STR008492
+NODE        3
+            1   PP-Dol      7     0
+            2   GlcNAc      0     0
+            3   GlcNAc     -8     0
+EDGE        2
+            1     2:a1    1    
+            2     3:b1    2:4  
+///

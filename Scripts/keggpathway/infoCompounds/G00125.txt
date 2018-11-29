@@ -1,0 +1,33 @@
+ENTRY       G00125                      Glycan
+NAME        GM1b
+COMPOSITION (Gal)2 (GalNAc)1 (Glc)1 (Neu5Ac)1 (Cer)1
+MASS        980.9 (Cer)
+REACTION    R05957 R05958 R05959
+PATHWAY     map00604  Glycosphingolipid biosynthesis - ganglio series
+            map01100  Metabolic pathways
+ENZYME      2.4.99.4
+ORTHOLOGY   K03368  beta-galactoside alpha-2,3-sialyltransferase (sialyltransferase 4B) [EC:2.4.99.4]
+            K03369  alpha-N-acetyl-neuraminate alpha-2,8-sialyltransferase (sialyltransferase 8E) [EC:2.4.99.-]
+            K03373  N-acetylgalactosaminide alpha-2,6-sialyltransferase (sialyltransferase 7C) [EC:2.4.99.-]
+            K03374  N-acetylgalactosaminide alpha-2,6-sialyltransferase (sialyltransferase 7D) [EC:2.4.99.7]
+            K03375  N-acetylgalactosaminide alpha-2,6-sialyltransferase (sialyltransferase 7E) [EC:2.4.99.-]
+            K03376  N-acetylgalactosaminide alpha-2,6-sialyltransferase (sialyltransferase 7F) [EC:2.4.99.-]
+DBLINKS     CCSD: 771 6815 6909 9909 11660 14072 14550 14849 14871 15600 18649 18921 19901 20346 20354 20914 22087 22215 23093 24777 25257 25402 29004 31659 32067 32694 32753 33572 33628 33676 33956 34100 34860 36491 36572 36595 37078 37100 37220 39528 40447 40684 44040 44067 44836 44960 45473 46844 47171 48579 49461 50223
+            GlyTouCan: G03277YI
+            JCGGDB: JCGG-STR027271
+            LipidBank: GSG1295
+            GlycoEpitope: EP0048 EP0301
+NODE        6
+            1   Cer        16     0
+            2   Glc        10     0
+            3   Gal         4     0
+            4   GalNAc     -3     0
+            5   Gal       -10     0
+            6   Neu5Ac    -17     0
+EDGE        5
+            1     2:b1    1:1  
+            2     3:b1    2:4  
+            3     4:b1    3:4  
+            4     5:b1    4:3  
+            5     6:a2    5:3  
+///

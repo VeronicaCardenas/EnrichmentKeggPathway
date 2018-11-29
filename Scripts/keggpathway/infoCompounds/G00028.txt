@@ -1,0 +1,19 @@
+ENTRY       G00028                      Glycan
+COMPOSITION (GalNAc)1 (GlcNAc)1 (Ser/Thr)1
+MASS        406.4 (Ser/Thr)
+REMARK      Same as: C01306
+REACTION    R05909 R05915
+PATHWAY     map00512  Mucin type O-glycan biosynthesis
+            map01100  Metabolic pathways
+MODULE      M00056  O-glycan biosynthesis, mucin type core
+ENZYME      2.4.1.147       2.4.1.148
+DBLINKS     GlyTouCan: G00035MO
+            JCGGDB: JCGG-STR025794
+NODE        3
+            1   Ser/Thr    10     0
+            2   GalNAc     -1     0
+            3   GlcNAc    -11     0
+EDGE        2
+            1     2:a1    1    
+            2     3:b1    2:3  
+///

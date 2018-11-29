@@ -1,0 +1,205 @@
+C00004;16908;NC(=O)C1=CN(C=CC1)[C@@H]1O[C@H](COP(O)(=O)OP(O)(=O)OC[C@H]2O[C@H]([C@H](O)[C@@H]2O)n2cnc3c(N)ncnc23)[C@@H](O)[C@H]1O;
+C00024;15351;CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)n1cnc2c(N)ncnc12;
+C00032;17627;CC1=C(CCC(O)=O)C2=[N+]3C1=Cc1c(C)c(C=C)c4C=C5C(C)=C(C=C)C6=[N+]5[Fe--]3(n14)n1c(=C6)c(C)c(CCC(O)=O)c1=C2;
+C00034;18291;[Mn];
+C00040;17984;CC(C)(COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)n1cnc2c(N)ncnc12)[C@@H](O)C(=O)NCCC(=O)NCCSC([*])=O;Acyl-CoA Acyl coenzyme A
+C00043;16264;CC(=O)N[C@@H]1[C@@H](O)[C@H](O)[C@@H](CO)O[C@@H]1OP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n1ccc(=O)[nH]c1=O;
+C00045;33704;NC([*])C(O)=O;
+C00053;17980;Nc1ncnc2n(cnc12)[C@@H]1O[C@H](COP(O)(=O)OS(O)(=O)=O)[C@@H](OP(O)(O)=O)[C@H]1O;
+C00070;28694;[Cu];
+C00071;17478;[H]C([*])=O;
+C00076;22984;[Ca];
+C00080;15378;[H+];
+C00083;15531;CC(C)(COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)n1cnc2c(N)ncnc12)[C@@H](O)C(=O)NCCC(=O)NCCSC(=O)CC(O)=O;
+C00091;15380;CC(C)(COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)n1cnc2c(N)ncnc12)[C@@H](O)C(=O)NCCC(=O)NCCSC(=O)CCC(O)=O;
+C00096;15820;Nc1nc2n(cnc2c(=O)[nH]1)[C@@H]1O[C@H](COP(O)(=O)OP(O)(=O)O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]2O)[C@@H](O)[C@H]1O;
+C00100;15539;CCC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)n1cnc2c(N)ncnc12;
+C00103;29042;OC[C@H]1O[C@H](OP(O)(O)=O)[C@H](O)[C@@H](O)[C@@H]1O;
+C00149;15589;O[C@@H](CC([O-])=O)C([O-])=O;L-malate (S)-malate
+C00151;15705;N[C@@H]([*])C(O)=O;
+C00154;15525;[C@@H]1(N2C3=C(C(=NC=N3)N)N=C2)O[C@H](COP(OP(OCC(C)([C@H](C(NCCC(NCCSC(CCCCCCCCCCCCCCC)=O)=O)=O)O)C)(=O)O)(=O)O)[C@H]([C@H]1O)OP(O)(O)=O;
+C00157;16110;C[N+](C)(C)CCOP(O)(=O)OC[C@@H](COC([*])=O)OC([*])=O;
+C00162;35366;OC([*])=O;
+C00165;18035;[*]OCC(CO[*])O[*];
+C00168;17180;OCC(=O)C([O-])=O;3-hydroxypyruvate
+C00175;27638;[Co];
+C00190;16082;O[C@@H]1CO[C@H](OP(O)(=O)OP(O)(=O)OC[C@H]2O[C@H]([C@H](O)[C@@H]2O)n2ccc(=O)[nH]c2=O)[C@H](O)[C@H]1O;
+C00195;17761;O[C@H]([*])[C@H](C[*])NC([*])=O;
+C00199;17363;OCC(=O)[C@H](O)[C@H](O)COP(O)(O)=O;D-Ribulose 5-phosphate D-erythro-pent-2-ulose 5-(dihydrogen phosphate)
+C00203;67168;CC(=O)N[C@@H]1[C@@H](O)[C@@H](O)[C@@H](CO)O[C@@H]1OP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n1ccc(=O)[nH]c1=O;
+C00204;17032;OC[C@@H](O)[C@@H](O)CC(=O)C(O)=O;
+C00206;16174;Nc1ncnc2n(cnc12)[C@H]1C[C@H](O)[C@@H](COP(O)(=O)OP(O)(O)=O)O1;
+C00222;17960;[H]C(=O)CC(O)=O;malonic semialdehyde formylacetic acid
+C00226;15734;*C(O)([H])[H];
+C00227;15350;CC(=O)OP(O)(O)=O;
+C00229;18359;S*;
+C00231;16332;OCC(=O)[C@@H](O)[C@H](O)COP(O)(O)=O;
+C00232;16265;[H]C(=O)CCC(O)=O;
+C00234;15637;[H]C(=O)N(C[C@H]1CNc2nc(N)[nH]c(=O)c2N1)c1ccc(cc1)C(=O)N[C@@H](CCC(O)=O)C(O)=O;
+C00236;16001;O[C@H](COP(O)(O)=O)C(=O)OP(O)(O)=O;
+C00238;26216;[K];
+C00247;48649;OCC1(O)OC[C@H](O)[C@@H](O)[C@@H]1O;
+C00251;17333;O[C@@H]1C=CC(=C[C@H]1OC(=C)C(O)=O)C(O)=O;
+C00254;29934;O[C@H]1C=C[C@](CC(=O)C([O-])=O)(C=C1)C([O-])=O;prephenate cis-prephenate
+C00258;16659;OC[C@@H](O)C([O-])=O;
+C00264;15489;CC(C)(COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)n1cnc2c(N)ncnc12)[C@@H](O)C(=O)NCCC(=O)NCCSC(=O)CC([*])=O;
+C00266;17071;[H]C(=O)CO;
+C00268;20680;C1=2C(=NC(CN1)C(C(C)O)O)C(N=C(N2)N)=O;
+C00269;17962;Nc1ccn([C@@H]2O[C@H](COP(O)(=O)OP(O)(=O)OC[C@@H](COC([*])=O)OC([*])=O)[C@@H](O)[C@H]2O)c(=O)n1;
+C00282;18276;[H][H];
+C00288;17544;OC([O-])=O;
+C00291;28112;[Ni];
+C00305;18420;[Mg++];
+C00310;17140;C(O)C(=O)[C@@H](O)[C@H](O)CO;
+C00312;17399;OC[C@H](O)[C@@H](O)C(=O)CO;
+C00313;15535;CC(C)(COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)n1cnc2c(N)ncnc12)[C@@H](O)C(=O)NCCC(=O)NCCSC(=O)C(O)=O;OXALYL-COENZYME A Oxalyl-CoA
+C00320;33539;[H]OS([S-])(=O)=O;Hyposulfite [SO2(OH)S](-)
+C00322;15753;OC(=O)CCCC(=O)C(O)=O;2-Oxoadipic acid 2-Oxoadipate
+C00323;15518;[H]C(=CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)n1cnc2c(N)ncnc12)c1ccc(O)c(O)c1;Caffeoyl-CoA
+C00332;15345;CC(=O)CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)n1cnc2c(N)ncnc12;
+C00333;12952;[H]C(=O)[C@H](O)[C@@H](O)[C@@H](O)[C@H](O)C([O-])=O;D-Galacturonate aldehydo-D-galacturonate
+C00337;17025;OC(=O)[C@@H]1CC(=O)NC(=O)N1;
+C00344;17517;OCC(O)COP(O)(=O)OCC(COC([*])=O)OC([*])=O;phosphatidylglycerols
+C00350;16038;O(P(=O)(OCCN)O)CC(OC(*)=O)COC(*)=O;
+C00357;15784;CC(=O)N[C@H]1C(O)O[C@H](COP(O)(O)=O)[C@@H](O)[C@@H]1O;
+C00395;17334;[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC([*])=O)C(O)=O;penicillins Penicillin
+C00406;15511;COc1cc(\C=C\C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(O)(=O)OP(O)(=O)OC[C@H]2O[C@H]([C@H](O)[C@@H]2OP(O)(O)=O)n2cnc3c(N)ncnc23)ccc1O;
+C00409;16007;CS;
+C00411;15540;COc1cc(\C=C\C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(O)(=O)OP(O)(=O)OC[C@H]2O[C@H]([C@H](O)[C@@H]2OP(O)(O)=O)n2cnc3c(N)ncnc23)cc(OC)c1O;Sinapoyl-CoA [(2E)-3-(4-hydroxy-3,5-dimethoxyphenyl)acroyl]-CoA
+C00412;15541;CCCCCCCCCCCCCCCCCC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)n1cnc2c(N)ncnc12;
+C00416;16337;OP(O)(=O)OCC(COC([*])=O)OC([*])=O;
+C00422;17855;[*]C(=O)OCC(COC([*])=O)OC([*])=O;
+C00424;18041;[H]C(=O)[C@H](C)O;
+C00429;15901;O=C1CCNC(=O)N1;
+C00433;17415;[H]C(=O)CCC(=O)C(O)=O;
+C00436;17902;NCCCCNC(N)=O;N-Carbamoylputrescine N-carbamoylputrescine
+C00437;16543;CC(=O)N[C@@H](CCCN)C(O)=O;
+C00438;15859;NC(=O)N[C@@H](CC(O)=O)C(O)=O;
+C00439;18327;[H]C(=N)N[C@@H](CCC([O-])=O)C([O-])=O;
+C00445;15638;[H][C@]12CNc3nc(N)[nH]c(=O)c3[N+]1=CN(C2)c1ccc(cc1)C(=O)N[C@@H](CCC(O)=O)C(O)=O;
+C00447;17969;O[C@H](COP(O)(O)=O)[C@@H](O)[C@@H](O)[C@H](O)C(=O)COP(O)(O)=O;
+C00449;16927;N[C@@H](CCCCN[C@@H](CCC(O)=O)C(O)=O)C(O)=O;
+C00450;49014;[H][C@]1(CCCC=N1)C(O)=O;
+C00499;17536;NC(=O)NC(NC(N)=O)C([O-])=O;
+C00502;48093;OC[C@@H](O)[C@H](O)[C@@H](O)C(O)=O;D-Xylonate
+C00506;17285;N[C@@H](CS(O)(=O)=O)C(O)=O;
+C00508;16880;C(O)C(=O)[C@@H](O)[C@@H](O)CO;
+C00510;15534;CCCCCCCC\C=C/CCCCCCCC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)n1cnc2c(N)ncnc12;
+C00512;15515;CC(C)(COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)n1cnc2c(N)ncnc12)[C@@H](O)C(=O)NCCC(=O)NCCSC(=O)c1ccccc1;
+C00513;17885;Nc1ccn([C@@H]2O[C@H](COP(O)(=O)OP(O)(=O)OCC(O)CO)[C@@H](O)[C@H]2O)c(=O)n1;CDP-glycerol
+C00514;17767;OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)C([O-])=O;D-Mannonate D-mannonate
+C00527;15524;CC(C)(COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)n1cnc2c(N)ncnc12)[C@@H](O)C(=O)NCCC(=O)NCCSC(=O)CCCC(O)=O;
+C00532;18403;OC[C@H](O)C(O)[C@@H](O)CO;
+C00540;15463;[H]C(=CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)n1cnc2c(N)ncnc12)c1ccccc1;
+C00541;16304;[H][C@]12[C@H](CC(N)=O)[C@@]3(C)CCC(=O)NC[C@@H](C)OP([O-])(=O)O[C@H]4[C@@H](O)[C@H](O[C@@H]4CO)n4c[n+](c5cc(C)c(C)cc45)[Co-3]456N1C3=C(C)C1=[N+]4C(=CC3=[N+]5C(=C(C)C4=[N+]6[C@]2(C)[C@@](C)(CC(N)=O)[C@@H]4CCC(N)=O)[C@@](C)(CC(N)=O)[C@@H]3CCC(N)=O)C(C)(C)[C@@H]1CCC(N)=O;
+C00544;16169;Oc1ccc(O)c(CC([O-])=O)c1;homogentisate
+C00545;16501;OC[C@H](O)[C@H](O)[C@@H](O)C([O-])=O;L-arabinonate L-Arabinonate
+C00550;17636;O=P(OCC[N+](C)(C)C)(OC[C@H](NC(*)=O)[C@@H](/C=C/CCCCCCCCCCCCC)O)[O-];
+C00558;17886;OCC(=O)[C@@H](O)[C@@H](O)[C@H](O)C([O-])=O;
+C00566;15459;CC(C)(COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)n1cnc2c(N)ncnc12)[C@@H](O)C(=O)NCCC(=O)NCCSC(=O)C[C@](O)(CC(O)=O)C(O)=O;(3S)-Citryl-CoA (3S)-citryl-CoA
+C00570;16732;NCCOP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n1ccc(N)nc1=O;
+C00577;17378;[H]C(=O)[C@H](O)CO;
+C00593;17717;[H]C(=O)CS(O)(=O)=O;Sulfoacetaldehyde 2-Sulfoacetaldehyde
+C00596;1113;OC(=O)C(\O)=C/C=C;cis-2-Hydroxypenta-2,4-dienoate
+C00603;15412;NC(=O)N[C@@H](O)C(O)=O;
+C00617;16085;O[C@@H]1[C@@H](COP(O)(=O)OP(O)(=O)O[C@H]2O[C@@H]([C@H](O)[C@H](O)[C@H]2O)C(O)=O)O[C@H]([C@@H]1O)n1ccc(=O)[nH]c1=O;
+C00618;16142;OC[C@H](O)[C@@H](O)C(=O)[C@H](O)C(O)=O;
+C00623;16221;OC[C@H](O)COP(O)(O)=O;
+C00627;28803;Cc1ncc(COP(O)(O)=O)c(CO)c1O;
+C00630;15479;CC(C)C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)n1cnc2c(N)ncnc12;
+C00631;17835;OC[C@@H](OP(O)(O)=O)C(O)=O;
+C00637;18086;O=CCc1c[nH]c2ccccc12;
+C00638;15904;OC([*])=O;
+C00640;15455;CC(C)(COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)n1cnc2c(N)ncnc12)[C@@H](O)C(=O)NCCC(=O)NCCSC(=O)C[C@@H](O)[*];
+C00641;17815;OC[C@@H](COC([*])=O)OC([*])=O;
+C00644;16298;OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)COP(O)(O)=O;D-Mannitol 1-phosphate
+C00658;50998;CC(C)(COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)n1cnc2c(N)ncnc12)[C@@H](O)C(=O)NCCC(=O)NCCSC(=O)\C=C\[*];
+C00664;15639;[H]C(=N)N1[C@@H](CNc2ccc(cc2)C(=O)N[C@@H](CCC(O)=O)C(O)=O)CNc2nc(N)[nH]c(=O)c12;
+C00665;28602;OC[C@]1(O[C@H](COP(O)(O)=O)[C@@H](O)[C@@H]1O)OP(O)(O)=O;
+C00666;16026;N[C@@H](CCC[C@H](N)C(O)=O)C(O)=O;
+C00668;17665;O[C@H]1O[C@H](COP(O)(O)=O)[C@@H](O)[C@H](O)[C@H]1O;
+C00671;15614;CC[C@H](C)C(=O)C(O)=O;
+C00672;11563;OC[C@H]1O[C@@H](C[C@@H]1O)OP(O)(O)=O;2-Deoxy-alpha-D-ribose 1-phosphate 2-deoxy-1-O-phosphono-alpha-D-erythro-pentofuranose
+C00673;16132;O[C@H](COP(O)(O)=O)[C@@H](O)CC=O;
+C00679;16369;O[C@@H](CC(=O)C(O)=O)[C@@H](O)C(O)=O;5-Dehydro-4-deoxy-D-glucarate
+C00681;16975;O[C@H](COC([*])=O)COP(O)(O)=O;
+C00682;17236;[H]C(=O)C([H])=C([H])C([H])=C(O)C(O)=O;
+C00683;15466;C[C@@H](C(O)=O)C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)n1cnc2c(N)ncnc12;
+C00684;17647;OC[C@H](O)CC(=O)C(O)=O;
+C00689;18283;OC[C@H]1O[C@H](O[C@H]2O[C@H](COP(O)(O)=O)[C@@H](O)[C@H](O)[C@H]2O)[C@H](O)[C@@H](O)[C@@H]1O;
+C00691;17811;O[C@H]1[C@H](O)[C@@H](O)C(=O)[C@@H](O)[C@@H]1O;
+C00692;16970;C[C@H](NC(=O)[C@@H](C)O[C@H]1[C@H](O)[C@@H](CO)OC(OP(O)(=O)OP(O)(=O)OC[C@H]2O[C@H]([C@H](O)[C@@H]2O)n2ccc(=O)[nH]c2=O)[C@@H]1NC(C)=O)C(=O)N[C@H](CCC(O)=O)C(O)=O;
+C00700;10049;O[C@@H]1[C@@H](COP(O)(=O)OP(O)(=O)OP(O)(O)=O)O[C@H]([C@@H]1O)n1cnc2c1[nH]c(=O)[nH]c2=O;
+C00704;18421;[O][O-];
+C00705;28846;Nc1ccn([C@H]2C[C@H](O)[C@@H](COP(O)(=O)OP(O)(O)=O)O2)c(=O)n1;
+C00726;18379;[*]C#N;
+C00748;28599;C[C@]1(CC(O)=O)[C@H](CCC(O)=O)C2=CC3=[N+]4C(=Cc5c(CC(O)=O)c(CCC(O)=O)c6C=C7C(CCC(O)=O)=C(CC(O)=O)C8=[N+]7[Fe--]4(N2C1=C8)n56)[C@@H](CCC(O)=O)[C@]3(C)CC(O)=O;
+C00753;27998;[W];
+C00783;16656;CN1[C@H]2CC[C@@H]1CC(=O)C2;
+C00789;16022;C=1N(C(N=C(C1)N)=O)[C@@H]2O[C@@H]([C@H]([C@H]2O)O)COP(OP(OC[C@H]([C@H]([C@H](CO)O)O)O)(=O)O)(=O)O;
+C00798;15522;[H]C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)n1cnc2c(N)ncnc12;formyl-coenzyme A Formyl-CoA
+C00800;13115;OC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)C([O-])=O;
+C00802;16582;NC(=O)NC(=O)C(O)=O;
+C00808;15396;CC1(C)[C@@H]2CC[C@@]1(C)C(=O)C2;
+C00810;15686;C[C@@H](O)C(C)=O;
+C00817;17360;OC[C@@H](O)[C@@H](O)[C@@H](O)[C@H](O)C([O-])=O;D-Altronate D-altronate
+C00818;16002;O[C@@H]([C@H](O)[C@@H](O)C(O)=O)[C@H](O)C(O)=O;
+C00822;16852;N[C@@H](CC1=CC(=O)C(=O)C=C1)C(O)=O;
+C00826;17530;N[C@@H](CC1(C=CC(O)C=C1)C(O)=O)C(O)=O;
+C00827;15529;CC(O)C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)n1cnc2c(N)ncnc12;
+C00846;15775;[O-]C(=O)CCC(=O)CC([O-])=O;
+C00847;17405;Cc1ncc(CO)c(C(O)=O)c1O;
+C00853;15982;[H][C@]12[C@H](CC(N)=O)[C@@]3(C)CCC(=O)NC[C@@H](C)OP(O)(=O)O[C@@H]4[C@@H](CO)O[C@@H]([C@@H]4O)n4c[n+](c5cc(C)c(C)cc45)[Co-4]456N1C3=C(C)C1=[N+]4C(=CC3=[N+]5C(=C(C)C4=[N+]6[C@]2(C)[C@@](C)(CC(N)=O)[C@@H]4CCC(N)=O)[C@@](C)(CC(N)=O)[C@@H]3CCC(N)=O)C(C)(C)[C@@H]1CCC(N)=O;
+C00857;18304;Nc1ncnc2n(cnc12)[C@@H]1O[C@H](COP(O)(=O)OP(O)(=O)OC[C@H]2O[C@H]([C@H](O)[C@@H]2O)[n+]2cccc(c2)C(O)=O)[C@@H](O)[C@H]1O;
+C00859;27717;[H][C@@]12CC[C@]3(O)C[C@]1(CC3=C)[C@@H](C(O)=O)[C@]1([H])[C@@]3(C)[C@@H](O)CC[C@@]21OC3=O;
+C00861;17897;C[C@H](O)[C@H](O)[C@@H](O)C(=O)CO;
+C00862;17448;NCc1cc(COc2ccc(CCNC(=O)CC[C@H](NC(=O)CC[C@H](NC(=O)CC[C@@H]([C@@H](CCC(O)=O)C(O)=O)C(O)=O)C(O)=O)C(O)=O)cc2)co1;
+C00876;16848;C[C@H](OP(O)(=O)OC[C@@H](O)[C@@H](O)[C@@H](O)Cn1c2cc(O)ccc2cc2c1nc(=O)[nH]c2=O)C(=O)N[C@@H](CCC(=O)N[C@@H](CCC(O)=O)C(O)=O)C(O)=O;
+C00877;15473;C\C=C\C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)n1cnc2c(N)ncnc12;
+C00880;12931;OC[C@@H](O)[C@H](O)[C@H](O)[C@@H](O)C([O-])=O;D-Galactonate D-galactonate
+C00882;15468;CC(C)(COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n1cnc2c(N)ncnc12)[C@@H](O)C(=O)NCCC(=O)NCCS;Dephosphocoenzyme A Dephospho-CoA
+C00885;17582;O[C@@H]1[C@@H](OC(=C)C(O)=O)C=CC=C1C(O)=O;Isochorismic acid
+C00888;15536;CCCCC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)n1cnc2c(N)ncnc12;
+C00894;15513;CC(C)(COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)n1cnc2c(N)ncnc12)[C@@H](O)C(=O)NCCC(=O)NCCSC(=O)C=C;
+C00899;16302;CC(/C=C\C=C(C)\C=C\C1=C(C)CCCC1(C)C)=C\CO;11-cis-retinol 11-cis-Retinol
+C00900;16444;CC(=O)C(C)(O)C(O)=O;2-Acetolactate
+C00905;4126;OCC1(O)O[C@@H]([C@@H](O)[C@@H]1O)C(O)=O;D-Fructuronic acid D-Fructuronate
+C00922;17081;C\C(C([O-])=O)=C(/C)C([O-])=O;dimethylmaleate Dimethylmaleate
+C00931;17381;NCc1[nH]cc(CCC(O)=O)c1CC(O)=O;Porphobilinogen
+C00935;17983;O[C@H]1COC(OP(O)(=O)OP(O)(=O)OC[C@H]2O[C@H]([C@H](O)[C@@H]2O)n2ccc(=O)[nH]c2=O)[C@H](O)[C@H]1O;
+C00937;17167;[H]C(=O)[C@@H](C)O;
+C00940;16769;NC(=O)CCC(=O)C([O-])=O;alpha-ketoglutaramate 2-oxoglutaramate
+C00944;17947;O[C@@H]1C[C@@](O)(CC(=O)[C@H]1O)C(O)=O;5-Dehydroquinic acid 3-Dehydroquinic acid
+C00957;16208;OC(=O)C(=O)CS;
+C00958;17810;P(OC[C@@H](CO/C=C/*)OC(=O)*)(=O)(OCC[N+](C)(C)C)[O-];
+C00966;11561;CC(C)(CO)C(=O)C([O-])=O;2-Dehydropantoate 2-dehydropantoate
+C00969;17871;[H]C(=O)CCO;3-hydroxypropanal 3-Hydroxypropanal
+C00971;16871;Cc1ncc2COC(=O)c2c1O;
+C00976;85507;Nc1nc2n(cnc2c(=O)[nH]1)[C@@H]1O[C@H](COP(O)(=O)OP(O)(=O)O[C@H]2O[C@@H]([C@@H](O)[C@H](O)[C@@H]2O)C(O)=O)[C@@H](O)[C@H]1O;
+C00979;17981;CC(=O)OC[C@H](N)C(O)=O;
+C00990;18120;NCCCCC(N)=O;
+C00992;15852;[H][O+]([H])[Co-3]1234N5C6=C(C)C7=[N+]1C(=CC1=[N+]2C(=C(C)C2=[N+]3[C@@](C)([C@@]5([H])[C@H](CC(N)=O)[C@@]6(C)CCC(=O)NC[C@@H](C)OP([O-])(=O)O[C@@H]3[C@@H](CO)O[C@@H]([C@@H]3O)n3c[n+]4c4cc(C)c(C)cc34)[C@@](C)(CC(N)=O)[C@@H]2CCC(N)=O)[C@@](C)(CC(N)=O)[C@@H]1CCC(N)=O)C(C)(C)[C@@H]7CCC(N)=O;
+C01001;16314;[H]C(=O)NCc1cc(COc2ccc(CCNC(=O)CC[C@H](NC(=O)CC[C@H](NC(=O)CC[C@@H]([C@@H](CCC(O)=O)C(O)=O)C(O)=O)C(O)=O)C(O)=O)cc2)co1;Formylmethanofuran
+C01007;17607;Cc1cc2Nc3c([nH]c(=O)[nH]c3=O)N(C[C@H](O)[C@H](O)[C@H](O)CO)c2cc1C;Reduced riboflavin reduced riboflavin
+C01010;15832;NC(=O)NC([O-])=O;urea-1-carboxylate
+C01011;36882;CC(C)(COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)n1cnc2c(N)ncnc12)[C@@H](O)C(=O)NCCC(=O)NCCSC(=O)C[C@](C)(O)C(O)=O;L-Citramalyl-CoA (3S)-Citramalyl-CoA
+C01026;17724;CN(C)CC(O)=O;
+C01028;16570;N[C@@H](CCCCNO)C(O)=O;N6-Hydroxy-L-lysine
+C01037;17830;CC(N)C(N)CCCCCC([O-])=O;
+C01041;16504;[H][C@@]1(OC(=O)C(O)=C1[O])[C@@H](O)CO;
+C01043;15737;CN(CC(O)=O)C(N)=O;N-Carbamoylsarcosine
+C01044;48429;[H]C(=O)N[C@@H](CC(O)=O)C(O)=O;N-formyl-L-aspartic acid N-Formyl-L-aspartate
+C01045;48309;[H]C(=O)N[C@@H](CCC(O)=O)C(O)=O;
+C01050;70765;C[C@@H](O[C@H]1[C@H](O)[C@@H](CO)O[C@H](OP(O)(=O)OP(O)(=O)OC[C@H]2O[C@H]([C@H](O)[C@@H]2O)n2ccc(=O)[nH]c2=O)[C@@H]1NC(C)=O)C(O)=O;UDP-N-acetylmuramic acid UDP-MurNAc
+C01051;15437;OC(=O)CCc1c2Cc3[nH]c(Cc4[nH]c(Cc5[nH]c(Cc([nH]2)c1CC(O)=O)c(CCC(O)=O)c5CC(O)=O)c(CCC(O)=O)c4CC(O)=O)c(CC(O)=O)c3CCC(O)=O;
+C01053;16654;[H]C(=O)C(C)(C)[C@@H](O)C(O)=O;
+C01054;15441;CC(C)=CCC\C(C)=C\CC\C(C)=C\CC\C=C(/C)CC\C=C(/C)CC[C@@H]1OC1(C)C;
+C01056;17532;CN1CCC[C@H]1c1ccc(O)nc1;
+C01059;16364;Oc1ccc(O)nc1;2,5-dihydroxypyridine 2,5-Dihydroxypyridine
+C01061;18034;[O-]C(=O)CC(=O)CC(=O)\C=C\C([O-])=O;
+C01063;15504;CC(C)(COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(O)(O)=O)n1cnc2c(N)ncnc12)[C@@H](O)C(=O)NCCC(=O)NCCSC(=O)CCCCCC(O)=O;
+C01068;16246;OC[C@H](O)[C@H](O)[C@H](O)COP(O)(O)=O;
+C01069;136422;[C@H]1(O[C@@H]([C@@H](O)[C@@H]([C@H]1O)O)CO)S/C(=N\O)/CC=2C=CC=CC2;(Z)-desulfoglucotropeolin
+C01073;16682;CC(=O)NCCC(O)=O;N-Acetyl-beta-alanine 3-(acetylamino)propanoic acid
+C01077;16288;CC(=O)OCC[C@H](N)C(O)=O;O-Acetylhomoserine O-Acetyl-L-homoserine
+C01079;15435;Cc1c2Cc3[nH]c(Cc4[nH]c(Cc5[nH]c(Cc([nH]2)c1CCC(O)=O)c(CCC(O)=O)c5C)c(C=C)c4C)c(C=C)c3C;Protoporphyrinogen IX 7,12-diethenyl-3,8,13,17-tetramethyl-5,10,15,20,22,24-hexahydroporphyrin-2,18-dipropanoic acid

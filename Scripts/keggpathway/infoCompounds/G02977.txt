@@ -1,0 +1,29 @@
+ENTRY       G02977                      Glycan
+COMPOSITION (Gal)2 (GalNAc)2 (Glc)1 (Cer)1
+MASS        892.8 (Cer)
+REMARK      Same as: C13926
+REACTION    R11322
+PATHWAY     map00603  Glycosphingolipid biosynthesis - globo and isoglobo series
+ENZYME      2.4.1.88
+BRITE       Lipids [BR:br08002]
+             SP  Sphingolipids
+              SP05 Neutral glycosphingolipids
+               SP0506 GalNAcb1-3Gala1-3Galb1-4Glc- (Isoglobo series)
+                G02977  GalNAc-alpha1->3GalNAc-beta1->3Gal-alpha1->3Gal-beta1->4Glc-beta1->1'Cer (iGb5Cer)
+DBLINKS     CCSD: 714 38027
+            GlyTouCan: G51197ZR
+            JCGGDB: JCGG-STR024610
+NODE        6
+            1   Cer        21     0
+            2   Glc        13     0
+            3   Gal         5     0
+            4   Gal        -3     0
+            5   GalNAc    -12     0
+            6   GalNAc    -22     0
+EDGE        5
+            1     2:b1    1:1  
+            2     3:b1    2:4  
+            3     4:a1    3:3  
+            4     5:b1    4:3  
+            5     6:a1    5:3  
+///

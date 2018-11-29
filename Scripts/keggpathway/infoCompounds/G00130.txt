@@ -1,0 +1,21 @@
+ENTRY       G00130                      Glycan
+NAME        GM2alpha
+COMPOSITION (Gal)1 (GalNAc)1 (Glc)1 (Neu5Ac)1 (Cer)1
+MASS        818.7 (Cer)
+PATHWAY     map00604  Glycosphingolipid biosynthesis - ganglio series
+            map01100  Metabolic pathways
+ORTHOLOGY   K00785  beta-galactosamide-alpha-2,3-sialyltransferase [EC:2.4.99.-]
+DBLINKS     GlyTouCan: G31432OQ
+            JCGGDB: JCGG-STR007916
+NODE        5
+            1   Cer        14     0
+            2   Glc         8     0
+            3   Gal         2     0
+            4   GalNAc     -6     0
+            5   Neu5Ac    -15     0
+EDGE        4
+            1     2:b1    1:1  
+            2     3:b1    2:4  
+            3     4:b1    3:4  
+            4     5:a2    4:6  
+///

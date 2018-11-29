@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<TABLE>
+<ENTRY>
+<ID>CHEBI:15625</ID>
+<NAME>S-adenosylmethioninamine</NAME>
+<DEFINITION>The S-adenosyl derivative of methioninamine.</DEFINITION>
+<STAR>3</STAR>
+<SECONDARY_ID>CHEBI:12743</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:22035</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:10906</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:12762</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:8947</SECONDARY_ID>
+<SYNONYM>S-adenosylmethioninamine</SYNONYM>
+<SYNONYM>S-Adenosylmethioninamine</SYNONYM>
+<SYNONYM>S-Adenosyl-3-methylthiopropylamine</SYNONYM>
+<SYNONYM>S-Adenosyl-(5')-3-methylthiopropylamine</SYNONYM>
+<SYNONYM>S--adenosylmethioninamine</SYNONYM>
+<SYNONYM>[1-(adenin-9-yl)-1,5-dideoxy-beta-D-ribofuranos-5-yl](3-aminopropyl)(methyl)sulfonium</SYNONYM>
+<SYNONYM>(5-Deoxy-5-adenosyl)(3-aminopropyl)methylsulfonium salt</SYNONYM>
+<SYNONYM>(5-Deoxy-5-adenosyl)(3-aminopropyl)methylsulfonium cation</SYNONYM>
+<SYNONYM>(5-Deoxy-5-adenosyl)(3-aminopropyl)methylsulfonium</SYNONYM>
+<IUPAC_NAME>(3-aminopropyl)(5'-deoxyadenosin-5'-yl)(methyl)sulfonium</IUPAC_NAME>
+<FORMULA>C14H23N6O3S</FORMULA>
+<MASS>355.43706</MASS>
+<MONOISOTOPIC_MASS>355.155</MONOISOTOPIC_MASS>
+<CHARGE>1</CHARGE>
+<SMILES>C[S+](CCCN)C[C@H]1O[C@H]([C@H](O)[C@@H]1O)n1cnc2c(N)ncnc12</SMILES>
+<INCHI>InChI=1S/C14H23N6O3S/c1-24(4-2-3-15)5-8-10(21)11(22)14(23-8)20-7-19-9-12(16)17-6-18-13(9)20/h6-8,10-11,14,21-22H,2-5,15H2,1H3,(H2,16,17,18)/q+1/t8-,10-,11-,14-,24?/m1/s1</INCHI>
+<INCHIKEY>ZUNBITIXDCPNSD-LSRJEVITSA-N</INCHIKEY>
+<BEILSTEIN_REGISTRY_NUMBER>4161053</BEILSTEIN_REGISTRY_NUMBER>
+<CAS_REGISTRY_NUMBER>22365-13-5</CAS_REGISTRY_NUMBER>
+<CHEMIDPLUS>22365-13-5</CHEMIDPLUS>
+<KEGG_COMPOUND_ACCESSION>C01137</KEGG_COMPOUND_ACCESSION>
+</ENTRY>
+</TABLE>

@@ -1,0 +1,31 @@
+ENTRY       G13057                      Glycan
+COMPOSITION (Gal)1 (GlcNAc)3 (LFuc)1 (Man)3 (Asn)1
+MASS        1404.3 (Asn)
+REACTION    R09320 R09323
+PATHWAY     map00513  Various types of N-glycan biosynthesis
+            map01100  Metabolic pathways
+ENZYME      2.4.1.-         3.2.1.52
+REFERENCE   1  [PMID:20062796]
+            Butschi A, Titz A, Walti MA, Olieric V, Paschinger K, Nobauer K, Guo X, Seeberger PH, Wilson IB, Aebi M, Hengartner MO, Kunzler M.
+            Caenorhabditis elegans N-glycan core beta-galactoside confers sensitivity towards nematotoxic fungal galectin CGL2.
+            PLoS. Pathog. 6 (2010) e1000717.
+NODE        9
+            1   Asn      22.3   2.5
+            2   GlcNAc   14.3   2.5
+            3   LFuc      4.3   7.5
+            4   GlcNAc    4.3  -2.5
+            5   Gal      -3.7   7.5
+            6   Man      -4.7  -2.5
+            7   Man     -12.7   1.5
+            8   Man     -12.7  -6.5
+            9   GlcNAc  -21.7  -6.5
+EDGE        8
+            1     2:b1    1    
+            2     3:a1    2:6  
+            3     4:b1    2:4  
+            4     5:b1    3:4  
+            5     6:b1    4:4  
+            6     7:a1    6:6  
+            7     8:a1    6:3  
+            8     9:b1    8:2  
+///

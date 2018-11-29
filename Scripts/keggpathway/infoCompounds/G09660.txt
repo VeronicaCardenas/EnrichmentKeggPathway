@@ -1,0 +1,19 @@
+ENTRY       G09660                      Glycan
+COMPOSITION (GlcA)1 (GlcNAc)1 (S)1
+MASS        477.4
+REACTION    R07818 R07819
+PATHWAY     map00531  Glycosaminoglycan degradation
+            map01100  Metabolic pathways
+MODULE      M00078  Heparan sulfate degradation
+ENZYME      3.1.6.14        3.2.1.31
+DBLINKS     CCSD: 50670
+            GlyTouCan: G04652PB
+            JCGGDB: JCGG-STR014865
+NODE        3
+            1   GlcA      8.6  -1.6
+            2   GlcNAc   -1.4  -1.6
+            3   S        -8.4   2.4
+EDGE        2
+            1     2:a1    1:4  
+            2     3       2:6  
+///

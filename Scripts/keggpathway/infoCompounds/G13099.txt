@@ -1,0 +1,38 @@
+ENTRY       G13099                      Glycan
+NAME        alpha-Dystroglycan
+COMPOSITION (GalNAc)1 (GlcA)2 (GlcNAc)1 (Man)1 (Rib-ol)2 (Xyl)2 (*)1 (P)3 (Ser/Thr)1
+PATHWAY     map00515  Mannose type O-glycan biosynthesis
+            map01100  Metabolic pathways
+NODE        14
+            1   Ser/Thr  45.1     0
+            2   Man      36.1     0
+            3   P        28.9   4.2
+            4   GlcNAc   26.1  -0.1
+            5   GalNAc   16.1  -0.1
+            6   P         9.4  -3.8
+            7   Rib-ol    3.2  -3.8
+            8   P        -2.8  -3.8
+            9   Rib-ol   -8.8  -3.8
+            10  Xyl     -16.9  -3.8
+            11  GlcA      -25  -3.8
+            12  Xyl     -32.4  -3.8
+            13  GlcA    -40.3  -3.8
+            14  *       -45.5  -3.8
+EDGE        13
+            1     2:a1    1    
+            2     3       2:6  
+            3     4:b1    2:4  
+            4     5:b1    4:3  
+            5     6       5:3  
+            6     7:5     6    
+            7     8       7:1  
+            8     9:5     8    
+            9    10:b1    9:4  
+            10   11:b1   10:4  
+            11   12:a1   11:3  
+            12   13:b1   12:3  
+            13   14      13:3  
+BRACKET     1 -43.0  -0.6 -43.0  -7.4
+            1 -29.4  -7.6 -29.4  -0.8
+            1 n
+///

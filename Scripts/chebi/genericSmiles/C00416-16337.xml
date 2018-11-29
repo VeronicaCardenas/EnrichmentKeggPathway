@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TABLE>
+<ENTRY>
+<ID>CHEBI:16337</ID>
+<NAME>phosphatidic acid</NAME>
+<DEFINITION>A derivative of glycerol in which one hydroxy group, commonly but not necessarily primary, is esterified with phosphoric acid and the other two are esterified with fatty acids.</DEFINITION>
+<STAR>3</STAR>
+<SECONDARY_ID>CHEBI:14795</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:26023</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:8122</SECONDARY_ID>
+<SYNONYM>phosphatidic acids</SYNONYM>
+<SYNONYM>phosphatidic acid</SYNONYM>
+<SYNONYM>Phosphatidic acid</SYNONYM>
+<SYNONYM>Phosphatidate</SYNONYM>
+<SYNONYM>3-sn-Phosphatidate</SYNONYM>
+<SYNONYM>1,2-Diacyl-sn-glycerol 3-phosphate</SYNONYM>
+<FORMULA>C5H7O8PR2</FORMULA>
+<MASS>226.07800</MASS>
+<MONOISOTOPIC_MASS>225.988</MONOISOTOPIC_MASS>
+<CHARGE>0</CHARGE>
+<SMILES>OP(O)(=O)OCC(COC([*])=O)OC([*])=O</SMILES>
+<KEGG_COMPOUND_ACCESSION>C00416</KEGG_COMPOUND_ACCESSION>
+</ENTRY>
+</TABLE>

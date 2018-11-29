@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TABLE>
+<ENTRY>
+<ID>CHEBI:16991</ID>
+<NAME>deoxyribonucleic acid</NAME>
+<DEFINITION>High molecular weight, linear polymers, composed of nucleotides containing deoxyribose and linked by phosphodiester bonds; DNA contain the genetic information of organisms.</DEFINITION>
+<STAR>3</STAR>
+<SECONDARY_ID>CHEBI:4291</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:13302</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:21123</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:33698</SECONDARY_ID>
+<SYNONYM>thymus nucleic acid</SYNONYM>
+<SYNONYM>DNS</SYNONYM>
+<SYNONYM>DNAn+1</SYNONYM>
+<SYNONYM>DNAn</SYNONYM>
+<SYNONYM>DNA</SYNONYM>
+<SYNONYM>DNA</SYNONYM>
+<SYNONYM>desoxyribose nucleic acid</SYNONYM>
+<SYNONYM>Desoxyribonukleinsaeure</SYNONYM>
+<SYNONYM>deoxyribonucleic acids</SYNONYM>
+<SYNONYM>Deoxyribonucleic acid</SYNONYM>
+<SYNONYM>(Deoxyribonucleotide)n+m</SYNONYM>
+<SYNONYM>(Deoxyribonucleotide)n</SYNONYM>
+<SYNONYM>(Deoxyribonucleotide)m</SYNONYM>
+<IUPAC_NAME>deoxyribonucleic acids</IUPAC_NAME>
+<CAS_REGISTRY_NUMBER>9007-49-2</CAS_REGISTRY_NUMBER>
+<CHEMIDPLUS>9007-49-2</CHEMIDPLUS>
+<KEGG_COMPOUND_ACCESSION>C00039</KEGG_COMPOUND_ACCESSION>
+</ENTRY>
+</TABLE>

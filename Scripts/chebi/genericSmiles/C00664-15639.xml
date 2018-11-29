@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TABLE>
+<ENTRY>
+<ID>CHEBI:15639</ID>
+<NAME>5-formimidoyltetrahydrofolic acid</NAME>
+<DEFINITION>The 5-formimidoyl derivative of tetrahydrofolic acid.</DEFINITION>
+<STAR>3</STAR>
+<SECONDARY_ID>CHEBI:12126</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:18603</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:2056</SECONDARY_ID>
+<SYNONYM>N-(5-formimidoyl-5,6,7,8-tetrahydropteroyl)-L-glutamic acid</SYNONYM>
+<SYNONYM>[(6S)-5-formimidoyl-5,6,7,8-tetrahydropteroyl]glutamate</SYNONYM>
+<SYNONYM>5-formiminotetrahydrofolate</SYNONYM>
+<SYNONYM>5-Formiminotetrahydrofolate</SYNONYM>
+<SYNONYM>5-Formimidoyltetrahydrofolate</SYNONYM>
+<SYNONYM>(6R)-5-formiminotetrahydrofolate</SYNONYM>
+<IUPAC_NAME>N-[4-({[(6S)-2-amino-5-formimidoyl-4-oxo-3,4,5,6,7,8-hexahydropteridin-6-yl]methyl}amino)benzoyl]-L-glutamic acid</IUPAC_NAME>
+<FORMULA>C20H24N8O6</FORMULA>
+<FORMULA>C20H24N8O6</FORMULA>
+<MASS>472.45460</MASS>
+<MONOISOTOPIC_MASS>472.182</MONOISOTOPIC_MASS>
+<CHARGE>0</CHARGE>
+<SMILES>[H]C(=N)N1[C@@H](CNc2ccc(cc2)C(=O)N[C@@H](CCC(O)=O)C(O)=O)CNc2nc(N)[nH]c(=O)c12</SMILES>
+<INCHI>InChI=1S/C20H24N8O6/c21-9-28-12(8-24-16-15(28)18(32)27-20(22)26-16)7-23-11-3-1-10(2-4-11)17(31)25-13(19(33)34)5-6-14(29)30/h1-4,9,12-13,21,23H,5-8H2,(H,25,31)(H,29,30)(H,33,34)(H4,22,24,26,27,32)/t12-,13-/m0/s1</INCHI>
+<INCHIKEY>YCWUVLPMLLBDCU-STQMWFEESA-N</INCHIKEY>
+<KEGG_COMPOUND_ACCESSION>C00664</KEGG_COMPOUND_ACCESSION>
+</ENTRY>
+</TABLE>

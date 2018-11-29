@@ -1,0 +1,23 @@
+ENTRY       G00156                      Glycan
+COMPOSITION (Gal)2 (Xyl)1 (Ser)1
+MASS        456.4 (Ser)
+REMARK      Same as: C04825
+REACTION    R05927 R05928
+PATHWAY     map00532  Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+            map01100  Metabolic pathways
+MODULE      M00057  Glycosaminoglycan biosynthesis, linkage tetrasaccharide
+ENZYME      2.4.1.134       2.4.1.135
+ORTHOLOGY   K00735  galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1 [EC:2.4.1.135]
+DBLINKS     CCSD: 205 3591 8342 21235
+            GlyTouCan: G87877ES
+            JCGGDB: JCGG-STR028206
+NODE        4
+            1   Ser        10     0
+            2   Xyl         4     0
+            3   Gal        -3     0
+            4   Gal       -10     0
+EDGE        3
+            1     2:b1    1    
+            2     3:b1    2:4  
+            3     4:b1    3:3  
+///

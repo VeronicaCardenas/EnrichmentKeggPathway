@@ -1,0 +1,38 @@
+ENTRY       C17217                      Compound
+NAME        Dihomomethionine;
+            L-Dihomomethionine
+FORMULA     C7H15NO2S
+EXACT_MASS  177.0823
+MOL_WEIGHT  177.2645
+REACTION    R08626 R08670
+PATHWAY     map00966  Glucosinolate biosynthesis
+            map01210  2-Oxocarboxylic acid metabolism
+ENZYME      1.14.14.42      2.6.1.-
+DBLINKS     PubChem: 96023625
+            ChEBI: 50710
+            KNApSAcK: C00007594
+            NIKKAJI: J1.570.412H
+ATOM        11
+            1   C1a C    13.7901  -16.5201
+            2   S2a S    15.0025  -15.8201
+            3   C1b C    16.2150  -16.5201
+            4   C1b C    17.4274  -15.8201
+            5   C1b C    18.6398  -16.5201
+            6   C1b C    19.8523  -15.8201
+            7   C1c C    21.0647  -16.5201
+            8   C6a C    22.2772  -15.8201
+            9   O6a O    23.4897  -16.5201
+            10  O6a O    22.2772  -14.4202
+            11  N1a N    21.0647  -17.9201
+BOND        10
+            1     1   2 1
+            2     2   3 1
+            3     3   4 1
+            4     4   5 1
+            5     5   6 1
+            6     6   7 1
+            7     7   8 1
+            8     8   9 1
+            9     8  10 2
+            10    7  11 1 #Up
+///

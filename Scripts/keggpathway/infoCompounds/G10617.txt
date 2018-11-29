@@ -1,0 +1,19 @@
+ENTRY       G10617                      Glycan
+NAME        Dolichyl phosphate D-mannose;
+            Dolichyl D-mannosyl phosphate
+COMPOSITION (Man)1 (P-Dol)1
+MASS        162.1 (P-Dol)
+REMARK      Same as: C03862
+REACTION    R05919 R05921 R05922 R06258 R06259 R06260 R06261 R07129 
+            R07620
+PATHWAY     map00563  Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+ENZYME      2.4.1.109       2.4.1.258       2.4.1.259       2.4.1.260       
+            2.4.1.261       2.4.1.-
+DBLINKS     CCSD: 33553 33570 37572 38660 40454 43262
+            GlyTouCan: G74840NI
+NODE        2
+            1   P-Dol       3     0
+            2   Man        -4     0
+EDGE        1
+            1     2:b1    1    
+///

@@ -1,0 +1,36 @@
+ENTRY       G10716                      Glycan
+COMPOSITION (Gal)2 (GlcNAc)4 (LFuc)1 (Man)3 (Neu5Ac)2 (Asn)1
+MASS        2352.2 (Asn)
+PATHWAY     map00513  Various types of N-glycan biosynthesis
+            map01100  Metabolic pathways
+DBLINKS     CCSD: 1974 1975 1976 5470 5493 20870 25738 27281 27306 35217
+            GlyTouCan: G17689DH
+            JCGGDB: JCGG-STR011647
+NODE        13
+            1   Asn        35     3
+            2   GlcNAc     25     3
+            3   LFuc       15     8
+            4   GlcNAc     15    -2
+            5   Man         5    -2
+            6   Man        -5     3
+            7   Man        -5    -7
+            8   GlcNAc    -15     3
+            9   GlcNAc    -15    -7
+            10  Gal       -25     3
+            11  Gal       -25    -7
+            12  Neu5Ac    -35     3
+            13  Neu5Ac    -35    -7
+EDGE        12
+            1     2:b1    1    
+            2     3:a1    2:6  
+            3     4:b1    2:4  
+            4     5:b1    4:4  
+            5     6:a1    5:6  
+            6     7:a1    5:3  
+            7     8:b1    6:2  
+            8     9:b1    7:2  
+            9    10:b1    8:4  
+            10   11:b1    9:4  
+            11   12:a2   10:3  
+            12   13:a2   11:3  
+///

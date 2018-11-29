@@ -1,0 +1,18 @@
+ENTRY       G13074                      Glycan
+COMPOSITION (Gal)1 (GlcNAc)2 (S)1
+MASS        666.6
+REACTION    R07808 R07809
+PATHWAY     map00531  Glycosaminoglycan degradation
+            map01100  Metabolic pathways
+MODULE      M00079  Keratan sulfate degradation
+ENZYME      3.1.6.14        3.2.1.52
+NODE        4
+            1   GlcNAc    8.9  -1.8
+            2   S         2.5   1.5
+            3   Gal      -0.1  -1.8
+            4   GlcNAc   -9.1  -1.8
+EDGE        3
+            1     2       1:6  
+            2     3:b1    1:4  
+            3     4:b1    3:3  
+///

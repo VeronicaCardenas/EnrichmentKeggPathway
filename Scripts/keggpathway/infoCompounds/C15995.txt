@@ -1,0 +1,11 @@
+ENTRY       C15995                      Compound
+NAME        Bombesin
+SEQUENCE    Glp Gln Arg Leu Gly Asn Gln Trp Ala Val Gly His Leu Met-NH2
+  ORGANISM  Bombina bombina [UP:BOMB_BOMBO]
+  TYPE      Peptide
+PATHWAY     map04080  Neuroactive ligand-receptor interaction
+DBLINKS     CAS: 31362-50-2
+            PubChem: 47205306
+            ChEBI: 80229
+            NIKKAJI: J263.851G
+///

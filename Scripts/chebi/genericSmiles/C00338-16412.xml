@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<TABLE>
+<ENTRY>
+<ID>CHEBI:16412</ID>
+<NAME>lipopolysaccharide</NAME>
+<DEFINITION>Liposaccharide natural compounds consisting of a trisaccharide repeating unit (two heptose units and octulosonic acid) with oligosaccharide side chains and 3-hydroxytetradecanoic acid units (they are a major constituent of the cell walls of Gram-negative bacteria).</DEFINITION>
+<STAR>3</STAR>
+<SECONDARY_ID>CHEBI:6494</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:14520</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:25062</SECONDARY_ID>
+<SYNONYM>LPS</SYNONYM>
+<SYNONYM>lipopolysaccharides</SYNONYM>
+<SYNONYM>Lipopolysaccharide</SYNONYM>
+<KEGG_COMPOUND_ACCESSION>C00338</KEGG_COMPOUND_ACCESSION>
+<PUBMED_CITATION>15589368</PUBMED_CITATION>
+<PUBMED_CITATION>24186868</PUBMED_CITATION>
+<PUBMED_CITATION>24506665</PUBMED_CITATION>
+<PUBMED_CITATION>24642373</PUBMED_CITATION>
+<PUBMED_CITATION>24659348</PUBMED_CITATION>
+</ENTRY>
+</TABLE>

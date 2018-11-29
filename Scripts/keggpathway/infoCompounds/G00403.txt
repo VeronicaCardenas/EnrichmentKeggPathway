@@ -1,0 +1,27 @@
+ENTRY       G00403                      Glycan
+NAME        iGb3-Cer
+COMPOSITION (Gal)2 (Glc)1 (Cer)1
+MASS        486.4 (Cer)
+REMARK      Same as: C13924
+REACTION    R11320 R11321
+PATHWAY     map00603  Glycosphingolipid biosynthesis - globo and isoglobo series
+ENZYME      2.4.1.79        2.4.1.87
+BRITE       Lipids [BR:br08002]
+             SP  Sphingolipids
+              SP05 Neutral glycosphingolipids
+               SP0506 GalNAcb1-3Gala1-3Galb1-4Glc- (Isoglobo series)
+                G00403  Gal-alpha1->3Gal-beta1->4Glc-beta1->1'Cer (iGb3Cer)
+DBLINKS     CCSD: 308 309 310 4765 9146 11642 14544 15148 15504 16139 16340 17709 21113 21121 22261 25492 30872 35958 36161 38024 45301 46802
+            GlyTouCan: G78074HX
+            JCGGDB: JCGG-STR027164
+            LipidBank: GSG1331
+NODE        4
+            1   Cer        15     0
+            2   Glc         5     0
+            3   Gal        -5     0
+            4   Gal       -15     0
+EDGE        3
+            1     2:b1    1:1  
+            2     3:b1    2:4  
+            3     4:a1    3:3  
+///

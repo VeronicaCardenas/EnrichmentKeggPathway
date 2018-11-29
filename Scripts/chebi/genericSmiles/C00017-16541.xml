@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<TABLE>
+<ENTRY>
+<ID>CHEBI:16541</ID>
+<NAME>protein polypeptide chain</NAME>
+<DEFINITION>A naturally occurring polypeptide synthesized at the ribosome.</DEFINITION>
+<STAR>3</STAR>
+<SECONDARY_ID>CHEBI:8526</SECONDARY_ID>
+<SYNONYM>protein polypeptide chains</SYNONYM>
+<SYNONYM>Protein</SYNONYM>
+<SYNONYM>polypeptide chain</SYNONYM>
+<KEGG_COMPOUND_ACCESSION>C00017</KEGG_COMPOUND_ACCESSION>
+</ENTRY>
+</TABLE>

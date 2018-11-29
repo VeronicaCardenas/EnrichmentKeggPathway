@@ -1,0 +1,45 @@
+ENTRY       G00008                      Glycan
+COMPOSITION (Glc)3 (GlcNAc)2 (Man)9 (PP-Dol)1
+MASS        2352.1 (PP-Dol)
+REACTION    R05976 R06264
+PATHWAY     map00510  N-Glycan biosynthesis
+            map01100  Metabolic pathways
+MODULE      M00055  N-glycan precursor biosynthesis
+            M00072  N-glycosylation by oligosaccharyltransferase
+ENZYME      2.4.1.256       2.4.1.-         2.4.99.18
+ORTHOLOGY   K00730  oligosaccharyl transferase complex subunit OST4
+DBLINKS     CCSD: 4532 6023 6993 6996 6997 6999 7000 7003 7005 7006 7007 7012 7014 7015 7018 7019 7020 11900 11901 27483 28887 31272 31757 31774 32762 32815 33845 33864 37071 38410 38474 47089
+            GlyTouCan: G72079JG
+            JCGGDB: JCGG-STR028873
+NODE        15
+            1   PP-Dol     33    -2
+            2   GlcNAc     24    -2
+            3   GlcNAc     16    -2
+            4   Man         7    -2
+            5   Man         0     4
+            6   Man         0    -9
+            7   Man        -7     9
+            8   Man        -7     0
+            9   Man        -7    -9
+            10  Man       -14     9
+            11  Man       -14     0
+            12  Man       -14    -9
+            13  Glc       -21    -9
+            14  Glc       -27    -9
+            15  Glc       -33    -9
+EDGE        14
+            1     2:a1    1    
+            2     3:b1    2:4  
+            3     4:b1    3:4  
+            4     5:a1    4:6  
+            5     6:a1    4:3  
+            6     7:a1    5:6  
+            7     8:a1    5:3  
+            8     9:a1    6:2  
+            9    10:a1    7:2  
+            10   11:a1    8:2  
+            11   12:a1    9:2  
+            12   13:a1   12:3  
+            13   14:a1   13:3  
+            14   15:a1   14:2  
+///

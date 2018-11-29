@@ -1,0 +1,19 @@
+ENTRY       G10611                      Glycan
+NAME        UDP-N-acetyl-D-galactosamine;
+            UDP-N-acetylgalactosamine
+COMPOSITION (UDP-GalNAc)1
+REMARK      Same as: C00203
+REACTION    R05907 R05929 R05932 R05934 R05938 R05939 R05946 R05952 
+            R05962 R05965 R06011 R06167 R06187 R06191 R06193 R06197 
+            R07609 R07610 R07611 R07614 R07615 R07616 R11321 R11322 
+            R11378 R11379
+PATHWAY     map00512  Mucin type O-glycan biosynthesis
+            map01100  Metabolic pathways
+MODULE      M00056  O-glycan biosynthesis, mucin type core
+ENZYME      2.4.1.40        2.4.1.41        2.4.1.79        2.4.1.88        
+            2.4.1.92        2.4.1.165       2.4.1.174       2.4.1.175       
+            2.4.1.244       2.4.1.313       2.4.1.-
+NODE        1
+            1   UDP-GalNAc  -0.2  -0.2
+EDGE        0
+///

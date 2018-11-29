@@ -1,0 +1,40 @@
+ENTRY       C00752                      Compound
+NAME        Thrombin;
+            Coagulation factor II
+SEQUENCE    (A chain) TFGSGEADCG LRPLFEKKSL EDKTERELLE SYIDGR
+            (B chain) IVEGSDAEIG MSPWQVMLFR KSPQELLCGA SLISDRWVLT AAHCLLYPPW
+            DKNFTENDLL VRIGKHSRTR YERNIEKISM LEKIYIHPRY NWRENLDRDI ALMKLKKPVA
+            FSDYIHPVCL PDRETAASLL QAGYKGRVTG WGNLKETWTA NVGKGQPSVL QVVNLPIVER
+            PVCKDSTRIR ITDNMFCAGY KPDEGKRGDA CEGDSGGPFV MKSPFNNRWY QMGIVSWGEG
+            CDRDGKYGFY THVFRLKKWI QKVIDQFGE (Disulfide bridge: A9-B119)
+  ORGANISM  Human [HSA:2147] [UP:THRB_HUMAN]
+  TYPE      Peptide
+REMARK      Same as: D00090
+COMMENT     active form [EC:3.4.21.5] of prothrombin [KO:K01313]
+PATHWAY     map04072  Phospholipase D signaling pathway
+            map04611  Platelet activation
+            map05200  Pathways in cancer
+BRITE       Anatomical Therapeutic Chemical (ATC) classification [BR:br08303]
+             B BLOOD AND BLOOD FORMING ORGANS
+              B02 ANTIHEMORRHAGICS
+               B02B VITAMIN K AND OTHER HEMOSTATICS
+                B02BC Local hemostatics
+                 B02BC06 Thrombin
+                  D00090  Thrombin (JP17/USP/INN)
+                B02BD Blood coagulation factors
+                 B02BD30 Thrombin
+                  D00090  Thrombin (JP17/USP/INN)
+            Therapeutic category of drugs in Japan [BR:br08301]
+             3  Agents affecting metabolism
+              33  Blood and body fluid agents
+               332  Hemostatics
+                3323  Hemostatics for organs
+                 D00090  Thrombin (JP17/USP/INN)
+            Drugs listed in the Japanese Pharmacopoeia [BR:br08311]
+             Chemicals
+              D00090  Thrombin
+DBLINKS     CAS: 9002-04-4
+            PubChem: 4014
+            ChEBI: 9574
+            NIKKAJI: J247.643F
+///

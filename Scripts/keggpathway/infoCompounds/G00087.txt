@@ -1,0 +1,34 @@
+ENTRY       G00087                      Glycan
+NAME        VI6NeuAc-nLc6Cer
+COMPOSITION (Gal)3 (Glc)1 (GlcNAc)2 (Neu5Ac)1 (Cer)1
+MASS        1346.2 (Cer)
+REACTION    R06216
+PATHWAY     map00601  Glycosphingolipid biosynthesis - lacto and neolacto series
+ENZYME      2.4.99.-
+REFERENCE   1  [PMID:2960671]
+            Holmes EH, Hakomori S, Ostrander GK.
+            Synthesis of type 1 and 2 lacto series glycolipid antigens in human colonic adenocarcinoma and derived cell lines is due to activation of a normally unexpressed beta 1----3N-acetylglucosaminyltransferase.
+            J. Biol. Chem. 262 (1987) 15649-58.
+DBLINKS     CCSD: 1247 1248 8612 11853 15277 16414 16457 16473 16552 16888 16931 17101 17360 25465 29783 36191 36846
+            GlyTouCan: G40491DT
+            JCGGDB: JCGG-STR027229
+            LipidBank: GSG1127
+            GlycoEpitope: EP0351
+NODE        8
+            1   Cer        23     0
+            2   Glc        17     0
+            3   Gal        11     0
+            4   GlcNAc      4     0
+            5   Gal        -3     0
+            6   GlcNAc    -10     0
+            7   Gal       -17     0
+            8   Neu5Ac    -24     0
+EDGE        7
+            1     2:b1    1:1  
+            2     3:b1    2:4  
+            3     4:b1    3:3  
+            4     5:b1    4:4  
+            5     6:b1    5:3  
+            6     7:b1    6:4  
+            7     8:a2    7:6  
+///

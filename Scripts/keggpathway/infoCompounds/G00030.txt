@@ -1,0 +1,19 @@
+ENTRY       G00030                      Glycan
+COMPOSITION (GalNAc)2 (Ser/Thr)1
+MASS        406.4 (Ser/Thr)
+PATHWAY     map00512  Mucin type O-glycan biosynthesis
+            map01100  Metabolic pathways
+REFERENCE   1  [PMID:14631106]
+            Wu AM.
+            Carbohydrate structural units in glycoproteins and polysaccharides as important ligands for Gal and GalNAc reactive lectins.
+            J. Biomed. Sci. 10 (2003) 676-88.
+DBLINKS     GlyTouCan: G00039MO
+            JCGGDB: JCGG-STR025804
+NODE        3
+            1   Ser/Thr    10     0
+            2   GalNAc     -1     0
+            3   GalNAc    -11     0
+EDGE        2
+            1     2:a1    1    
+            2     3:a1    2:3  
+///

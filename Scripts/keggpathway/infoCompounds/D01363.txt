@@ -1,0 +1,94 @@
+ENTRY       D01363                      Drug
+NAME        Carboplatin (JP17/USP/INN);
+            Paraplatin (TN)
+PRODUCT
+  GENERIC   CARBOPLATIN (Accord Healthcare) 48aa7ef3-9f44-2a08-e054-00144ff88e88
+            CARBOPLATIN (Fresenius Kabi USA) b4fa7aac-c9d2-4af4-a281-3e6cfc502ff6
+            CARBOPLATIN (Fresenius Kabi USA) b92dcedd-d358-e821-c478-6a469c30b26b
+            CARBOPLATIN (Gland Pharma Limited) 9eb057eb-29ce-40d2-9ac8-ed107f25f5ab
+            CARBOPLATIN (Hospira) c3ae9880-44bb-4f4e-93d8-8a5e21708a30
+            CARBOPLATIN (Ingenus Pharmaceuticals) 475caee0-15a6-4f0d-bca7-f3e472b323f7
+            CARBOPLATIN (Meitheal Pharmaceuticals) 81757808-f609-40d1-a4c1-08b32234719f
+            CARBOPLATIN (Mylan Institutional LLC) 806736d3-215a-4df5-8187-97f2161e5a53
+            CARBOPLATIN (Mylan Institutional LLC) 91bc1221-4191-4970-88e3-a1659bc75392
+            CARBOPLATIN (Sagent Pharmaceuticals) a7f256b2-4705-4e26-8996-72ac367842ed
+            CARBOPLATIN (Sandoz) 7307d15b-4548-41e4-bf02-cc4c2927bbf9
+            CARBOPLATIN (Sun Pharma Global FZE) 2ccca2f5-518d-438c-8e62-5b1bcf2005b7
+            CARBOPLATIN (Teva Parenteral Medicines) b5603e69-0ff0-4db0-b788-78b83ecb00d6
+            CARBOPLATIN (Teva Parenteral Medicines) e176b6ef-2ff6-498b-a9d8-7a634d147f37
+            CARBOPLATIN (Teva Parenteral Medicines) f330f5a2-2cad-402f-bcbb-26245a753276
+            CARBOPLATIN (Sanja Pharmaceuticals Company) f4baa639-287b-4d97-923f-ce5c6add531c
+FORMULA     C6H6O4Pt. 2NH3
+EXACT_MASS  371.0445
+MOL_WEIGHT  371.2545
+CLASS       Antineoplastic
+             DG01679  Platinum compound
+REMARK      Therapeutic category: 4291
+            ATC code: L01XA02
+            Chemical group: DG02185
+ACTIVITY    Antineoplastic, Cell growth inhibitor
+  DISEASE   Ovarian carcinoma [DS:H00027]
+COMMENT     Platinum compound
+            DNA alkylator
+TARGET      DNA
+INTERACTION  
+STR_MAP     map07040  Antineoplastics - alkylating agents
+OTHER_MAP   map01524  Platinum drug resistance
+BRITE       Anatomical Therapeutic Chemical (ATC) classification [BR:br08303]
+             L ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS
+              L01 ANTINEOPLASTIC AGENTS
+               L01X OTHER ANTINEOPLASTIC AGENTS
+                L01XA Platinum compounds
+                 L01XA02 Carboplatin
+                  D01363  Carboplatin (JP17/USP/INN)
+            Therapeutic category of drugs in Japan [BR:br08301]
+             4  Agents affecting cellular function
+              42  Antineoplastics
+               429  Miscellaneous
+                4291  Other Antitumors
+                 D01363  Carboplatin (JP17/USP/INN)
+            Target-based classification of drugs [BR:br08310]
+             Others
+              Nucleic acid
+               DNA
+                Carboplatin
+                 D01363  Carboplatin (JP17/USP/INN)
+            Drugs listed in the Japanese Pharmacopoeia [BR:br08311]
+             Chemicals
+              D01363  Carboplatin
+              D01363  Carboplatin injection
+            Antineoplastics [br08340.html]
+             D01363
+DBLINKS     CAS: 41575-94-4
+            PubChem: 7848426
+            ChEBI: 31355
+            DrugBank: DB00958
+            NIKKAJI: J362.552D
+ATOM        13
+            1   C1x C    19.7997  -13.7249
+            2   C1x C    20.7898  -14.7149
+            3   C1x C    21.7798  -13.7249
+            4   C1z C    20.7898  -12.7348
+            5   O7x O    19.5742  -10.6345
+            6   C7x C    19.5742  -12.0347
+            7   C7x C    21.9982  -12.0347
+            8   O7x O    21.9982  -10.6345
+            9   Z   Pt   20.7198   -9.6544
+            10  O6a O    18.3618  -12.7354
+            11  O6a O    23.2114  -12.7338
+            12  N0  N    25.3024  -10.9880
+            13  N0  N    25.3732  -13.6753
+BOND        12
+            1     1   2 1
+            2     2   3 1
+            3     5   6 1
+            4     6   4 1
+            5     4   7 1
+            6     7   8 1
+            7     8   9 1
+            8     9   5 1
+            9     3   4 1
+            10    6  10 2
+            11    4   1 1
+            12    7  11 2
+///

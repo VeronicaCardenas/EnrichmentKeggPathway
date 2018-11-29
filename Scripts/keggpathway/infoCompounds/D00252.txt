@@ -1,0 +1,268 @@
+ENTRY       D00252                      Drug
+NAME        Carbamazepine (JP17/USP/INN);
+            Equetro (TN);
+            Tegretol (TN)
+PRODUCT     TEGRETOL (Avera McKennan Hospital) 7b32eb35-b73a-4911-ab6b-056efbd4a70d
+            CARBAMAZEPINE (KAISER FOUNDATION HOSPITALS) c758cdd7-824a-4e13-9f98-5f1fe0fe7f9b
+            CARNEXIV (Lundbeck Pharmaceuticals LLC) fd22916c-ee35-4b57-9b1b-68d106422f5d
+            TEGRETOL (Novartis Pharmaceuticals Corporation) 8d409411-aa9f-4f3a-a52c-fbcb0c3ec053
+            CARBAMAZEPINE (Physicians Total Care) bf2e0dfa-d6ca-4961-9627-b666266f58f1
+            CARBATROL (Physicians Total Care) fbf67fc8-8d29-4ae2-a533-75461754c5b1
+            TEGRETOL (REMEDYREPACK) 1d0f0c47-25f7-453f-81c7-d852a909920d
+            TEGRETOL (REMEDYREPACK) 9528e07a-c386-4d07-bd57-9ca3e1a59ec6
+            CARBATROL (Shire US Manufacturing) bc03e499-5bac-4293-bff4-6864153a624d
+            EQUETRO (Validus Pharmaceuticals LLC) be478f3c-40f6-47cc-8ab9-f420a9372b1c
+  GENERIC   CARBAMAZEPINE (Aidarex Pharmaceuticals LLC) 80be25d9-2e4c-4e7c-b924-9cffbcf87b9e
+            CARBAMAZEPINE (American Health Packaging) 1dd3d934-efee-4fdb-ae6f-f47b61831a2e
+            CARBAMAZEPINE (American Health Packaging) d0a2b6f1-df0e-4b62-b340-75e96d8030a7
+            CARBAMAZEPINE (Aphena Pharma Solutions - Tennessee) c1fc31ef-6b2e-4de4-a185-ec44e94e7b40
+            CARBAMAZEPINE (Apotex Corp.) bf0d012f-da14-8ce3-d74f-56172cddebc5
+            CARBAMAZEPINE (Apotex Corp.) e91f9de3-3fdd-0a6b-71ce-53a2cc142816
+            CARBAMAZEPINE (Atlantic Biologicals Corps) 25939406-a836-43cd-9301-56808e9b31ec
+            CARBAMAZEPINE (Avera McKennan Hospital) a28e40b8-c114-4f55-93d3-ef9f6749bfdd
+            CARBAMAZEPINE (Avera McKennan Hospital) de6b0fd5-11fe-4f19-90e6-54339be5c9fc
+            CARBAMAZEPINE (Bryant Ranch Prepack) 89332a92-cbf8-bf1b-694f-8d03e8f057a0
+            CARBAMAZEPINE (Cardinal Health) 232ef732-ee6d-4ac7-8e78-c619b611fbbe
+            CARBAMAZEPINE (Cardinal Health) 8e9e18aa-6c9d-4172-87b4-4bec6f485cb9
+            CARBAMAZEPINE (Cardinal Health) ece26b17-d6bf-4b0c-b9b2-17a58aae95a1
+            CARBAMAZEPINE (Clinical Solutions Wholesale) e36ece79-544b-43b2-8cf9-ca9861b071b5
+            CARBAMAZEPINE (Contract Pharmacy Services-PA) 59404085-ac5d-794d-e053-2991aa0abbc5
+            CARBAMAZEPINE (Contract Pharmacy Services-PA) 5940711d-71a7-cb7d-e053-2a91aa0aef18
+            CARBAMAZEPINE (Contract Pharmacy Services-PA) 8e06995c-26c9-4ef3-9421-16a2360db628
+            CARBAMAZEPINE (Golden State Medical Supply) 536811ab-308b-4866-9185-9e4149483512
+            CARBAMAZEPINE (Golden State Medical Supply) 9de2e32b-2835-42a2-830d-297852e3e72a
+            CARBAMAZEPINE (Golden State Medical Supply) 9fca7d59-dd9e-4fd8-bf34-e2f7e5a36801
+            CARBAMAZEPINE (Lake Erie Medical DBA Quality Care Products LLC) 2742c916-0181-4d27-aa25-d744836e935c
+            CARBAMAZEPINE (Major Pharmaceuticals) 2a8c7366-ce89-47ce-8123-96f26812fca0
+            CARBAMAZEPINE (McKesson Contract Packaging) 6fca30bd-28e5-4e32-b194-97c84966900d
+            CARBAMAZEPINE (McKesson Contract Packaging) a3f9a1e3-133e-4a97-be1e-d92deef34ddc
+            CARBAMAZEPINE (Morton Grove Pharmaceuticals) 99e20867-a5eb-4474-b846-619ee45f40b8
+            CARBAMAZEPINE (Mylan Institutional) ccb97a82-315f-4a23-b98f-37d3a63ac381
+            CARBAMAZEPINE (NCS HealthCare of KY) 7f9ed987-5e34-4536-a22f-4898c9797e61
+            CARBAMAZEPINE (NCS HealthCare of KY) fd97d064-4c55-481d-b7ef-cfb948fc75b4
+            CARBAMAZEPINE (Northwind Pharmaceuticals) 8e5df2e3-92fc-4865-97de-1da0a32c788d
+            CARBAMAZEPINE (Nostrum Laboratories) ee15d911-73c7-4bc6-96f2-089a8aa64e18
+            CARBAMAZEPINE (Nostrum Laboratories) fbca2152-0022-47a5-a1ea-58950b45bcbf
+            CARBAMAZEPINE (NuCare Pharmaceuticals) 40cdc43d-72da-6a9e-e054-00144ff8d46c
+            CARBAMAZEPINE (NuCare Pharmaceuticals) 50348652-fc2a-3f1d-e054-00144ff8d46c
+            CARBAMAZEPINE (PD-Rx Pharmaceuticals) ce5aec7a-e161-46bf-8fc0-afb41689e59a
+            CARBAMAZEPINE (Physicians Total Care) f38feadf-3fa4-430c-99ed-374023f8132c
+            CARBAMAZEPINE (Prasco Laboratories) 7a1e523a-b377-43dc-b231-7591c4c888ea
+            CARBAMAZEPINE (Precision Dose) e5160019-ccdb-46d5-8510-6ea7084ca854
+            CARBAMAZEPINE (Precision Dose) b0655a23-fea0-4a8c-aec2-e0e636528eb1
+            CARBAMAZEPINE (Preferred Pharmaceuticals) 157f67bd-74f0-4d68-9058-8fa707c564be
+            CARBAMAZEPINE (Preferred Pharmaceuticals) 715555e5-49d2-4367-bcb7-78e7a23c6346
+            CARBAMAZEPINE (REMEDYREPACK) 0a6c9407-35b2-4ad5-b6c3-43af24906839
+            CARBAMAZEPINE (REMEDYREPACK) 33068ad0-3654-4b5a-a081-5ce89075b307
+            CARBAMAZEPINE (REMEDYREPACK) 75c5c199-13d5-438a-9dc3-c9ae823a2b9b
+            CARBAMAZEPINE (REMEDYREPACK) 88b1f7a3-6a75-4c6c-8506-14087a345784
+            CARBAMAZEPINE (REMEDYREPACK) b21e7897-9fc5-40fa-8fe7-3253f5acabb2
+            CARBAMAZEPINE (REMEDYREPACK) c57a7b8e-de75-4c29-adcd-e5ad0f65c1a3
+            CARBAMAZEPINE (REMEDYREPACK) c8f55f88-8b40-4949-a7ae-cc59a48125ba
+            CARBAMAZEPINE (REMEDYREPACK) e38aec1f-19c9-4da3-8cb5-7794ef4cc500
+            CARBAMAZEPINE (REMEDYREPACK) e56c834a-6bd2-46f9-80b7-6e04c463961c
+            CARBAMAZEPINE (Rebel Distributors Corp) 25cca2b1-9020-4d8a-bc22-b8063e57f9e1
+            CARBAMAZEPINE (STAT RX USA LLC) 988cce8b-eb9f-4bf7-85bc-a736575d98b1
+            CARBAMAZEPINE (Sandoz) 3a3344dc-9cc8-41da-859e-295d053597c1
+            CARBAMAZEPINE (State of Florida DOH Central Pharmacy) 00aa4948-6ff6-48ed-9e45-ecbb7a65452c
+            CARBAMAZEPINE (State of Florida DOH Central Pharmacy) 1d6698da-dacd-44e3-8af1-976bc7427de1
+            CARBAMAZEPINE (State of Florida DOH Central Pharmacy) 6903e7ef-8b5c-4b64-a87d-62f1f102bc75
+            CARBAMAZEPINE (TYA Pharmaceuticals) 19fa8a00-51a0-4f8f-8060-45f7053ceb29
+            CARBAMAZEPINE (Taro Pharmaceuticals U.S.A.) 0526a054-3eda-49b4-b390-7d5d16e30af8
+            CARBAMAZEPINE (Taro Pharmaceuticals U.S.A.) f4b93cb8-a980-4bae-a743-d5389fdf6899
+            EPITOL (Teva Pharmaceuticals USA) 32bbe864-7374-44da-8c6e-e733f0648243
+            CARBAMAZEPINE (Teva Pharmaceuticals USA) 6a0c0e69-3a29-492a-ba72-9b202d263cc2
+            CARBAMAZEPINE (Teva Pharmaceuticals USA) bfd63965-56e6-4af7-b7ef-45a5105d4d35
+            CARBAMAZEPINE (Torrent Pharmaceuticals Limited) 97e6e175-75e8-437b-b457-ddb1ae4e857d
+            CARBAMAZEPINE (Unit Dose Services) dda719fe-21a2-4547-b2be-f7f712008d19
+            CARBAMAZEPINE (Upsher-Smith Laboratories) 11bb0112-043f-47f1-818a-ceea161ae096
+FORMULA     C15H12N2O
+EXACT_MASS  236.095
+MOL_WEIGHT  236.2686
+CLASS       Neuropsychiatric agent
+             DG02034  Carboxamide antiepileptics
+            Cyp substrate
+             DG01633  CYP3A substrate
+            Cyp inhibitor
+             DG01915  CYP3A5 inhibitor
+            Cyp inducer
+             DG01635  CYP3A4 inducer
+             DG01897  CYP3A5 inducer
+            Transporter inducer
+             DG01893  P-glycoprotein inducer
+REMARK      Same as: C06868
+            Therapeutic category: 1139
+            ATC code: N03AF01
+            Chemical group: DG02376
+ACTIVITY    Analgesic, Antiepileptic
+  DISEASE   Trigeminal neuralgia [DS:H01638]
+COMMENT     Carboxamide derivative
+TARGET      SCN1A [HSA:6323] [KO:K04833];
+            SCN2A [HSA:6326] [KO:K04834];
+            SCN3A [HSA:6328] [KO:K04836];
+            SCN4A [HSA:6329] [KO:K04837];
+            SCN5A [HSA:6331] [KO:K04838];
+            SCN8A [HSA:6334] [KO:K04840];
+            SCN9A [HSA:6335] [KO:K04841];
+            SCN10A [HSA:6336] [KO:K04842];
+            SCN11A [HSA:11280] [KO:K04843]
+METABOLISM  Enzyme: CYP3A4 [HSA:1576]
+INTERACTION CYP induction: CYP3A4 [HSA:1576]
+            Transporter induction: ABCB1 [HSA:5243]
+            Genomic biomarker: HLA-B [HSA:3106], HLA-A [HSA:3105]
+STR_MAP     map07033  Anticonvulsants
+            map07231  Sodium channel blocking drugs
+OTHER_MAP   map00982  Drug metabolism - cytochrome P450
+BRITE       Anatomical Therapeutic Chemical (ATC) classification [BR:br08303]
+             N NERVOUS SYSTEM
+              N03 ANTIEPILEPTICS
+               N03A ANTIEPILEPTICS
+                N03AF Carboxamide derivatives
+                 N03AF01 Carbamazepine
+                  D00252  Carbamazepine (JP17/USP/INN)
+            USP drug classification [BR:br08302]
+             Anticonvulsants
+              Sodium Channel Agents
+               Carbamazepine
+                D00252  Carbamazepine (JP17/USP/INN)
+             Bipolar Agents
+              Mood Stabilizers
+               Carbamazepine
+                D00252  Carbamazepine (JP17/USP/INN)
+            Therapeutic category of drugs in Japan [BR:br08301]
+             1  Agents affecting nervous system and sensory organs
+              11  Agents affecting central nervous system
+               113  Antiepileptics
+                1139  Others
+                 D00252  Carbamazepine (JP17/USP/INN)
+            Target-based classification of drugs [BR:br08310]
+             Ion channels
+              Voltage-gated cation channels
+               Na+ channel, SCN alpha, NaV1.x
+                voltage-gated sodium channel (SCN1A)
+                 Carbamazepine
+                  D00252  Carbamazepine (JP17/USP/INN)
+                voltage-gated sodium channel (SCN2A)
+                 Carbamazepine
+                  D00252  Carbamazepine (JP17/USP/INN)
+                voltage-gated sodium channel (SCN3A)
+                 Carbamazepine
+                  D00252  Carbamazepine (JP17/USP/INN)
+                voltage-gated sodium channel (SCN4A)
+                 Carbamazepine
+                  D00252  Carbamazepine (JP17/USP/INN)
+                voltage-gated sodium channel (SCN5A)
+                 Carbamazepine
+                  D00252  Carbamazepine (JP17/USP/INN)
+                voltage-gated sodium channel (SCN8A)
+                 Carbamazepine
+                  D00252  Carbamazepine (JP17/USP/INN)
+                voltage-gated sodium channel (SCN9A)
+                 Carbamazepine
+                  D00252  Carbamazepine (JP17/USP/INN)
+                voltage-gated sodium channel (SCN10A)
+                 Carbamazepine
+                  D00252  Carbamazepine (JP17/USP/INN)
+                 Carbamazepine
+                  D00252  Carbamazepine (JP17/USP/INN)
+                voltage-gated sodium channel (SCN11A)
+                 Carbamazepine
+                  D00252  Carbamazepine (JP17/USP/INN)
+            Cytochrome P450 interactions [BR:br08309]
+             CYP inhbitors
+              CYP2C19
+               Carbamazepine
+                D00252  Carbamazepine (JP17/USP/INN)
+             CYP inducers
+              CYP2C9
+               Carbamazepine
+                D00252  Carbamazepine (JP17/USP/INN)
+              CYP2C19
+               Carbamazepine
+                D00252  Carbamazepine (JP17/USP/INN)
+              CYP3A4
+               Carbamazepine
+                D00252  Carbamazepine (JP17/USP/INN)
+              CYP3A5
+               Carbamazepine
+                D00252  Carbamazepine (JP17/USP/INN)
+              CYP3A7
+               Carbamazepine
+                D00252  Carbamazepine (JP17/USP/INN)
+              CYP3A
+               Carbamazepine
+                D00252  Carbamazepine (JP17/USP/INN)
+             CYP substrates
+              CYP2B6
+               Carbamazepine
+                D00252  Carbamazepine (JP17/USP/INN)
+              CYP2C8
+               Carbamazepine
+                D00252  Carbamazepine (JP17/USP/INN)
+              CYP3A4
+               Carbamazepine
+                D00252  Carbamazepine (JP17/USP/INN)
+             Transporter inducers
+              ABCB1
+               Carbamazepine
+                D00252  Carbamazepine (JP17/USP/INN)
+            Drugs listed in the Japanese Pharmacopoeia [BR:br08311]
+             Chemicals
+              D00252  Carbamazepine
+            Neurological agents [br08367.html]
+             Antiepileptic agents
+              D00252
+            Orphan drugs in the USA [br08355.html]
+             Orphan drugs in the USA
+              D00252
+            Pharmacogenomic biomarkers in FDA drug labels [br08341.html]
+             Polymorphisms and germline mutations
+              D00252
+DBLINKS     CAS: 298-46-4
+            PubChem: 7847318
+            ChEBI: 3387
+            ChEMBL: CHEMBL108
+            DrugBank: DB00564
+            LigandBox: D00252
+            NIKKAJI: J8.590A
+ATOM        18
+            1   C8y C    25.8138  -16.0918
+            2   N1y N    27.0678  -15.4768
+            3   C8y C    28.3384  -16.0677
+            4   C8y C    28.6645  -17.4200
+            5   C8y C    25.5184  -17.4703
+            6   C2x C    27.8109  -18.5337
+            7   C2x C    26.4089  -18.5521
+            8   C8x C    24.7745  -15.1529
+            9   C8x C    23.4416  -15.5834
+            10  C8x C    23.1462  -16.9619
+            11  C8x C    24.1856  -17.9009
+            12  C8x C    30.0176  -17.7825
+            13  C8x C    31.0080  -16.7920
+            14  C8x C    30.6455  -15.4389
+            15  C8x C    29.2925  -15.0764
+            16  C5a C    27.1234  -14.0772
+            17  O5a O    25.8856  -13.3793
+            18  N1a N    28.3126  -13.3740
+BOND        20
+            1     3   4 1
+            2     1   5 1
+            3     4   6 1
+            4     2   3 1
+            5     5   7 1
+            6     1   2 1
+            7     6   7 2
+            8     1   8 2
+            9     8   9 1
+            10    9  10 2
+            11   10  11 1
+            12    5  11 2
+            13    4  12 2
+            14   12  13 1
+            15   13  14 2
+            16   14  15 1
+            17   15   3 2
+            18    2  16 1
+            19   16  17 2
+            20   16  18 1
+///

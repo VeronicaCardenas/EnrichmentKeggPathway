@@ -1,0 +1,15 @@
+ENTRY       G00034                      Glycan
+COMPOSITION (Gal)1 (GalNAc)1 (Ser/Thr)1
+MASS        365.3 (Ser/Thr)
+PATHWAY     map00512  Mucin type O-glycan biosynthesis
+            map01100  Metabolic pathways
+DBLINKS     GlyTouCan: G76355TG
+            JCGGDB: JCGG-STR004703
+NODE        3
+            1   Ser/Thr    10     0
+            2   GalNAc      0     0
+            3   Gal       -10     0
+EDGE        2
+            1     2:a1    1    
+            2     3:a1    2:3  
+///

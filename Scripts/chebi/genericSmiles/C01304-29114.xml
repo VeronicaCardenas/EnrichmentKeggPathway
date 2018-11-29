@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<TABLE>
+<ENTRY>
+<ID>CHEBI:29114</ID>
+<NAME>2,5-diamino-4-hydroxy-6-(5-phosphoribosylamino)pyrimidine</NAME>
+<STAR>3</STAR>
+<SECONDARY_ID>CHEBI:19368</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:11446</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:927</SECONDARY_ID>
+<SYNONYM>N-(2,5-diamino-6-hydroxypyrimidin-4-yl)-5-O-phosphono-beta-D-ribofuranosylamine</SYNONYM>
+<SYNONYM>2,5-diamino-6-hydroxy-4-(5-phosphoribosylamino)pyrimidine</SYNONYM>
+<SYNONYM>2,5-Diamino-6-hydroxy-4-(5'-phosphoribosylamino)-pyrimidine</SYNONYM>
+<IUPAC_NAME>1-deoxy-1-[(2,5-diamino-6-hydroxypyrimidin-3-yl)amino]-beta-D-ribofuranose 5-(dihydrogen phosphate)</IUPAC_NAME>
+<FORMULA>C9H16N5O8P</FORMULA>
+<MASS>353.22600</MASS>
+<MONOISOTOPIC_MASS>353.074</MONOISOTOPIC_MASS>
+<CHARGE>0</CHARGE>
+<SMILES>Nc1nc(O)c(N)c(N[C@@H]2O[C@H](COP(O)(O)=O)[C@@H](O)[C@H]2O)n1</SMILES>
+<INCHI>InChI=1S/C9H16N5O8P/c10-3-6(13-9(11)14-7(3)17)12-8-5(16)4(15)2(22-8)1-21-23(18,19)20/h2,4-5,8,15-16H,1,10H2,(H2,18,19,20)(H4,11,12,13,14,17)/t2-,4-,5-,8-/m1/s1</INCHI>
+<INCHIKEY>OCLCLRXKNJCOJD-UMMCILCDSA-N</INCHIKEY>
+<KEGG_COMPOUND_ACCESSION>C01304</KEGG_COMPOUND_ACCESSION>
+</ENTRY>
+</TABLE>

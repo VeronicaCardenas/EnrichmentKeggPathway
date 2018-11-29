@@ -1,0 +1,37 @@
+ENTRY       G00123                      Glycan
+NAME        GA2
+COMPOSITION (Gal)1 (GalNAc)1 (Glc)1 (Cer)1
+MASS        527.5 (Cer)
+REMARK      Same as: C06135
+REACTION    R05938 R05956 R05994 R06001 R06007 R06012
+PATHWAY     map00604  Glycosphingolipid biosynthesis - ganglio series
+            map01100  Metabolic pathways
+ENZYME      2.4.1.62        2.4.1.92        2.4.99.9        3.2.1.18        
+            3.2.1.23        3.2.1.52
+ORTHOLOGY   K00715  ganglioside galactosyltransferase [EC:2.4.1.62]
+            K00725  (N-Acetylneuraminyl)-galactosylglucosylceramide N-acetylgalactosaminyltransferase [EC:2.4.1.92]
+            K00785  beta-galactosamide-alpha-2,3-sialyltransferase [EC:2.4.99.-]
+BRITE       Lipids [BR:br08002]
+             SP  Sphingolipids
+              SP05 Neutral glycosphingolipids
+               SP0503 GalNAcb1-4Galb1-4Glc- (Ganglio series)
+                G00123  GalNAc-beta1->4LacCer (GA2)
+REFERENCE   1  [PMID:2430018]
+            Umeda M, Diego I, Marcus DM.
+            The occurrence of anti-3-fucosyllactosamine antibodies and their cross-reactive idiotopes in preimmune and immune mouse sera.
+            J. Immunol. 137 (1986) 3264-9.
+DBLINKS     CCSD: 198 320 321 2391 4655 4807 6251 6865 8265 12306 12376 14012 14425 14476 14874 14909 15553 16345 16354 16978 17683 17707 18486 18558 18635 19025 19218 19344 20267 20467 21119 21518 21614 22107 22968 22991 23880 23910 24084 24767 25278 25318 25521 25550 25854 26615 26738 27238 28351 29398 29789 30083 30639 30873 32050 32680 32743 32771 33674 33834 33898 34732 34750 35102 35913 35919 36158 36584 36982 36993 37209 37259 38368 39521 40798 41906 42202 42669 42916 43491 43816 44038 44065 44958 46196 46838 47379 47853 48194 49315 50221
+            GlyTouCan: G90562PB
+            JCGGDB: JCGG-STR003580
+            LipidBank: GSG1332
+            GlycoEpitope: EP0321
+NODE        4
+            1   Cer        12     0
+            2   Glc         4     0
+            3   Gal        -4     0
+            4   GalNAc    -13     0
+EDGE        3
+            1     2:b1    1:1  
+            2     3:b1    2:4  
+            3     4:b1    3:4  
+///

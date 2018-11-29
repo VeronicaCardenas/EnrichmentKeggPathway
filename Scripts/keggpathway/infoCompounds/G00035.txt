@@ -1,0 +1,22 @@
+ENTRY       G00035                      Glycan
+NAME        Sialyl-Tn antigen
+COMPOSITION (GalNAc)1 (Neu5Ac)1 (Ser/Thr)1
+MASS        494.5 (Ser/Thr)
+REACTION    R05911
+PATHWAY     map00512  Mucin type O-glycan biosynthesis
+            map01100  Metabolic pathways
+ENZYME      2.4.99.3
+ORTHOLOGY   K03479  alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase (sialyltransferase 7A) [EC:2.4.99.3]
+BRITE       Cancer-accociated carbohydrates [br08441.html]
+             G00035
+DBLINKS     CCSD: 17 18 8078 8107 29369 31593 33914 33954 34796 34824 34840 34884 35030 35037 35262 35804 35832 35945 37037 38123 38172 38180 38639 38681 41460 41865 42401 42414 42415 42426 42791 43839 43946 43993 44035 44217 44244 44375 44504 45871 45891 46445 46861 47325 48044 48234 48246 48364 48373 48889 49039 49040 49516 49610
+            GlyTouCan: G36123IU
+            JCGGDB: JCGG-STR005242
+NODE        3
+            1   Ser/Thr     9     0
+            2   GalNAc      0     0
+            3   Neu5Ac    -10     0
+EDGE        2
+            1     2:a1    1    
+            2     3:a2    2:6  
+///

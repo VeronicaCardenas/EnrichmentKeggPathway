@@ -1,0 +1,29 @@
+ENTRY       G00166                      Glycan
+NAME        Fucosyl-GM1
+COMPOSITION (Gal)2 (GalNAc)1 (Glc)1 (LFuc)1 (Neu5Ac)1 (Cer)1
+MASS        1127 (Cer)
+REACTION    R05944
+PATHWAY     map00604  Glycosphingolipid biosynthesis - ganglio series
+BRITE       Cancer-accociated carbohydrates [br08441.html]
+             G00166
+DBLINKS     CCSD: 1077 1078 1079 9974 14408 14443 16093 16452 18658 18914 19306 19372 20371 21068 21199 22186 23213 24821 26400 26622 27550 28944 30898 32524 34913 35158 36103 36129 37221 37250 38142 40749 42799 43831 44562 44803 44828 45150
+            GlyTouCan: G91532KA
+            JCGGDB: JCGG-STR004687
+            LipidBank: GSG1296
+            GlycoEpitope: EP0049
+NODE        7
+            1   Cer        17     0
+            2   Glc        10     0
+            3   Gal         3     0
+            4   GalNAc     -5     4
+            5   Neu5Ac     -5    -4
+            6   Gal       -12     4
+            7   LFuc      -18     4
+EDGE        6
+            1     2:b1    1:1  
+            2     3:b1    2:4  
+            3     4:b1    3:4  
+            4     5:a2    3:3  
+            5     6:b1    4:3  
+            6     7:a1    6:2  
+///

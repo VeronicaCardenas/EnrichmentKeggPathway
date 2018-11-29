@@ -1,0 +1,25 @@
+ENTRY       G00001                      Glycan
+NAME        N-Acetyl-D-glucosaminyldiphosphodolichol
+COMPOSITION (GlcNAc)1 (PP-Dol)1
+MASS        203.2 (PP-Dol)
+REMARK      Same as: C04500
+REACTION    R05969 R05970
+PATHWAY     map00510  N-Glycan biosynthesis
+            map01100  Metabolic pathways
+MODULE      M00055  N-glycan precursor biosynthesis
+ENZYME      2.4.1.141       2.7.8.15
+ORTHOLOGY   K01001  UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase [EC:2.7.8.15]
+BRITE       Lipids [BR:br08002]
+             PR  Prenol Lipids
+              PR03 Polyprenols
+               PR0309 Dolichol diphosphates
+                C04500  N-Acetyl-D-glucosaminyldiphosphodolichol
+DBLINKS     CCSD: 31775 36270 40495
+            GlyTouCan: G68544GH
+            JCGGDB: JCGG-STR008690
+NODE        2
+            1   PP-Dol      3     0
+            2   GlcNAc     -4     0
+EDGE        1
+            1     2:a1    1    
+///

@@ -1,0 +1,28 @@
+ENTRY       G00126                      Glycan
+NAME        GD1c
+COMPOSITION (Gal)2 (GalNAc)1 (Glc)1 (Neu5Ac)2 (Cer)1
+MASS        1272.1 (Cer)
+REACTION    R05958
+PATHWAY     map00604  Glycosphingolipid biosynthesis - ganglio series
+            map01100  Metabolic pathways
+ORTHOLOGY   K03369  alpha-N-acetyl-neuraminate alpha-2,8-sialyltransferase (sialyltransferase 8E) [EC:2.4.99.-]
+DBLINKS     CCSD: 6936 13675 15040 18652 21120 33239 33677 36272 36575 36836 44041 44068 46412
+            GlyTouCan: G81983KG
+            JCGGDB: JCGG-STR026081
+            LipidBank: GSG1441 GSG3042
+NODE        7
+            1   Cer        21     0
+            2   Glc        15     0
+            3   Gal         9     0
+            4   GalNAc      2     0
+            5   Gal        -5     0
+            6   Neu5Ac    -12     0
+            7   Neu5Ac    -21     0
+EDGE        6
+            1     2:b1    1:1  
+            2     3:b1    2:4  
+            3     4:b1    3:4  
+            4     5:b1    4:3  
+            5     6:a2    5:3  
+            6     7:a2    6:8  
+///

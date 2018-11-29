@@ -1,0 +1,27 @@
+ENTRY       G00167                      Glycan
+NAME        N-Acetylgalactosaminyl GM1b;
+            GalNAc-GM1b
+COMPOSITION (Gal)2 (GalNAc)2 (Glc)1 (Neu5Ac)1 (Cer)1
+MASS        1184.1 (Cer)
+PATHWAY     map00604  Glycosphingolipid biosynthesis - ganglio series
+DBLINKS     CCSD: 1171 1172 14861 15601 17004 17014 21370 21515 21982 25259 32068 36490 36573 44839 45479 46841 47173 50162
+            GlyTouCan: G64183CB
+            JCGGDB: JCGG-STR014538
+            LipidBank: GSG1088
+            GlycoEpitope: EP0311
+NODE        7
+            1   Cer        21     0
+            2   Glc        13     0
+            3   Gal         5     0
+            4   GalNAc     -4     0
+            5   Gal       -13     0
+            6   GalNAc    -21     4
+            7   Neu5Ac    -21    -4
+EDGE        6
+            1     2:b1    1:1  
+            2     3:b1    2:4  
+            3     4:b1    3:4  
+            4     5:b1    4:3  
+            5     6:b1    5:4  
+            6     7:a2    5:3  
+///

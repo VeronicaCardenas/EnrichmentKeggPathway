@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TABLE>
+<ENTRY>
+<ID>CHEBI:7794</ID>
+<NAME>phosphate monoester</NAME>
+<DEFINITION>An organic phosphate that is phosphoric acid in which one of the hydrogens is replaced by an organyl group.</DEFINITION>
+<STAR>3</STAR>
+<SYNONYM>phosphoric acid monoester</SYNONYM>
+<SYNONYM>phosphate monoesters</SYNONYM>
+<SYNONYM>phosphate monoester (0)</SYNONYM>
+<SYNONYM>orthophosphoric monoesters</SYNONYM>
+<SYNONYM>Orthophosphoric monoester</SYNONYM>
+<FORMULA>H2O4PR</FORMULA>
+<MONOISOTOPIC_MASS>96.969</MONOISOTOPIC_MASS>
+<CHARGE>0</CHARGE>
+<SMILES>OP(O)(=O)O[*]</SMILES>
+<KEGG_COMPOUND_ACCESSION>C01153</KEGG_COMPOUND_ACCESSION>
+<METACYC_ACCESSION>Orthophosphoric-Monoesters</METACYC_ACCESSION>
+</ENTRY>
+</TABLE>

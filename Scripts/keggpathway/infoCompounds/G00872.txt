@@ -1,0 +1,26 @@
+ENTRY       G00872                      Glycan
+NAME        DWA-2;
+            Chondroitin 4-sulfate
+COMPOSITION (GalNAc)1 (GlcA)1 (S)1
+MASS        477.4
+REACTION    R07824 R07825
+PATHWAY     map00531  Glycosaminoglycan degradation
+            map01100  Metabolic pathways
+MODULE      M00076  Dermatan sulfate degradation
+            M00077  Chondroitin sulfate degradation
+ENZYME      3.2.1.35
+REFERENCE   1  [PMID:12840014]
+            Maeda N, He J, Yajima Y, Mikami T, Sugahara K, Yabe T.
+            Heterogeneity of the chondroitin sulfate portion of phosphacan/6B4 proteoglycan regulates its binding affinity for pleiotrophin/heparin binding growth-associated molecule.
+            J. Biol. Chem. 278 (2003) 35805-11.
+DBLINKS     CCSD: 3455 4873 29983 43481 45397 45407 45413
+            GlyTouCan: G92988PL
+            JCGGDB: JCGG-STR008350
+NODE        3
+            1   GalNAc    4.6  -1.6
+            2   S        -2.4   2.4
+            3   GlcA     -5.4  -1.6
+EDGE        2
+            1     2       1:4  
+            2     3:b1    1:3  
+///

@@ -1,0 +1,192 @@
+ENTRY       D00399                      Drug
+NAME        Valproic acid (USP);
+            Depakene (TN)
+PRODUCT     DEPAKENE (AbbVie) 6b4331f5-4475-417a-6a9d-09c2f8334235
+            DEPAKENE (REMEDYREPACK) b43ff78c-8e7d-475c-8095-773d03c94437
+  GENERIC   VALPROIC (Actavis Pharma) cef3e335-5891-412f-89c4-79fcd2f145b7
+            VALPROIC ACID (Aphena Pharma Solutions - Tennessee) 002d4c7e-b94e-49b6-8554-0aa0c60d5bde
+            VALPROIC ACID (Aphena Pharma Solutions - Tennessee) 3904177b-8a26-4356-9080-d2a2e3f468af
+            VALPROIC (Aphena Pharma Solutions - Tennessee) 4fc8ffdd-8b79-44de-80d0-6bcc8058f4e1
+            VALPROIC ACID (Atlantic Biologicals Corps) dce4388c-d663-4829-afa2-2329f0172245
+            VALPROIC ACID (Avera McKennan Hospital) eda6656d-034e-45ca-b182-c89d1518b254
+            VALPROIC ACID (Banner Life Sciences LLC.) c628829c-74de-485a-b6cb-42e1da894376
+            VALPROIC ACID (Bionpharma) ceb52870-76d0-4108-a1d4-ba7096fbacdd
+            VALPROIC ACID (Caraco Pharmaceutical Laboratories) d49fc909-1e02-4e51-b957-45540d678dde
+            VALPROIC ACID (Cardinal Health) 32b86c45-4e69-4e10-b798-333b785d507f
+            VALPROIC ACID (Cardinal Health) 69b6dbaa-ff34-48de-9912-26460aa16ce1
+            VALPROIC ACID (Cardinal Health) d4ca7c46-e274-492e-85de-4022373a2eb6
+            VALPROIC ACID (Cardinal Health) dc5c6650-7ee8-4357-b037-08cd265b985a
+            VALPROIC (Clinical Solutions Wholesale) 9b3648d0-2a79-42ee-8310-779d73fbdf24
+            VALPROIC ACID (Contract Pharmacy Services-PA) 597a6144-324b-9533-e053-2991aa0ab896
+            VALPROIC ACID (Contract Pharmacy Services-PA) 59b3262c-a563-ccd1-e053-2991aa0a46c6
+            VALPROIC (Contract Pharmacy Services-PA) 6541ab19-3cfc-4786-9cfe-0455f428edb5
+            VALPROIC (Contract Pharmacy Services-PA) 9fbfe4dc-c4df-4911-a440-099c860cb923
+            VALPROIC ACID (Golden State Medical Supply) eea353e9-0534-406b-af66-0ceceb95c27f
+            VALPROIC ACID (Hi-Tech Pharmacal) 84bbc23d-9bd3-4d48-9b64-d6eef64214b4
+            VALPROIC ACID (McKesson Packaging Services Business Unit of McKesson Corporation) 5850bfd4-df74-44fb-aef5-ea3fa7c075ee
+            VALPROIC ACID (Morton Grove Pharmaceuticals) 7af84664-7e3b-43f3-a43e-beba36ffb739
+            VALPROIC ACID (NCS HealthCare of KY) 0b24089f-4c7f-4fee-9a86-89f783b76514
+            VALPROIC (NCS HealthCare of KY) 99fcf148-560f-42df-b26e-e7fdcff1dcdb
+            VALPROIC ACID (Par Pharmaceutical) ec559356-75a3-423b-9e8c-3ff88290a98a
+            VALPROIC ACID (Pharmaceutical Associates) 7d5cb52e-37dd-4dfa-a6f4-09f9548846c6
+            VALPROIC (Physicians Total Care) 31ae5a24-a6a9-4103-acda-b6113052b386
+            VALPROIC ACID (Pliva) 740a1ae9-19f0-4a0f-a431-e4b9ffb9381a
+            VALPROIC ACID (Precision Dose) 05e16c10-ff0a-4238-8181-f3e84379ed6a
+            VALPROIC ACID (REMEDYREPACK) 335263de-23f3-4512-b988-9b8e053dcc30
+            VALPROIC (REMEDYREPACK) 919d7b5d-1fd4-492f-8955-27863e800bbc
+            VALPROIC ACID (REMEDYREPACK) b7872509-f197-4e7a-8248-7dd6d376e408
+            VALPROIC ACID (REMEDYREPACK) ec41025a-ed7d-48c8-9005-08e3a9417f30
+            VALPROIC ACID (Rebel Distributors Corp) 4067a52d-c3fa-4531-8e4f-9675e494065f
+            VALPROIC ACID (Upsher-Smith Laboratories) 6a7f6c20-d878-409f-aadb-8c5c63df61d0
+            VALPROIC ACID (Upsher-Smith Laboratories) c932e019-1808-4d11-acf5-a859fae93060
+            VALPROIC ACID (Upsher-Smith Laboratories) 7d4df6ad-3d53-4664-9200-749487bf3689
+            VALPROIC ACID (Watson Laboratories) caf12ea3-06c8-44c1-9e89-3ecaff89a22b
+FORMULA     C8H16O2
+EXACT_MASS  144.115
+MOL_WEIGHT  144.2114
+CLASS       Neuropsychiatric agent
+             DG02035  Fatty acid antiepileptics
+            Other
+             DG01575  Calcium channel blocker
+              DG01573  Calcium channel T type blocker
+            Cyp substrate
+             DG01633  CYP3A substrate
+REMARK      Same as: C07185
+            ATC code: N03AG01
+            Chemical group: DG00849
+ACTIVITY    Anticonvulsant
+COMMENT     Fatty acid derivative
+            Valproic acid is contraindicated in patients with known urea cycle disorders [DS:H00164 H00185 H00186 H00187 H01028 H01032]
+TARGET      ABAT [HSA:18] [KO:K13524];
+            SSADH [HSA:7915] [KO:K00139];
+            GAD [HSA:2571 2572] [KO:K01580];
+            CACNA1-T [HSA:8911 8912 8913] [KO:K04856 K04855 K04854]
+  PATHWAY   hsa00250(18)  Alanine, aspartate and glutamate metabolism
+            hsa00280(18)  Valine, leucine and isoleucine degradation
+            hsa00410(18)  beta-Alanine metabolism
+            hsa00640(18)  Propanoate metabolism
+            hsa00650(18)  Butanoate metabolism
+            hsa04010(8911+8912+8913)  MAPK signaling pathway
+            hsa04020(8911+8912+8913)  Calcium signaling pathway
+            hsa04727(18)  GABAergic synapse
+INTERACTION Genomic biomarker: (1) NAGS [HSA:162417], CPS [HSA:1373], ASS [HSA:445], OTC [HSA:5009], ASL [HSA:435], ARG [HSA:383 384], (2) POLG [HSA:5428]
+STR_MAP     map07033  Anticonvulsants
+            map07036  Calcium channel blocking drugs
+            map07048  Antimigraines
+OTHER_MAP   map00982  Drug metabolism - cytochrome P450
+BRITE       Anatomical Therapeutic Chemical (ATC) classification [BR:br08303]
+             N NERVOUS SYSTEM
+              N03 ANTIEPILEPTICS
+               N03A ANTIEPILEPTICS
+                N03AG Fatty acid derivatives
+                 N03AG01 Valproic acid
+                  D00399  Valproic acid (USP)
+            USP drug classification [BR:br08302]
+             Anticonvulsants
+              Gamma-aminobutyric Acid (GABA) Augmenting Agents
+               Valproate
+                D00399  Valproic acid (USP)
+             Antimigraine Agents
+              Prophylactic
+               Valproate
+                D00399  Valproic acid (USP)
+             Bipolar Agents
+              Mood Stabilizers
+               Valproate
+                D00399  Valproic acid (USP)
+            Target-based classification of drugs [BR:br08310]
+             Ion channels
+              Voltage-gated cation channels
+               Na+ channel, SCN alpha, NaV1.x
+                voltage-gated sodium channel (SCN1A)
+                 Valproic acid
+                  D00399  Valproic acid (USP)
+                voltage-gated sodium channel (SCN2A)
+                 Valproic acid
+                  D00399  Valproic acid (USP)
+                voltage-gated sodium channel (SCN3A)
+                 Valproic acid
+                  D00399  Valproic acid (USP)
+                voltage-gated sodium channel (SCN4A)
+                 Valproic acid
+                  D00399  Valproic acid (USP)
+                voltage-gated sodium channel (SCN5A)
+                 Valproic acid
+                  D00399  Valproic acid (USP)
+                voltage-gated sodium channel (SCN8A)
+                 Valproic acid
+                  D00399  Valproic acid (USP)
+                voltage-gated sodium channel (SCN9A)
+                 Valproic acid
+                  D00399  Valproic acid (USP)
+                voltage-gated sodium channel (SCN10A)
+                 Valproic acid
+                  D00399  Valproic acid (USP)
+                voltage-gated sodium channel (SCN11A)
+                 Valproic acid
+                  D00399  Valproic acid (USP)
+               Ca2+ channel, CACN alpha-1, CaVx.x
+                calcium channel T type
+                 Valproic acid
+                  D00399  Valproic acid (USP)
+             Enzymes
+              Oxidoreductases
+               aldehyde dehydrogenase 5 family member A1
+                Valproic acid
+                 D00399  Valproic acid (USP)
+              Transferases
+               GABA transaminase
+                Valproic acid
+                 D00399  Valproic acid (USP)
+              Hydrolases
+               histone deacetylase
+                Valproic acid
+                 D00399  Valproic acid (USP)
+              Lyases
+               glutamate decarboxylase
+                Valproic acid
+                 D00399  Valproic acid (USP)
+            Cytochrome P450 interactions [BR:br08309]
+             CYP substrates
+              CYP2C9
+               Valproic acid
+                D00399  Valproic acid (USP)
+              CYP3A4
+               Valproic acid
+                D00399  Valproic acid (USP)
+            Neurological agents [br08367.html]
+             Antiepileptic agents
+              D00399
+            Pharmacogenomic biomarkers in FDA drug labels [br08341.html]
+             Polymorphisms and germline mutations
+              D00399
+DBLINKS     CAS: 99-66-1
+            PubChem: 7847465
+            ChEBI: 39867
+            ChEMBL: CHEMBL109
+            DrugBank: DB00313
+            PDB-CCD: 2PP
+            LigandBox: D00399
+            NIKKAJI: J4.972G
+ATOM        10
+            1   C1c C    25.4573  -18.6784
+            2   C1b C    25.4573  -17.3002
+            3   C1b C    24.2485  -19.3967
+            4   C6a C    26.6604  -19.3967
+            5   C1b C    24.2427  -16.5935
+            6   C1b C    23.0396  -18.6784
+            7   O6a O    26.6604  -20.7925
+            8   O6a O    27.8692  -18.6784
+            9   C1a C    23.0339  -17.3002
+            10  C1a C    21.8367  -19.3967
+BOND        9
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1
+            4     2   5 1
+            5     3   6 1
+            6     4   7 1
+            7     4   8 2
+            8     5   9 1
+            9     6  10 1
+///

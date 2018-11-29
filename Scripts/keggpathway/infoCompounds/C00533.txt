@@ -1,0 +1,93 @@
+ENTRY       C00533                      Compound
+NAME        Nitric oxide;
+            NO;
+            Nitrogen monoxide
+FORMULA     NO
+EXACT_MASS  29.998
+MOL_WEIGHT  30.0061
+REMARK      Same as: D00074
+REACTION    R00111 R00280 R00294 R00557 R00783 R00784 R00785 R02492 
+            R05724 R05725 R09445 R09446 R09751 R09799 R09808 R09809 
+            R09996 R10106 R10108 R10165 R11711 R11713
+PATHWAY     map00330  Arginine and proline metabolism
+            map00910  Nitrogen metabolism
+            map01120  Microbial metabolism in diverse environments
+            map04022  cGMP-PKG signaling pathway
+            map04066  HIF-1 signaling pathway
+            map04071  Sphingolipid signaling pathway
+            map04151  PI3K-Akt signaling pathway
+            map04270  Vascular smooth muscle contraction
+            map04370  VEGF signaling pathway
+            map04371  Apelin signaling pathway
+            map04540  Gap junction
+            map04611  Platelet activation
+            map04621  NOD-like receptor signaling pathway
+            map04626  Plant-pathogen interaction
+            map04713  Circadian entrainment
+            map04730  Long-term depression
+            map04915  Estrogen signaling pathway
+            map04921  Oxytocin signaling pathway
+            map04924  Renin secretion
+            map04926  Relaxin signaling pathway
+            map04931  Insulin resistance
+            map04940  Type I diabetes mellitus
+            map04970  Salivary secretion
+            map05010  Alzheimer's disease
+            map05014  Amyotrophic lateral sclerosis (ALS)
+            map05132  Salmonella infection
+            map05140  Leishmaniasis
+            map05142  Chagas disease (American trypanosomiasis)
+            map05143  African trypanosomiasis
+            map05144  Malaria
+            map05146  Amoebiasis
+            map05225  Hepatocellular carcinoma
+            map05330  Allograft rejection
+            map05332  Graft-versus-host disease
+            map05418  Fluid shear stress and atherosclerosis
+MODULE      M00529  Denitrification, nitrate => nitrogen
+ENZYME      1.7.1.14        1.7.2.1         1.7.2.5         1.7.2.6         
+            1.7.2.7         1.7.5.2         1.7.6.1         1.14.12.17      
+            1.14.13.39      1.14.14.47
+BRITE       Anatomical Therapeutic Chemical (ATC) classification [BR:br08303]
+             R RESPIRATORY SYSTEM
+              R07 OTHER RESPIRATORY SYSTEM PRODUCTS
+               R07A OTHER RESPIRATORY SYSTEM PRODUCTS
+                R07AX Other respiratory system products
+                 R07AX01 Nitric oxide
+                  D00074  Nitric oxide (JAN)
+            Therapeutic category of drugs in Japan [BR:br08301]
+             2  Agents affecting individual organs
+              21  Cardiovascular agents
+               219  Miscellaneous
+                2190  Miscellaneous
+                 D00074  Nitric oxide (JAN)
+            Respiratory agents [br08372.html]
+             Other respiratory agents
+              D00074
+            New drug approvals in the USA [br08319.html]
+             New Molecular Entity and New Therapeutic Biological Product Approvals
+              D00074
+            New drug approvals in Europe [br08329.html]
+             European public assessment reports (EPAR) authorised medicine
+              D00074
+            New drug approvals in Japan [br08318.html]
+             Drugs with new active ingredients
+              D00074
+            New drug approvals in the USA, Europe and Japan [br08328.html]
+             Approval dates by FDA, EMA and PMDA
+              D00074
+            Orphan drugs in the USA [br08355.html]
+             Orphan drugs in the USA
+              D00074
+DBLINKS     CAS: 10102-43-9
+            PubChem: 3815
+            ChEBI: 16480
+            ChEMBL: CHEMBL1200689
+            3DMET: B00122
+            NIKKAJI: J161.349I
+ATOM        2
+            1   O3a O    21.4046  -16.1648
+            2   N2a N    22.8046  -16.1648 #^
+BOND        1
+            1     1   2 2
+///

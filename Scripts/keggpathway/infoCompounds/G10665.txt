@@ -1,0 +1,36 @@
+ENTRY       G10665                      Glycan
+COMPOSITION (GlcNAc)2 (LFuc)1 (Man)3 (Xyl)1 (Asn)1
+MASS        1171.1 (Asn)
+REACTION    R11316
+PATHWAY     map00513  Various types of N-glycan biosynthesis
+            map01100  Metabolic pathways
+ENZYME      3.2.1.52
+REFERENCE   1  [PMID:10656421]
+            Shaw GS, Sun Y, Barber KR, van Huystee RB.
+            Sequence specific analysis of the heterogeneous glycan chain from peanut peroxidase by 1H-NMR spectroscopy.
+            Phytochemistry. 53 (2000) 135-44.
+            2  [PMID:3609011]
+            Fournet B, Leroy Y, Wieruszeski JM, Montreuil J, Poretz RD, Goldberg R.
+            Primary structure of an N-glycosidic carbohydrate unit derived from Sophora japonica lectin.
+            Eur. J. Biochem. 166 (1987) 321-4.
+DBLINKS     CCSD: 1441 3837 5896 6211 7703 24627 24641 25138 29343 36422 36559 37370 42065
+            GlyTouCan: G26295XE
+            JCGGDB: JCGG-STR029511
+NODE        8
+            1   Asn        20    -2
+            2   GlcNAc     10    -2
+            3   GlcNAc      0     3
+            4   LFuc        0    -7
+            5   Man       -10     3
+            6   Man       -20     8
+            7   Man       -20     3
+            8   Xyl       -20    -2
+EDGE        7
+            1     2:b1    1    
+            2     3:b1    2:4  
+            3     4:a1    2:3  
+            4     5:b1    3:4  
+            5     6:a1    5:6  
+            6     7:a1    5:3  
+            7     8:b1    5:2  
+///

@@ -1,0 +1,34 @@
+ENTRY       G00040                      Glycan
+COMPOSITION (Gal)3 (Glc)1 (GlcNAc)1 (LFuc)2 (Cer)1
+MASS        1144.1 (Cer)
+REACTION    R06164
+PATHWAY     map00601  Glycosphingolipid biosynthesis - lacto and neolacto series
+            map01100  Metabolic pathways
+ENZYME      2.4.1.65
+BRITE       Lipids [BR:br08002]
+             SP  Sphingolipids
+              SP05 Neutral glycosphingolipids
+               SP0504 Galb1-3GlcNAcb1-3Galb1-4Glc- (Lacto series)
+                G00040  Fuc-alpha1->4(Gal-alpha1->3(Fuc-alpha1->2)Gal-beta1->3)GlcNAc-beta1->3LacCer
+DBLINKS     CCSD: 1364 8730 16294 33039
+            GlyTouCan: G22689CV
+            JCGGDB: JCGG-STR011255
+            LipidBank: GSG1381
+NODE        8
+            1   Cer        19     3
+            2   Glc        12     3
+            3   Gal         5     3
+            4   GlcNAc     -3     3
+            5   LFuc      -11     8
+            6   Gal       -11    -2
+            7   Gal       -19     3
+            8   LFuc      -19    -7
+EDGE        7
+            1     2:b1    1:1  
+            2     3:b1    2:4  
+            3     4:b1    3:3  
+            4     5:a1    4:4  
+            5     6:b1    4:3  
+            6     7:a1    6:3  
+            7     8:a1    6:2  
+///

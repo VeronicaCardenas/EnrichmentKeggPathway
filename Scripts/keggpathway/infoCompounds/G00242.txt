@@ -1,0 +1,34 @@
+ENTRY       G00242                      Glycan
+NAME        Sialyl Lewis x antigen;
+            CA15-3
+COMPOSITION (Gal)1 (GlcNAc)1 (LFuc)1 (Neu5Ac)1 (R)1
+MASS        802.7 (R)
+COMMENT     Tumor marker
+PATHWAY     map05120  Epithelial cell signaling in Helicobacter pylori infection
+BRITE       Tumor markers [br08442.html]
+             Commonly used tumor markers
+              G00242
+            Cancer-accociated carbohydrates [br08441.html]
+             G00242
+            Carbohydrates in viral and bacterial infections [br08431.html]
+             Bacterial infection
+              G00242
+REFERENCE   1  [PMID:12015815]
+            Schulz BL, Oxley D, Packer NH, Karlsson NG.
+            Identification of two highly sialylated human tear-fluid DMBT1 isoforms: the major high-molecular-mass glycoproteins in human tears.
+            Biochem. J. 366 (2002) 511-20.
+DBLINKS     CCSD: 1804 1806 6610 6615 7494 7792 8075 10926 11191 14199 14568 20130 21241 22853 22972 23043 25243 25376 25839 27701 27704 27872 28240 28520 28523 28533 29386 29467 29532 30049 30267 30795 31039 31048 31336 31587 31613 31635 31649 31666 32072 32081 32265 32548 32817 33146 33195 33197 33552 33886 33917 34678 34685 34710 34850 34852 34853 34855 34912 34946 34983 35279 35613 35664 35700 35736 36201 36253 36554 36908 36925 36944 36960 37027 37261 37372 37573 37597 37599 38131 38173 38300 38317 38377 38646 38663 38702 39618 40371 40423 40608 41404 41555 41589 41878 42329 42388 42391 42393 42394 42412 42429 42494 42583 42772 42790 43028 43213 43343 43474 43477 43601 43811 43838 44018 44030 44229 44249 44250 44256 44276 44362 44459 44464 44509 44522 44541 44793 44877 44879 45616 45711 45860 45870 45878 45884 45892 45902 46006 46007 46010 46168 46233 46238 46239 46276 46367 46377 46447 46469 46492 46548 46708 46796 46810 46897 47401 47458 47499 47794 47822 47848 48043 48157 48366 48369 48370 48488 48544 48560 48914 49000 49045 49051 49148 49343 49496 49504 49514 49588 50145 50148 50789
+            GlyTouCan: G90387AM
+            JCGGDB: JCGG-STR028693
+NODE        5
+            1   R        13.2  -0.1
+            2   GlcNAc      7  -0.1
+            3   Gal        -3   4.9
+            4   LFuc       -3  -5.1
+            5   Neu5Ac    -13   4.9
+EDGE        4
+            1     2       1    
+            2     3:b1    2:4  
+            3     4:a1    2:3  
+            4     5:a2    3:3  
+///

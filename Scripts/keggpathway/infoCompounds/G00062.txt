@@ -1,0 +1,44 @@
+ENTRY       G00062                      Glycan
+NAME        Sialyl-3-paragloboside;
+            3'-LM1;
+            IV3-a-Neu5Ac-nLc4Cer;
+            snLc4Cer
+COMPOSITION (Gal)2 (Glc)1 (GlcNAc)1 (Neu5Ac)1 (Cer)1
+MASS        980.9 (Cer)
+REMARK      Same as: C04936
+REACTION    R06026 R06032 R06075
+PATHWAY     map00601  Glycosphingolipid biosynthesis - lacto and neolacto series
+            map01100  Metabolic pathways
+ENZYME      2.4.1.152       2.4.99.6        2.4.99.8
+BRITE       Lipids [BR:br08002]
+             SP  Sphingolipids
+              SP06 Acidic glycosphingolipids
+               SP0601 Gangliosides
+                G00062  Neu5Ac-alpha2->3Gal-beta1->4GlcNAc-beta1->3Gal-beta1->4Glc-beta1->1'Cer
+REFERENCE   1  [PMID:2960671]
+            Holmes EH, Hakomori S, Ostrander GK.
+            Synthesis of type 1 and 2 lacto series glycolipid antigens in human colonic adenocarcinoma and derived cell lines is due to activation of a normally unexpressed beta 1----3N-acetylglucosaminyltransferase.
+            J. Biol. Chem. 262 (1987) 15649-58.
+            2  [PMID:15546874]
+            Ideo H, Seko A, Yamashita K.
+            Galectin-4 binds to sulfated glycosphingolipids and carcinoembryonic antigen in patches on the cell surface of human colon adenocarcinoma cells.
+            J. Biol. Chem. 280 (2005) 4730-7.
+DBLINKS     CCSD: 173 724 727 728 729 3691 3747 5196 5366 5561 6286 7488 7579 8141 8606 8766 9149 9447 11696 12415 12971 13636 14055 14074 14435 14445 14859 15260 15284 15895 16223 16364 16401 16470 16477 16685 16710 16875 16884 16895 17009 17033 17103 18487 18832 18912 18930 18950 19353 21327 21334 21443 21708 22052 22213 22519 22996 23017 23035 23875 24074 24440 24968 24994 25272 25289 25312 25324 25333 25416 25476 25528 25547 25791 25844 25932 26021 26185 26270 26398 26403 26611 27600 27854 27855 28507 28563 29759 29784 29955 30299 31663 31699 33176 33245 34102 34867 35166 35434 35518 35931 36139 36635 36844 36915 36923 36958 37235 37641 37751 38065 38374 39397 40686 40732 40805 41129 42061 43392 44628 44805 44809 44847 45485 46846 47079 47571 47665 48001 48174 48207 48930 50163 50704
+            GlyTouCan: G01767JJ
+            JCGGDB: JCGG-STR027108
+            LipidBank: GSG1118 GSG3007
+            GlycoEpitope: EP0076 EP0301 EP0304 EP0314
+NODE        6
+            1   Cer        16     0
+            2   Glc        10     0
+            3   Gal         4     0
+            4   GlcNAc     -3     0
+            5   Gal       -10     0
+            6   Neu5Ac    -17     0
+EDGE        5
+            1     2:b1    1:1  
+            2     3:b1    2:4  
+            3     4:b1    3:3  
+            4     5:b1    4:4  
+            5     6:a2    5:3  
+///

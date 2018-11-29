@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<TABLE>
+<ENTRY>
+<ID>CHEBI:16882</ID>
+<NAME>S(8)-aminomethyldihydrolipoylprotein</NAME>
+<STAR>3</STAR>
+<SECONDARY_ID>CHEBI:8951</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:12744</SECONDARY_ID>
+<SYNONYM>S-Aminomethyldihydrolipoylprotein</SYNONYM>
+<SYNONYM>H-Protein-S-aminomethyldihydrolipoyllysine</SYNONYM>
+<SYNONYM>[Protein]-S8-aminomethyldihydrolipoyllysine</SYNONYM>
+<FORMULA>C9H18NOS2R</FORMULA>
+<MONOISOTOPIC_MASS>220.083</MONOISOTOPIC_MASS>
+<KEGG_COMPOUND_ACCESSION>C01242</KEGG_COMPOUND_ACCESSION>
+</ENTRY>
+</TABLE>

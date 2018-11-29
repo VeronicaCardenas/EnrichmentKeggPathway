@@ -1,0 +1,41 @@
+ENTRY       G00010                      Glycan
+COMPOSITION (Glc)1 (GlcNAc)2 (Man)9 (Asn)1
+MASS        2027.8 (Asn)
+REACTION    R05980 R05981
+PATHWAY     map00510  N-Glycan biosynthesis
+            map01100  Metabolic pathways
+            map04141  Protein processing in endoplasmic reticulum
+MODULE      M00073  N-glycan precursor trimming
+            M00074  N-glycan biosynthesis, high-mannose type
+ENZYME      3.2.1.84
+DBLINKS     CCSD: 11437 31275 38431 38478
+            GlyTouCan: G19958IL
+            JCGGDB: JCGG-STR029785
+NODE        13
+            1   Asn        27    -2
+            2   GlcNAc     18    -2
+            3   GlcNAc      9    -2
+            4   Man         1    -2
+            5   Man        -6     5
+            6   Man        -6    -9
+            7   Man       -13    10
+            8   Man       -13     0
+            9   Man       -13    -9
+            10  Man       -20    10
+            11  Man       -20     0
+            12  Man       -20    -9
+            13  Glc       -27    -9
+EDGE        12
+            1     2:b1    1    
+            2     3:b1    2:4  
+            3     4:b1    3:4  
+            4     5:a1    4:6  
+            5     6:a1    4:3  
+            6     7:a1    5:6  
+            7     8:a1    5:3  
+            8     9:a1    6:2  
+            9    10:a1    7:2  
+            10   11:a1    8:2  
+            11   12:a1    9:2  
+            12   13:a1   12:3  
+///

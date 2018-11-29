@@ -1,0 +1,33 @@
+ENTRY       C20793                      Compound
+NAME        3-Hydroxyoctanoate;
+            3-Hydroxyoctanoic acid
+FORMULA     C8H16O3
+EXACT_MASS  160.1099
+MOL_WEIGHT  160.2108
+PATHWAY     map04024  cAMP signaling pathway
+DBLINKS     CAS: 14292-27-4
+            PubChem: 254741260
+ATOM        11
+            1   C1c C    17.4199  -16.5204
+            2   C1b C    18.6368  -17.2192
+            3   C1b C    16.2086  -17.2192
+            4   C1b C    19.8481  -16.5204
+            5   C6a C    14.9916  -16.5204
+            6   C1b C    21.0592  -17.2192
+            7   O6a O    13.7805  -17.2192
+            8   O6a O    14.9916  -15.1170
+            9   C1b C    22.2762  -16.5204
+            10  C1a C    23.4816  -17.2192
+            11  O1a O    17.4185  -15.1200
+BOND        10
+            1     1   2 1
+            2     1   3 1
+            3     2   4 1
+            4     3   5 1
+            5     4   6 1
+            6     5   7 1
+            7     5   8 2
+            8     6   9 1
+            9     9  10 1
+            10    1  11 1
+///

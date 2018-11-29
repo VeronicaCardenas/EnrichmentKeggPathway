@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<TABLE>
+<ENTRY>
+<ID>CHEBI:16018</ID>
+<NAME>acyl-[acyl-carrier protein]</NAME>
+<STAR>3</STAR>
+<SECONDARY_ID>CHEBI:2457</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:13728</SECONDARY_ID>
+<SYNONYM>Long-chain-acyl-[acyl-carrier protein]</SYNONYM>
+<SYNONYM>acyl-[acyl-carrier protein]</SYNONYM>
+<SYNONYM>Acyl-[acyl-carrier protein]</SYNONYM>
+<FORMULA>C3H4OSR2</FORMULA>
+<KEGG_COMPOUND_ACCESSION>C00173</KEGG_COMPOUND_ACCESSION>
+</ENTRY>
+</TABLE>

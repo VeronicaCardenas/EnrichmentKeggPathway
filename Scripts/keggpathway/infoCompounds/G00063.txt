@@ -1,0 +1,39 @@
+ENTRY       G00063                      Glycan
+NAME        IV3NeuAc,III3Fuc-nLc4Cer;
+            IV3-a-NeuAc,III3-a-Fuc-nLc4Cer
+COMPOSITION (Gal)2 (Glc)1 (GlcNAc)1 (LFuc)1 (Neu5Ac)1 (Cer)1
+MASS        1127 (Cer)
+REACTION    R06075
+PATHWAY     map00601  Glycosphingolipid biosynthesis - lacto and neolacto series
+            map01100  Metabolic pathways
+ENZYME      2.4.1.152
+BRITE       Lipids [BR:br08002]
+             SP  Sphingolipids
+              SP06 Acidic glycosphingolipids
+               SP0601 Gangliosides
+                G00063  Neu5Ac-alpha2->3Gal-beta1->4(Fuc-alpha1->3)GlcNAc-beta1->3Gal-beta1->4Glc-beta1->1'Cer
+REFERENCE   1  [PMID:7766694]
+            Ogiso M, Okinaga T, Ohta M, Komoto M, Hoshi M.
+            Identification and synthetic pathway of sialyl-Lewisx-containing neolacto-series gangliosides in lens tissues. 1. Characterization of gangliosides in human senile cataractous lens.
+            Biochim. Biophys. Acta. 1256 (1995) 166-74.
+DBLINKS     CCSD: 1185 1186 5372 8113 8608 9444 9645 11999 14386 14853 15257 15915 16088 16215 22977 23940 25530 31695 34686 34712 34836 35795 36119 36197 36200 36210 36448 42383 42392 45314 46994 48142 48156 48160 50453
+            GlyTouCan: G96401FK
+            JCGGDB: JCGG-STR027057
+            LipidBank: GSG1119 GSG3008
+            GlycoEpitope: EP0012
+NODE        7
+            1   Cer        17     0
+            2   Glc        11     0
+            3   Gal         5     0
+            4   GlcNAc     -2     0
+            5   Gal       -10     4
+            6   LFuc      -10    -4
+            7   Neu5Ac    -17     4
+EDGE        6
+            1     2:b1    1:1  
+            2     3:b1    2:4  
+            3     4:b1    3:3  
+            4     5:b1    4:4  
+            5     6:a1    4:3  
+            6     7:a2    5:3  
+///

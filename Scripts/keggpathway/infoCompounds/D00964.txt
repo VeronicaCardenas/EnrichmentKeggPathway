@@ -1,0 +1,147 @@
+ENTRY       D00964                      Drug
+NAME        Letrozole (JAN/USP/INN);
+            Femara (TN)
+PRODUCT     FEMARA (Novartis Pharmaceuticals Corporation) 82b77d74-085f-45ac-a7dd-1f5c038bf406
+            FEMARA (Physicians Total Care) e11b0a54-92bd-4790-8b80-f439f7093c01
+  GENERIC   LETROZOLE (APP Pharmaceuticals) 13e802e6-3924-4122-ba3a-1966a164c48a
+            LETROZOLE (Accord Healthcare) c391fe11-fd47-4a35-af6d-c823ab7b8838
+            LETROZOLE (American Health Packaging) 458f94b4-3ef7-4c73-bad2-017a10a924b6
+            LETROZOLE (Apotex Corp.) 32fd146f-7652-877f-cfd1-db9fa367406a
+            LETROZOLE (Arab Pharmaceutical Manufacturing Co. PSC) 968611f1-ef03-47a6-8dae-4834f77d23bd
+            LETROZOLE (AvKARE) 1524730f-e37d-478c-1956-b113b3ca42a8
+            LETROZOLE (Avera McKennan Hospital) c48dd71e-1409-4aa5-8605-f63977517ae5
+            LETROZOLE (Breckenridge Pharmaceutical) 63e54b62-a30d-4a56-9215-75e7a0b0bf02
+            LETROZOLE (Dr. Reddy's Laboratories Limited) 6cfd29d7-f519-7b8c-4814-07b39f367f0d
+            LETROZOLE (INDICUS PHARMA LLC) 87b9906a-1e3f-4bd7-9f93-35d20a386315
+            LETROZOLE (Jiangsu Hengrui Medicine) 63560663-ecc4-4529-bbd7-c63c1877dfba
+            LETROZOLE (KAISER FOUNDATION HOSPITALS) b275f564-62f8-46de-a290-0b5bdc612988
+            LETROZOLE (Mylan Pharmaceuticals) 4818abc4-2797-4248-b7d7-5cb4b5cdcf6a
+            LETROZOLE (Physicians Total Care) b73bf908-7979-4955-af20-0414388920da
+            LETROZOLE (Rebel Distributors Corp) 0193faa4-9b02-4ccd-9751-de6124cc8c68
+            LETROZOLE (Sun Pharmaceutical Industries Limited) 6bc22f65-4aaf-40a5-8f36-8b2419249ff5
+            LETROZOLE (Teva Pharmaceuticals USA) 8ebda73d-82a3-4b17-8a81-a1f258003d32
+            LETROZOLE (West-Ward Pharmaceuticals Corp.) 4e92bf71-0ba2-4276-af81-5e61b9122044
+FORMULA     C17H11N5
+EXACT_MASS  285.1014
+MOL_WEIGHT  285.3027
+CLASS       Antineoplastic
+             DG01596  Aromatase inhibitor
+             DG01524  Triazole antineoplastic
+            Cyp substrate
+             DG01638  CYP2A6 substrate
+             DG01633  CYP3A substrate
+            Cyp inhibitor
+             DG01525  CYP2A6 inhibitor
+REMARK      Same as: C08163
+            Therapeutic category: 4291
+            ATC code: L02BG04
+ACTIVITY    Antineoplastic, Estrogen biosynthesis inhibitor
+  DISEASE   Breast cancer (postmenopausal) [DS:H00031]
+COMMENT     Aromatase inhibitor
+TARGET      CYP19A1 (ARO) [HSA:1588] [KO:K07434]
+  PATHWAY   hsa00140(1588)  Steroid hormone biosynthesis
+METABOLISM  Enzyme: CYP3A4 [HSA:1576], CYP2A6 [HSA:1548]
+INTERACTION CYP inhibition: CYP2A6 [HSA:1548]
+            Genomic biomarker: ESR [HSA:2099 2100], PGR [HSA:5241]
+STR_MAP     map07043  Antineoplastics - hormones
+OTHER_MAP   map01522  Endocrine resistance
+BRITE       Anatomical Therapeutic Chemical (ATC) classification [BR:br08303]
+             L ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS
+              L02 ENDOCRINE THERAPY
+               L02B HORMONE ANTAGONISTS AND RELATED AGENTS
+                L02BG Aromatase inhibitors
+                 L02BG04 Letrozole
+                  D00964  Letrozole (JAN/USP/INN)
+            USP drug classification [BR:br08302]
+             Antineoplastics
+              Aromatase Inhibitors, 3rd Generation
+               Letrozole
+                D00964  Letrozole (JAN/USP/INN)
+            Therapeutic category of drugs in Japan [BR:br08301]
+             4  Agents affecting cellular function
+              42  Antineoplastics
+               429  Miscellaneous
+                4291  Other Antitumors
+                 D00964  Letrozole (JAN/USP/INN)
+            Target-based classification of drugs [BR:br08310]
+             Enzymes
+              Oxidoreductases
+               aromatase
+                Letrozole
+                 D00964  Letrozole (JAN/USP/INN)
+            Cytochrome P450 interactions [BR:br08309]
+             CYP inhbitors
+              CYP2A6
+               Letrozole
+                D00964  Letrozole (JAN/USP/INN)
+             CYP substrates
+              CYP2A6
+               Letrozole
+                D00964  Letrozole (JAN/USP/INN)
+              CYP3A4
+               Letrozole
+                D00964  Letrozole (JAN/USP/INN)
+            Antineoplastics [br08340.html]
+             D00964
+            New drug approvals in Japan [br08318.html]
+             Drugs with new active ingredients
+              D00964
+            Pharmacogenomic biomarkers in FDA drug labels [br08341.html]
+             Companion diagnostics
+              D00964
+DBLINKS     CAS: 112809-51-5
+            PubChem: 7848027
+            ChEBI: 6413
+            ChEMBL: CHEMBL1444
+            DrugBank: DB01006
+            LigandBox: D00964
+            NIKKAJI: J390.644B
+ATOM        22
+            1   C1c C    25.6900  -19.1281
+            2   C8y C    26.8966  -19.8333
+            3   C8y C    24.4834  -19.8276
+            4   N4y N    25.6957  -17.7232
+            5   C8x C    26.8907  -21.2381
+            6   C8x C    28.1149  -19.1338
+            7   C8x C    24.4834  -21.2266
+            8   C8x C    23.2710  -19.1222
+            9   C8x C    24.5650  -16.9072
+            10  N5x N    26.8326  -16.9072
+            11  C8x C    28.1033  -21.9376
+            12  C8x C    29.3273  -19.8450
+            13  C8x C    23.2710  -21.9259
+            14  C8x C    22.0527  -19.8276
+            15  N5x N    25.0022  -15.5723
+            16  C8x C    26.4069  -15.5723
+            17  C8y C    29.3216  -21.2498
+            18  C8y C    22.0527  -21.2266
+            19  C3b C    30.5165  -21.9435
+            20  C3b C    20.8402  -21.9202
+            21  N3a N    31.7172  -22.6371
+            22  N3a N    19.6394  -22.6430
+BOND        24
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1
+            4     2   5 2
+            5     2   6 1
+            6     3   7 2
+            7     3   8 1
+            8     4   9 1
+            9     4  10 1
+            10    5  11 1
+            11    6  12 2
+            12    7  13 1
+            13    8  14 2
+            14    9  15 2
+            15   10  16 2
+            16   11  17 2
+            17   13  18 2
+            18   17  19 1
+            19   18  20 1
+            20   19  21 3
+            21   20  22 3
+            22   12  17 1
+            23   14  18 1
+            24   15  16 1
+///

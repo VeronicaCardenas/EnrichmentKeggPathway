@@ -1,0 +1,21 @@
+ENTRY       G13043                      Glycan
+COMPOSITION (GalNAc)2 (GlcA)1 (S)1
+MASS        680.6
+REACTION    R07823 R07824
+PATHWAY     map00531  Glycosaminoglycan degradation
+            map01100  Metabolic pathways
+MODULE      M00076  Dermatan sulfate degradation
+            M00077  Chondroitin sulfate degradation
+ENZYME      3.1.6.12        3.2.1.35
+DBLINKS     GlyTouCan: G81393WR
+            JCGGDB: JCGG-STR016159
+NODE        4
+            1   GalNAc   10.2  -1.2
+            2   S         4.2   1.8
+            3   GlcA      0.2  -1.2
+            4   GalNAc   -9.8  -1.2
+EDGE        3
+            1     2       1:4  
+            2     3:b1    1:3  
+            3     4:b1    3:4  
+///

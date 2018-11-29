@@ -1,0 +1,28 @@
+ENTRY       G13045                      Glycan
+COMPOSITION (GlcN)1 (Ino(acyl)-P)1 (Man)3 (EtN)2 (P)2 (protein)1
+PATHWAY     map00563  Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+            map01100  Metabolic pathways
+DBLINKS     GlyTouCan: G48973LI
+            JCGGDB: JCGG-STR016160
+NODE        10
+            1   Ino(acyl)-P  20.9  -2.3
+            2   GlcN     10.9  -2.3
+            3   P         4.9   2.7
+            4   Man       3.9  -2.3
+            5   EtN       1.3   2.7
+            6   Man      -3.1  -2.3
+            7   P       -10.1   2.7
+            8   Man     -11.1  -2.3
+            9   EtN     -13.5   2.7
+            10  protein -20.1   2.7
+EDGE        9
+            1     2:a1    1:6  
+            2     4:a1    2:4  
+            3     4:2     3    
+            4     5       3    
+            5     6:a1    4:6  
+            6     8:a1    6:2  
+            7     8:6     7    
+            8     9       7    
+            9    10       9    
+///

@@ -1,0 +1,38 @@
+ENTRY       C07103                      Compound
+NAME        2-Hydroxy-1,4-benzoquinone;
+            Hydroxybenzoquinone
+FORMULA     C6H4O3
+EXACT_MASS  124.016
+MOL_WEIGHT  124.0942
+REACTION    R05388 R05399 R06853 R06854
+PATHWAY     map00361  Chlorocyclohexane and chlorobenzene degradation
+            map00627  Aminobenzoate degradation
+            map01100  Metabolic pathways
+            map01120  Microbial metabolism in diverse environments
+ENZYME      1.1.-.-         1.6.5.7         4.5.1.-
+DBLINKS     CAS: 2474-72-8
+            PubChem: 9314
+            ChEBI: 18400
+            3DMET: B01070
+            NIKKAJI: J546.100F
+ATOM        9
+            1   C2y C    29.4326  -16.2556
+            2   C5x C    28.2207  -15.5530
+            3   C2x C    29.4326  -17.6546
+            4   O1a O    30.6444  -15.5530
+            5   C2x C    27.0089  -16.2556
+            6   O5x O    28.2265  -14.1540
+            7   C5x C    28.2207  -18.3571
+            8   C2x C    27.0089  -17.6546
+            9   O5x O    28.2265  -19.7564
+BOND        9
+            1     1   2 1
+            2     1   3 2
+            3     1   4 1
+            4     2   5 1
+            5     2   6 2
+            6     3   7 1
+            7     5   8 2
+            8     7   9 2
+            9     7   8 1
+///

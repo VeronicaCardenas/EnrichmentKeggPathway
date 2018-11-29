@@ -1,0 +1,103 @@
+ENTRY       D00343                      Drug
+NAME        Ifosfamide (JAN/USP/INN);
+            Ifex (TN)
+PRODUCT     IFOSFAMIDE (Baxter Healthcare Corporation) 91e433a9-6800-43a6-ac13-a49a04a5aecd
+            IFEX (Baxter Healthcare Corporation) b7241707-7538-4d1a-91e7-3a25a91e0b9a
+  GENERIC   IFOSFAMIDE (APP Pharmaceuticals) f6fef680-884f-46fc-bf81-0ef7c5db6f32
+            IFOSFAMIDE (Fresenius Kabi USA) a311a947-7b78-4226-bfe0-f4aa0be20e27
+            IFOSFAMIDE (Fresenius Kabi USA) fb7f49af-ffe9-4969-a69c-8ed14dd0616b
+            IFOSFAMIDE (Mylan Institutional LLC) 27f666d5-0d49-42d4-be52-ad8505593f48
+            IFOSFAMIDE (Mylan Institutional LLC) 9273052f-cd52-4452-b3eb-a78984b852ad
+            IFOSFAMIDE (Pfizer Laboratories Div Pfizer) 0a7099a9-5c9a-409e-b6f4-c31812a43327
+            IFOSFAMIDE (Teva Parenteral Medicines) 14f535d7-4593-4cee-94fb-54ee239d95d2
+FORMULA     C7H15Cl2N2O2P
+EXACT_MASS  260.0248
+MOL_WEIGHT  261.086
+CLASS       Antineoplastic
+             DG01677  Alkylating agent
+              DG01678  Nitrogen mustard analogue
+               DG01720  Isophosphoramide mustard analogue
+            Cyp substrate
+             DG01633  CYP3A substrate
+REMARK      Same as: C07047
+            Therapeutic category: 4211
+            ATC code: L01AA06
+            Chemical group: DG02165
+ACTIVITY    Antineoplastic, Alkylating agent
+  DISEASE   Testicular cancer [DS:H00023]
+COMMENT     Active form of prodrug: 4-Hydroxyifosfamide [CPD:C16553]
+TARGET      DNA
+METABOLISM  Enzyme: CYP3A4 [HSA:1576], CYP2B6 [HSA:1555]
+INTERACTION  
+STR_MAP     map07040  Antineoplastics - alkylating agents
+OTHER_MAP   map00982  Drug metabolism - cytochrome P450
+BRITE       Anatomical Therapeutic Chemical (ATC) classification [BR:br08303]
+             L ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS
+              L01 ANTINEOPLASTIC AGENTS
+               L01A ALKYLATING AGENTS
+                L01AA Nitrogen mustard analogues
+                 L01AA06 Ifosfamide
+                  D00343  Ifosfamide (JAN/USP/INN)
+            Therapeutic category of drugs in Japan [BR:br08301]
+             4  Agents affecting cellular function
+              42  Antineoplastics
+               421  Alkylating agents
+                4211  Chlorethylamines
+                 D00343  Ifosfamide (JAN/USP/INN)
+            Target-based classification of drugs [BR:br08310]
+             Others
+              Nucleic acid
+               DNA
+                Ifosfamide
+                 D00343  Ifosfamide (JAN/USP/INN)
+            Cytochrome P450 interactions [BR:br08309]
+             CYP substrates
+              CYP2B6
+               Ifosfamide
+                D00343  Ifosfamide (JAN/USP/INN)
+              CYP3A4
+               Ifosfamide
+                D00343  Ifosfamide (JAN/USP/INN)
+            Antineoplastics [br08340.html]
+             D00343
+            Orphan drugs in the USA [br08355.html]
+             Orphan drugs in the USA
+              D00343
+DBLINKS     CAS: 3778-73-2
+            PubChem: 7847409
+            ChEBI: 5864
+            ChEMBL: CHEMBL1024
+            DrugBank: DB01181
+            LigandBox: D00343
+            NIKKAJI: J2.196B
+ATOM        14
+            1   P1a P    27.8304  -19.5949
+            2   N1b N    27.8362  -18.1152
+            3   N1y N    28.9741  -20.2612
+            4   O2x O    26.6807  -20.2612
+            5   O3b O    26.5511  -18.8521
+            6   C1x C    28.9741  -21.5877
+            7   C1x C    26.6807  -21.5877
+            8   C1x C    27.8304  -22.2421
+            9   C1b C    30.1794  -19.5230
+            10  C1b C    31.4045  -20.2302
+            11  X   Cl   32.6294  -19.5230
+            12  C1b C    26.6476  -17.4300
+            13  C1b C    25.4351  -18.1300
+            14  X   Cl   24.2227  -17.4300
+BOND        14
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1
+            4     1   5 2
+            5     3   6 1
+            6     4   7 1
+            7     6   8 1
+            8     7   8 1
+            9     3   9 1
+            10    9  10 1
+            11   10  11 1
+            12    2  12 1
+            13   12  13 1
+            14   13  14 1
+///

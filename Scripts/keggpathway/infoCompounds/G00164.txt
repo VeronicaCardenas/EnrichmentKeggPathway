@@ -1,0 +1,32 @@
+ENTRY       G00164                      Glycan
+COMPOSITION (Gal)2 (GlcA)2 (GlcNAc)2 (Xyl)1 (Ser)1
+MASS        1215 (Ser)
+REACTION    R05936 R10138
+PATHWAY     map00534  Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+            map01100  Metabolic pathways
+MODULE      M00059  Glycosaminoglycan biosynthesis, heparan sulfate backbone
+ENZYME      2.4.1.224       2.4.1.225
+ORTHOLOGY   K02366  glucuronyl/N-acetylglucosaminyl transferase EXT1 [EC:2.4.1.224 2.4.1.225]
+            K02367  glucuronyl/N-acetylglucosaminyl transferase EXT2 [EC:2.4.1.224 2.4.1.225]
+            K02368  alpha-1,4-N-acetylglucosaminyltransferase EXTL1 [EC:2.4.1.224]
+            K02370  alpha-1,4-N-acetylglucosaminyltransferase EXTL3 [EC:2.4.1.223 2.4.1.224]
+DBLINKS     GlyTouCan: G18844FT
+            JCGGDB: JCGG-STR007932
+NODE        8
+            1   Ser        22     0
+            2   Xyl        16     0
+            3   Gal        10     0
+            4   Gal         4     0
+            5   GlcA       -2     0
+            6   GlcNAc     -9     0
+            7   GlcA      -16     0
+            8   GlcNAc    -23     0
+EDGE        7
+            1     2:b1    1    
+            2     3:b1    2:4  
+            3     4:b1    3:3  
+            4     5:b1    4:3  
+            5     6:a1    5:4  
+            6     7:b1    6:4  
+            7     8:a1    7:4  
+///

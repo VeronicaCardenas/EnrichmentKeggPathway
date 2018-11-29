@@ -1,0 +1,381 @@
+C00001;CHEMBL1098659;O;H2O_Water
+C00002;CHEMBL14249;Nc1ncnc2c1ncn2[C@@H]3O[C@H](COP(=O)(O)OP(=O)(O)OP(=O)(O)O)[C@@H](O)[C@H]3O;ATP_Adenosine 5'-triphosphate
+C00003;CHEMBL1234613;NC(=O)c1ccc[n+](c1)[C@@H]2O[C@H](COP(=O)([O-])OP(=O)(O)OC[C@H]3O[C@H]([C@H](O)[C@@H]3O)n4cnc5c(N)ncnc45)[C@@H](O)[C@H]2O;NAD+_NAD
+C00005;CHEMBL1594246;NC(=O)C1=CN(C=CC1)C2OC(COP(=O)(O)OP(=O)(O)OC[C@H]3O[C@H]([C@H](OP(=O)(O)O)[C@@H]3O)n4cnc5c(N)ncnc45)C(O)C2O;NADPH_TPNH
+C00006;CHEMBL1623886;NC(=O)c1ccc[n+](c1)[C@@H]2OC(COP(=O)(O)OP(=O)(O)OCC3OC(C(OP(=O)(O)O)C3O)n4cnc5c(N)ncnc45)C(O)C2O;NADP+_NADP
+C00007;CHEMBL1234886;O=O;Oxygen_O2
+C00008;CHEMBL14830;Nc1ncnc2c1ncn2[C@@H]3O[C@H](COP(=O)(O)OP(=O)(O)O)[C@@H](O)[C@H]3O;ADP_Adenosine 5'-diphosphate
+C00009;CHEMBL1187;OP(=O)(O)O;Orthophosphate_Phosphate
+C00010;CHEMBL1213327;CC(C)(COP(=O)(O)OP(=O)(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(=O)(O)O)n2cnc3c(N)ncnc23)[C@@H](O)C(=O)NCCC(=O)NCCS;CoA_Coenzyme A
+C00011;CHEMBL1231871;O=C=O;CO2_Carbon dioxide
+C00013;CHEMBL1160571;OP(=O)(O)OP(=O)(O)O;Diphosphate_Diphosphoric acid
+C00014;CHEMBL1160819;N;Ammonia_NH3
+C00015;CHEMBL130266;O[C@H]1[C@@H](O)[C@@H](O[C@@H]1COP(=O)(O)OP(=O)(O)O)N2C=CC(=O)NC2=O;UDP_Uridine 5'-diphosphate
+C00016;CHEMBL1232653;Cc1cc2N=C3C(=O)NC(=O)N=C3N(C[C@H](O)[C@H](O)[C@H](O)COP(=O)(O)OP(=O)(O)OC[C@H]4O[C@H]([C@H](O)[C@@H]4O)n5cnc6c(N)ncnc56)c2cc1C;FAD_Flavin adenine dinucleotide
+C00018;CHEMBL82202;Cc1ncc(COP(=O)(O)O)c(C=O)c1O;Pyridoxal
+C00019;CHEMBL1088977;C[S+](CC[C@H](N)C(=O)[O-])C[C@H]1O[C@H]([C@H](O)[C@@H]1O)n2cnc3c(N)ncnc23;S-Adenosyl-L-methionine_S-Adenosylmethionine
+C00020;CHEMBL752;Nc1ncnc2c1ncn2[C@@H]3O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]3O;AMP_Adenosine 5'-monophosphate
+C00021;CHEMBL142828;N[C@@H](CCSCC1OC([C@H](O)[C@@H]1O)n2cnc3c(N)ncnc23)C(=O)O;S-Adenosyl-L-homocysteine_S-Adenosylhomocysteine
+C00022;CHEMBL1162144;CC(=O)C(=O)O;Pyruvate_Pyruvic acid
+C00025;CHEMBL575060;N[C@@H](CCC(=O)O)C(=O)O;L-Glutamate_L-Glutamic acid
+C00026;CHEMBL1686;OC(=O)CCC(=O)C(=O)O;2-Oxoglutarate_Oxoglutaric acid
+C00027;CHEMBL71595;OO;Hydrogen
+C00029;CHEMBL375951;OC[C@H]1O[C@H](OP(=O)(O)OP(=O)(O)OC[C@H]2O[C@H]([C@H](O)[C@@H]2O)N3C=CC(=O)NC3=O)[C@H](O)[C@@H](O)[C@@H]1O;UDP-glucose_UDPglucose
+C00031;CHEMBL1222250;OC[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O;D-Glucose_Grape sugar
+C00033;CHEMBL539;CC(=O)O;Acetate_Acetic acid
+C00035;CHEMBL384759;NC1=Nc2c(ncn2[C@@H]3O[C@H](COP(=O)(O)OP(=O)(O)O)[C@@H](O)[C@H]3O)C(=O)N1;GDP_Guanosine 5'-diphosphate
+C00036;CHEMBL1794791;OC(=O)CC(=O)C(=O)O;Oxaloacetate_Oxalacetic acid
+C00037;CHEMBL773;NCC(=O)O;Glycine_Aminoacetic acid
+C00038;CHEMBL1236970;[Zn+2];Zinc
+C00041;CHEMBL279597;C[C@H](N)C(=O)O;L-Alanine_L-2-Aminopropionic acid
+C00042;CHEMBL576;OC(=O)CCC(=O)O;Succinate_Succinic acid
+C00044;CHEMBL1233147;NC1=Nc2c(ncn2[C@@H]3O[C@H](COP(=O)(O)OP(=O)(O)OP(=O)(O)O)[C@@H](O)[C@H]3O)C(=O)N1;GTP_Guanosine 5'-triphosphate
+C00047;CHEMBL8085;NCCCC[C@H](N)C(=O)O;L-Lysine_Lysine acid
+C00048;CHEMBL1162545;OC(=O)C=O;Glyoxylate_Glyoxalate
+C00049;CHEMBL274323;N[C@@H](CC(=O)O)C(=O)O;L-Aspartate_L-Aspartic acid
+C00051;CHEMBL1514919;NC(CCC(=O)N[C@@H](CS)C(=O)NCC(=O)O)C(=O)O;Glutathione_5-L-Glutamyl-L-cysteinylglycine
+C00052;CHEMBL439009;OC[C@H]1O[C@H](OP(=O)(O)OP(=O)(O)OC[C@H]2O[C@H]([C@H](O)[C@@H]2O)N3C=CC(=O)NC3=O)[C@H](O)[C@@H](O)[C@H]1O;UDP-alpha-D-galactose_UDP-D-galactose
+C00054;CHEMBL574817;Nc1ncnc2c1ncn2[C@@H]3O[C@H](COP(=O)(O)O)[C@@H](OP(=O)(O)O)[C@H]3O;Adenosine
+C00055;CHEMBL307679;NC1=NC(=O)N(C=C1)[C@@H]2O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]2O;CMP_Cytidine-5'-monophosphate
+C00058;CHEMBL116736;OC=O;Formate_Methanoic acid
+C00059;CHEMBL572964;OS(=O)(=O)O;Sulfate_Sulfuric acid
+C00061;CHEMBL1201794;Cc1cc2N=C3C(=O)NC(=O)N=C3N(C[C@H](O)[C@H](O)[C@H](O)COP(=O)(O)O)c2cc1C;FMN_Riboflavin-5-phosphate
+C00062;CHEMBL1485;N[C@@H](CCCNC(=N)N)C(=O)O;L-Arginine_(S)-2-Amino-5-guanidinovaleric acid
+C00063;CHEMBL223533;NC1=NC(=O)N(C=C1)[C@@H]2O[C@H](COP(=O)(O)OP(=O)(O)OP(=O)(O)O)[C@@H](O)[C@H]2O;CTP_Cytidine 5'-triphosphate
+C00064;CHEMBL930;N[C@@H](CCC(=O)N)C(=O)O;L-Glutamine_L-2-Aminoglutaramic acid
+C00065;CHEMBL11298;N[C@@H](CO)C(=O)O;L-Serine_L-2-Amino-3-hydroxypropionic acid
+C00067;CHEMBL1255;C=O;Formaldehyde_Methanal
+C00068;CHEMBL1236235;Cc1ncc(C[n+]2csc(CCOP(=O)(O)OP(=O)(O)[O-])c2C)c(N)n1;Thiamin
+C00072;CHEMBL196;OC[C@H](O)[C@H]1OC(=O)C(=C1O)O;Ascorbate_Ascorbic acid
+C00073;CHEMBL42336;CSCC[C@H](N)C(=O)O;L-Methionine_Methionine
+C00074;CHEMBL1235228;OC(=O)C(=C)OP(=O)(O)O;Phosphoenolpyruvate_Phosphoenolpyruvic acid
+C00075;CHEMBL336296;O[C@H]1[C@@H](O)[C@@H](O[C@@H]1COP(=O)(O)OP(=O)(O)OP(=O)(O)O)N2C=CC(=O)NC2=O;UTP_Uridine 5'-triphosphate
+C00077;CHEMBL446143;NCCC[C@H](N)C(=O)O;L-Ornithine_(S)-2,5-Diaminovaleric acid
+C00078;CHEMBL54976;N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O;L-Tryptophan_Tryptophan
+C00079;CHEMBL301523;N[C@@H](Cc1ccccc1)C(=O)O;L-Phenylalanine_(S)-alpha-Amino-beta-phenylpropionic acid
+C00081;CHEMBL1233686;O[C@H]1[C@@H](O)[C@@H](O[C@@H]1COP(=O)(O)OP(=O)(O)OP(=O)(O)O)n2cnc3c(O)ncnc23;ITP_Inosine 5'-triphosphate
+C00082;CHEMBL925;N[C@@H](Cc1ccc(O)cc1)C(=O)O;L-Tyrosine_(S)-3-(p-Hydroxyphenyl)alanine
+C00084;CHEMBL170365;CC=O;Acetaldehyde_Ethanal
+C00085;CHEMBL604196;OC[C@@]1(O)O[C@H](COP(=O)(O)O)[C@@H](O)[C@@H]1O;D-Fructose
+C00086;CHEMBL985;NC(=O)N;Urea_Carbamide
+C00087;CHEMBL2105487;[S];Sulfur_S
+C00088;CHEMBL1161681;ON=O;Nitrite
+C00089;CHEMBL253582;OC[C@H]1O[C@H](O[C@]2(CO)O[C@H](CO)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@@H]1O;Sucrose_Cane sugar
+C00090;CHEMBL280998;Oc1ccccc1O;Catechol_1,2-Benzenediol
+C00092;CHEMBL257975;O[C@@H]1O[C@H](COP(=O)(O)O)[C@@H](O)[C@H](O)[C@H]1O;D-Glucose
+C00093;CHEMBL1232920;OC[C@@H](O)COP(=O)(O)O;sn-Glycerol
+C00094;CHEMBL1161699;OS(=O)O;Sulfite_Sulfurous acid
+C00095;CHEMBL604608;OC[C@H]1O[C@](O)(CO)[C@@H](O)[C@@H]1O;D-Fructose_Levulose
+C00097;CHEMBL863;N[C@@H](CS)C(=O)O;L-Cysteine_L-2-Amino-3-mercaptopropionic acid
+C00099;CHEMBL297569;NCCC(=O)O;beta-Alanine_3-Aminopropionic acid
+C00101;CHEMBL2021342;Nc1nc(O)c2NC(CNc3ccc(cc3)C(=O)N[C@@H](CCC(=O)O)C(=O)O)CNc2n1;Tetrahydrofolate_5,6,7,8-Tetrahydrofolate
+C00104;CHEMBL1233551;O[C@H]1[C@@H](O)[C@@H](O[C@@H]1COP(=O)(O)OP(=O)(O)O)n2cnc3C(=O)NC=Nc23;IDP_Inosine 5'-diphosphate
+C00105;CHEMBL214393;O[C@H]1[C@@H](O)[C@@H](O[C@@H]1COP(=O)(O)O)N2C=CC(=O)NC2=O;UMP_Uridylic acid
+C00106;CHEMBL566;O=C1NC=CC(=O)N1;Uracil
+C00108;CHEMBL14173;Nc1ccccc1C(=O)O;Anthranilate_Anthranilic acid
+C00109;CHEMBL171246;CCC(=O)C(=O)O;2-Oxobutanoate_2-Ketobutyric acid
+C00111;CHEMBL1161998;OCC(=O)COP(=O)(O)O;Glycerone
+C00112;CHEMBL425252;NC1=NC(=O)N(C=C1)[C@@H]2O[C@H](COP(=O)(O)OP(=O)(O)O)[C@@H](O)[C@H]2O;CDP_Cytidine 5'-diphosphate
+C00114;CHEMBL920;C[N+](C)(C)CCO;Choline_Bilineurine
+C00116;CHEMBL692;OCC(O)CO;Glycerol_Glycerin
+C00117;CHEMBL1235722;O[C@@H]1O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]1O;D-Ribose
+C00118;CHEMBL1232918;O[C@H](COP(=O)(O)O)C=O;D-Glyceraldehyde
+C00119;CHEMBL606077;O[C@H]1[C@@H](O)C(OP(=O)(O)OP(=O)(O)O)O[C@@H]1COP(=O)(O)O;5-Phospho-alpha-D-ribose
+C00120;CHEMBL857;OC(=O)CCCC[C@@H]1SC[C@@H]2NC(=O)N[C@H]12;Biotin_D-Biotin
+C00121;CHEMBL444125;OC[C@H]1OC(O)[C@H](O)[C@@H]1O;D-Ribose
+C00122;CHEMBL503160;OC(=O)\C=C\C(=O)O;Fumarate_Fumaric acid
+C00123;CHEMBL291962;CC(C)C[C@H](N)C(=O)O;L-Leucine_2-Amino-4-methylvaleric acid
+C00124;CHEMBL1233058;OC[C@H]1O[C@H](O)[C@H](O)[C@@H](O)[C@H]1O;D-Galactose_D-Galactopyranose
+C00127;CHEMBL1372;N[C@@H](CCC(=O)N[C@@H](CSSC[C@H](NC(=O)CC[C@H](N)C(=O)O)C(=O)NCC(=O)O)C(=O)NCC(=O)O)C(=O)O;Glutathione
+C00128;CHEMBL1234647;CC(=O)N[C@@H]1[C@@H](O)C[C@](OP(=O)(O)OC[C@H]2O[C@H]([C@H](O)[C@@H]2O)N3C=CC(=NC3=O)N)(O[C@H]1[C@H](O)[C@H](O)CO)C(=O)O;CMP-N-acetylneuraminate_CMP-N-acetyl-beta-neuraminate
+C00129;CHEMBL356362;CC(=C)CCOP(=O)(O)OP(=O)(O)O;Isopentenyl
+C00130;CHEMBL1207374;O[C@H]1[C@@H](O)[C@@H](O[C@@H]1COP(=O)(O)O)n2cnc3C(=O)NC=Nc23;IMP_Inosinic acid
+C00131;CHEMBL335538;Nc1ncnc2c1ncn2[C@H]3C[C@H](O)[C@@H](COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O3;dATP_2'-Deoxyadenosine 5'-triphosphate
+C00132;CHEMBL14688;CO;Methanol_Methyl alcohol
+C00133;CHEMBL66693;C[C@@H](N)C(=O)O;D-Alanine_D-2-Aminopropionic acid
+C00134;CHEMBL46257;NCCCCN;Putrescine_1,4-Butanediamine
+C00135;CHEMBL17962;N[C@@H](Cc1c[nH]cn1)C(=O)O;L-Histidine_(S)-alpha-Amino-1H-imidazole-4-propionic acid
+C00136;CHEMBL1949894;CCCC(=O)SCCNC(=O)CCNC(=O)C(O)C(C)(C)COP(=O)(O)OP(=O)(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(=O)(O)O)n2cnc3c(N)ncnc23;Butanoyl-CoA_Butyryl-CoA
+C00137;CHEMBL1222251;O[C@@H]1[C@H](O)[C@H](O)[C@@H](O)[C@H](O)[C@H]1O;myo-Inositol_D-myo-Inositol
+C00140;CHEMBL240524;CC(=O)N[C@H]1C(O)O[C@H](CO)[C@@H](O)[C@@H]1O;N-Acetyl-D-glucosamine_N-Acetylchitosamine
+C00141;CHEMBL146554;CC(C)C(=O)C(=O)O;3-Methyl-2-oxobutanoic
+C00143;CHEMBL3274193;NC1=NC2=C(N3CN(CC3CN2)c4ccc(cc4)C(=O)N[C@H](CCC(=O)O)C(=O)O)C(=O)N1;5,10-Methylenetetrahydrofolate_(6R)-5,10-Methylenetetrahydrofolate
+C00144;CHEMBL283807;NC1=Nc2c(ncn2[C@@H]3O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]3O)C(=O)N1;GMP_Guanosine 5'-phosphate
+C00146;CHEMBL14060;Oc1ccccc1;Phenol_Benzenol
+C00147;CHEMBL226345;Nc1[nH]cnc2ncnc12;Adenine_6-Aminopurine
+C00148;CHEMBL54922;OC(=O)[C@@H]1CCCN1;L-Proline_2-Pyrrolidinecarboxylic acid
+C00152;CHEMBL58832;N[C@@H](CC(=O)N)C(=O)O;L-Asparagine_2-Aminosuccinamic acid
+C00153;CHEMBL1140;NC(=O)c1cccnc1;Nicotinamide_Nicotinic acid amide
+C00155;CHEMBL469662;N[C@@H](CCS)C(=O)O;L-Homocysteine_L-2-Amino-4-mercaptobutyric acid
+C00156;CHEMBL441343;OC(=O)c1ccc(O)cc1;4-Hydroxybenzoate_Hydroxybenzoic acid
+C00158;CHEMBL1261;OC(=O)CC(O)(CC(=O)O)C(=O)O;Citrate_Citric acid
+C00159;CHEMBL365590;OC[C@H]1O[C@H](O)[C@@H](O)[C@@H](O)[C@@H]1O;D-Mannose_Mannose
+C00160;CHEMBL252557;OCC(=O)O;Glycolate_Glycolic acid
+C00163;CHEMBL14021;CCC(=O)O;Propanoate_Propionate
+C00164;CHEMBL1230762;CC(=O)CC(=O)O;Acetoacetate_3-Oxobutanoic acid
+C00166;CHEMBL1162488;OC(=O)C(=O)Cc1ccccc1;Phenylpyruvate_Phenylpyruvic acid
+C00167;CHEMBL228057;O[C@@H]1[C@@H](O)[C@@H](OP(=O)(O)OP(=O)(O)OC[C@H]2O[C@H]([C@H](O)[C@@H]2O)N3C=CC(=O)NC3=O)O[C@@H]([C@H]1O)C(=O)O;UDP-glucuronate_UDPglucuronate
+C00169;CHEMBL369105;NC(=O)OP(=O)(O)O;Carbamoyl
+C00170;CHEMBL277041;CSC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n2cnc3c(N)ncnc23;5'-Methylthioadenosine_Methylthioadenosine
+C00178;CHEMBL993;CC1=CNC(=O)NC1=O;Thymine_5-Methyluracil
+C00179;CHEMBL58343;NCCCCNC(=N)N;Agmatine_(4-Aminobutyl) guanidine
+C00180;CHEMBL541;OC(=O)c1ccccc1;Benzoate_Benzoic acid
+C00181;CHEMBL502135;O[C@@H]1COC(O)[C@H](O)[C@H]1O;D-Xylose_Wood sugar
+C00183;CHEMBL43068;CC(C)[C@H](N)C(=O)O;L-Valine_2-Amino-3-methylbutyric acid
+C00184;CHEMBL1229937;OCC(=O)CO;Glycerone_Dihydroxyacetone
+C00185;CHEMBL1231670;OC[C@H]1O[C@@H](O[C@H]2[C@H](O)[C@@H](O)[C@H](O)O[C@@H]2CO)[C@H](O)[C@@H](O)[C@@H]1O;Cellobiose_1-beta-D-Glucopyranosyl-4-D-glucopyranose
+C00186;CHEMBL330546;C[C@H](O)C(=O)O;(S)-Lactate_L-Lactate
+C00187;CHEMBL112570;CC(C)CCC[C@@H](C)[C@H]1CC[C@H]2[C@@H]3CC=C4C[C@@H](O)CC[C@]4(C)[C@H]3CC[C@]12C;Cholesterol_Cholest-5-en-3beta-ol
+C00188;CHEMBL291747;C[C@@H](O)[C@H](N)C(=O)O;L-Threonine_2-Amino-3-hydroxybutyric acid
+C00189;CHEMBL104943;NCCO;Ethanolamine_Aminoethanol
+C00191;CHEMBL1159524;O[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)C(=O)O;D-Glucuronate_Glucuronic acid
+C00192;CHEMBL1191361;NO;Hydroxylamine_NH2OH
+C00197;CHEMBL1160563;O[C@H](COP(=O)(O)O)C(=O)O;3-Phospho-D-glycerate_D-Glycerate 3-phosphate
+C00198;CHEMBL1200829;OC[C@H]1OC(=O)[C@H](O)[C@@H](O)[C@@H]1O;D-Glucono-1,5-lactone_Gluconic lactone
+C00207;CHEMBL14253;CC(=O)C;Acetone_Dimethyl ketone
+C00208;CHEMBL1908365;OC[C@H]1O[C@H](O[C@H]2[C@H](O)[C@@H](O)[C@H](O)O[C@@H]2CO)[C@H](O)[C@@H](O)[C@@H]1O;Maltose_Malt sugar
+C00209;CHEMBL146755;OC(=O)C(=O)O;Oxalate_Oxalic acid
+C00212;CHEMBL477;Nc1ncnc2c1ncn2[C@@H]3O[C@H](CO)[C@@H](O)[C@H]3O;Adenosine
+C00213;CHEMBL304383;CNCC(=O)O;Sarcosine_N-Methylglycine
+C00214;CHEMBL52609;CC1=CN([C@H]2C[C@H](O)[C@@H](CO)O2)C(=O)NC1=O;Thymidine_Deoxythymidine
+C00217;CHEMBL76232;N[C@H](CCC(=O)O)C(=O)O;D-Glutamate_D-Glutamic acid
+C00218;CHEMBL43280;CN;Methylamine_Methanamine
+C00219;CHEMBL15594;CCCCC\C=C/C\C=C/C\C=C/C\C=C/CCCC(=O)O;Arachidonate_Arachidonic acid
+C00221;CHEMBL1222250;OC[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O;beta-D-Glucose
+C00223;CHEMBL250086;CC(C)(COP(=O)(O)OP(=O)(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(=O)(O)O)n2cnc3c(N)ncnc23)[C@@H](O)C(=O)NCCC(=O)NCCSC(=O)\C=C\c4ccc(O)cc4;p-Coumaroyl-CoA_4-Coumaroyl-CoA
+C00224;CHEMBL572546;Nc1ncnc2c1ncn2[C@@H]3O[C@H](COP(=O)(O)OS(=O)(=O)O)[C@@H](O)[C@H]3O;Adenylyl
+C00230;CHEMBL37537;OC(=O)c1ccc(O)c(O)c1;3,4-Dihydroxybenzoate_3,4-Dihydroxybenzoic acid
+C00233;CHEMBL445647;CC(C)CC(=O)C(=O)O;4-Methyl-2-oxopentanoate_2-Oxoisocaproate
+C00235;CHEMBL343480;CC(=CCOP(=O)(O)OP(=O)(O)O)C;Dimethylallyl
+C00237;CHEMBL1231840;[C-]#[O+];CO_Carbon monoxide
+C00239;CHEMBL374699;NC1=NC(=O)N(C=C1)[C@H]2C[C@H](O)[C@@H](COP(=O)(O)O)O2;dCMP_Deoxycytidylic acid
+C00242;CHEMBL219568;NC1=Nc2[nH]cnc2C(=O)N1;Guanine_2-Amino-6-hydroxypurine
+C00243;CHEMBL417016;OC[C@H]1O[C@@H](O[C@H]2[C@H](O)[C@@H](O)[C@H](O)O[C@@H]2CO)[C@H](O)[C@@H](O)[C@H]1O;Lactose_1-beta-D-Galactopyranosyl-4-D-glucopyranose
+C00244;CHEMBL1352;O[N+](=O)[O-];Nitrate_Nitric acid
+C00245;CHEMBL239243;NCCS(=O)(=O)O;Taurine_2-Aminoethanesulfonic acid
+C00246;CHEMBL14227;CCCC(=O)O;Butanoic
+C00249;CHEMBL82293;CCCCCCCCCCCCCCCC(=O)O;Hexadecanoic
+C00250;CHEMBL102970;Cc1ncc(CO)c(C=O)c1O;Pyridoxal
+C00252;CHEMBL134478;OC[C@H]1O[C@H](OC[C@H]2O[C@H](O)[C@H](O)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@@H]1O;Isomaltose_Brachiose
+C00253;CHEMBL573;OC(=O)c1cccnc1;Nicotinate_Nicotinic acid
+C00255;CHEMBL1534;Cc1cc2N=C3C(=O)NC(=O)N=C3N(C[C@H](O)[C@H](O)[C@H](O)CO)c2cc1C;Riboflavin_Lactoflavin
+C00256;CHEMBL358850;C[C@@H](O)C(=O)O;(R)-Lactate_D-Lactate
+C00257;CHEMBL464345;OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C(=O)O;D-Gluconic
+C00259;CHEMBL1357418;O[C@H]1COC(O)[C@H](O)[C@H]1O;L-Arabinose_L-Arabinopyranose
+C00262;CHEMBL1427;O=C1NC=Nc2nc[nH]c12;Hypoxanthine_Purine-6-ol
+C00263;CHEMBL11722;N[C@@H](CCO)C(=O)O;L-Homoserine_2-Amino-4-hydroxybutyric acid
+C00267;CHEMBL1222250;OC[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O;alpha-D-Glucose
+C00270;CHEMBL1234621;CC(=O)N[C@@H]1[C@@H](O)C[C@@](O)(O[C@H]1[C@H](O)[C@H](O)CO)C(=O)O;N-Acetylneuraminate_N-Acetylneuraminic acid
+C00272;CHEMBL1201774;C[C@H](O)[C@H](O)[C@H]1CNc2nc(N)nc(O)c2N1;Tetrahydrobiopterin_5,6,7,8-Tetrahydrobiopterin
+C00275;CHEMBL402001;O[C@H]1O[C@H](COP(=O)(O)O)[C@@H](O)[C@H](O)[C@@H]1O;D-Mannose
+C00279;CHEMBL1232448;O[C@H](COP(=O)(O)O)[C@@H](O)C=O;D-Erythrose
+C00280;CHEMBL2140059;C[C@]12CCC3[C@@H](CCC4=CC(=O)CC[C@]34C)C1CCC2=O;Androstenedione_Androst-4-ene-3,17-dione
+C00283;CHEMBL1200739;S;Hydrogen
+C00286;CHEMBL477486;NC1=Nc2c(ncn2[C@H]3C[C@H](O)[C@@H](COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O3)C(=O)N1;dGTP_2'-Deoxyguanosine 5'-triphosphate
+C00294;CHEMBL1556;OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n2cnc3C(=O)NC=Nc23;Inosine
+C00295;CHEMBL1235017;OC(=O)C1=CC(=O)NC(=O)N1;Orotate_Orotic acid
+C00296;CHEMBL465398;O[C@@H]1C[C@@](O)(C[C@@H](O)[C@H]1O)C(=O)O;Quinate_Quinic acid
+C00299;CHEMBL100259;OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)N2C=CC(=O)NC2=O;Uridine
+C00300;CHEMBL283800;CN(CC(=O)O)C(=N)N;Creatine_alpha-Methylguanidino acetic acid
+C00301;CHEMBL1161865;Nc1ncnc2c1ncn2[C@@H]3O[C@H](COP(=O)(O)OP(=O)(O)OCC4OC(O)[C@H](O)[C@@H]4O)[C@@H](O)[C@H]3O;ADP-ribose_ADP-D-ribose
+C00306;CHEMBL406291;N[C@@H](CCCNC(=N)N)C(=O)N1CCC[C@H]1C(=O)N2CCC[C@H]2C(=O)NCC(=O)N[C@@H](Cc3ccccc3)C(=O)N[C@@H](CO)C(=O)N4CCC[C@H]4C(=O)N[C@@H](Cc5ccccc5)C(=O)N[C@@H](CCCNC(=N)N)C(=O)O;Bradykinin
+C00307;CHEMBL1231700;C[N+](C)(C)CCOP(=O)([O-])OP(=O)(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)N2C=CC(=NC2=O)N;CDP-choline_Cytidine 5'-diphosphocholine
+C00309;CHEMBL1341376;OCC1(O)OC[C@@H](O)[C@H]1O;D-Ribulose_D-erythro-2-Pentulose
+C00311;CHEMBL539669;OC(C(CC(=O)O)C(=O)O)C(=O)O;Isocitrate_Isocitric acid
+C00314;CHEMBL1364;Cc1ncc(CO)c(CO)c1O;Pyridoxine_Pyridoxol
+C00315;CHEMBL19612;NCCCCNCCCN;Spermidine_N-(3-Aminopropyl)-1,4-butane-diamine
+C00319;CHEMBL67166;CCCCCCCCCCCCC\C=C\[C@@H](O)[C@@H](N)CO;Sphingosine_Sphingenine
+C00325;CHEMBL1229250;C[C@@H]1O[C@H](OP(=O)(O)OP(=O)(O)OC[C@H]2O[C@H]([C@H](O)[C@@H]2O)n3cnc4C(=O)NC(=Nc34)N)[C@@H](O)[C@H](O)[C@@H]1O;GDP-L-fucose_GDP-beta-L-fucose
+C00327;CHEMBL444814;N[C@@H](CCCNC(=O)N)C(=O)O;L-Citrulline_2-Amino-5-ureidovaleric acid
+C00328;CHEMBL498416;N[C@@H](CC(=O)c1ccccc1N)C(=O)O;L-Kynurenine_3-Anthraniloyl-L-alanine
+C00329;CHEMBL234432;N[C@H]1[C@H](O)O[C@H](CO)[C@@H](O)[C@@H]1O;D-Glucosamine_Chitosamine
+C00330;CHEMBL68908;Nc1nc(O)c2ncn([C@H]3C[C@H](O)[C@@H](CO)O3)c2n1;Deoxyguanosine_2'-Deoxyguanosine
+C00331;CHEMBL485012;OC(=O)C(=O)Cc1c[nH]c2ccccc12;Indolepyruvate_Indolepyruvic acid
+C00334;CHEMBL96;NCCCC(=O)O;4-Aminobutanoate_4-Aminobutanoic acid
+C00341;CHEMBL41342;CC(=CCC\C(=C\COP(=O)(O)OP(=O)(O)O)\C)C;Geranyl
+C00345;CHEMBL1230513;O[C@H](COP(=O)(O)O)[C@@H](O)[C@H](O)[C@@H](O)C(=O)O;6-Phospho-D-gluconate
+C00346;CHEMBL146972;NCCOP(=O)(O)O;Ethanolamine
+C00352;CHEMBL2448885;N[C@H]1[C@H](O)O[C@H](COP(=O)(O)O)[C@@H](O)[C@@H]1O;D-Glucosamine
+C00353;CHEMBL1229266;CC(=CCC\C(=C\CC\C(=C\CC\C(=C\COP(=O)(O)OP(=O)(O)O)\C)\C)\C)C;Geranylgeranyl
+C00354;CHEMBL1089962;O[C@H]1[C@H](O)[C@](O)(COP(=O)(O)O)O[C@@H]1COP(=O)(O)O;D-Fructose
+C00355;CHEMBL1009;N[C@@H](Cc1ccc(O)c(O)c1)C(=O)O;3,4-Dihydroxy-L-phenylalanine_L-Dopa
+C00356;CHEMBL1794644;C[C@](O)(CC(=O)O)CC(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(O)OP(=O)(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(=O)(O)O)n2cnc3c(N)ncnc23;(S)-3-Hydroxy-3-methylglutaryl-CoA_Hydroxymethylglutaryl-CoA
+C00360;CHEMBL1206239;Nc1ncnc2c1ncn2[C@H]3C[C@H](O)[C@@H](COP(=O)(O)O)O3;dAMP_2'-Deoxyadenosine 5'-phosphate
+C00361;CHEMBL1232205;NC1=Nc2c(ncn2[C@H]3C[C@H](O)[C@@H](COP(=O)(O)OP(=O)(O)O)O3)C(=O)N1;dGDP_2'-Deoxyguanosine 5'-diphosphate
+C00362;CHEMBL477487;Nc1nc(O)c2ncn([C@H]3C[C@H](O)[C@@H](COP(=O)(O)O)O3)c2n1;dGMP_2'-Deoxyguanosine 5'-monophosphate
+C00363;CHEMBL259724;CC1=CN([C@H]2C[C@H](O)[C@@H](COP(=O)(O)OP(=O)(O)O)O2)C(=O)NC1=O;dTDP_Deoxythymidine 5'-diphosphate
+C00364;CHEMBL394429;CC1=CN([C@H]2C[C@H](O)[C@@H](COP(=O)(O)O)O2)C(=O)NC1=O;dTMP_Thymidine 5'-phosphate
+C00365;CHEMBL211312;O[C@H]1C[C@@H](O[C@@H]1COP(=O)(O)O)N2C=CC(=O)NC2=O;dUMP_Deoxyuridylic acid
+C00366;CHEMBL792;Oc1nc(O)c2nc(O)[nH]c2n1;Urate_Uric acid
+C00371;CHEMBL525239;C\C(=C/CNc1ncnc2[nH]cnc12)\CO;Zeatin_N6-(4-Hydroxyisopentenyl)adenine
+C00376;CHEMBL81379;C\C(=C/C=O)\C=C\C=C(/C)\C=C\C1=C(C)CCCC1(C)C;Retinal_Vitamin A aldehyde
+C00378;CHEMBL1547;Cc1ncc(C[n+]2csc(CCO)c2C)c(N)n1;Thiamine_Thiamin
+C00379;CHEMBL1865120;OC[C@@H](O)C(O)[C@@H](O)CO;Xylitol
+C00380;CHEMBL15913;NC1=NC(=O)NC=C1;Cytosine
+C00383;CHEMBL7942;OC(=O)CC(=O)O;Malonate_Malonic acid
+C00385;CHEMBL1424;O=C1NC(=O)c2nc[nH]c2N1;Xanthine
+C00386;CHEMBL242948;NCCC(=O)N[C@@H](Cc1cnc[nH]1)C(=O)O;Carnosine_Nalpha-(beta-alanyl)-L-histidine
+C00387;CHEMBL375655;NC1=Nc2c(ncn2[C@@H]3O[C@H](CO)[C@@H](O)[C@H]3O)C(=O)N1;Guanosine
+C00388;CHEMBL90;NCCc1c[nH]cn1;Histamine_1H-Imidazole-4-ethanamine
+C00389;CHEMBL50;OC1=C(Oc2cc(O)cc(O)c2C1=O)c3ccc(O)c(O)c3;Quercetin_3,3',4,5,7-Pentahydroxyflavone
+C00392;CHEMBL689;OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO;Mannitol_D-Mannitol
+C00394;CHEMBL228228;NC1=Nc2c(ncn2[C@@H]3O[C@H](COP(=O)(O)OP(=O)(O)O[C@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)[C@@H](O)[C@H]3O)C(=O)N1;GDP-glucose_GDP-D-glucose
+C00397;CHEMBL1747;NC[C@H]1O[C@H](O[C@@H]2[C@@H](N)C[C@@H](N)[C@H](O[C@H]3O[C@H](CO)[C@@H](O)[C@H](N)[C@H]3O)[C@H]2O)[C@H](N)C[C@@H]1O;Tobramycin_Nebramycin factor 6
+C00398;CHEMBL6640;NCCc1c[nH]c2ccccc12;Tryptamine_3-(2-Aminoethyl)indole
+C00400;CHEMBL470670;CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O;(-)-Menthol_L-Menthol
+C00402;CHEMBL29757;N[C@H](CC(=O)O)C(=O)O;D-Aspartate_D-Aspartic acid
+C00407;CHEMBL1233584;CC[C@H](C)[C@H](N)C(=O)O;L-Isoleucine_2-Amino-3-methylvaleric acid
+C00408;CHEMBL322883;OC(=O)[C@@H]1CCCCN1;L-Pipecolate_Pipecolinic acid
+C00410;CHEMBL103;CC(=O)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C;Progesterone_4-Pregnene-3,20-dione
+C00415;CHEMBL46294;NC1=NC(=O)C2=C(NCC(=N2)CNc3ccc(cc3)C(=O)N[C@@H](CCC(=O)O)C(=O)O)N1;Dihydrofolate_Dihydrofolic acid
+C00417;CHEMBL347285;OC(=O)C\C(=C\C(=O)O)\C(=O)O;cis-Aconitate_cis-Aconitic acid
+C00418;CHEMBL1794734;C[C@@](O)(CCO)CC(=O)O;(R)-Mevalonate_Mevalonic acid
+C00423;CHEMBL27246;OC(=O)\C=C\c1ccccc1;trans-Cinnamate_trans-Cinnamic acid
+C00427;CHEMBL1743209;CCCCC[C@H](O)\C=C\[C@@H]1[C@@H](C\C=C/CCCC(=O)O)C2CC1OO2;Prostaglandin
+C00430;CHEMBL601;NCC(=O)CCC(=O)O;5-Aminolevulinate_5-Amino-4-oxopentanoate
+C00431;CHEMBL284116;NCCCCC(=O)O;5-Aminopentanoate_5-Aminopentanoic acid
+C00440;CHEMBL1221561;CN1C(CNc2ccc(cc2)C(=O)N[C@@H](CCC(=O)O)C(=O)O)CNC3=C1C(=O)N=C(N)N3;5-Methyltetrahydrofolate
+C00441;CHEMBL404100;N[C@@H](CC=O)C(=O)O;L-Aspartate
+C00446;CHEMBL1159526;OC[C@H]1OC(OP(=O)(O)O)[C@H](O)[C@@H](O)[C@H]1O;alpha-D-Galactose
+C00448;CHEMBL69330;CC(=CCC\C(=C\CC\C(=C\COP(=O)(O)OP(=O)(O)O)\C)\C)C;trans,trans-Farnesyl
+C00455;CHEMBL610238;NC(=O)c1ccc[n+](c1)[C@@H]2O[C@H](COP(=O)(O)[O-])[C@@H](O)[C@H]2O;Nicotinamide
+C00458;CHEMBL560403;NC1=NC(=O)N(C=C1)[C@H]2C[C@H](O)[C@@H](COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O2;dCTP_Deoxycytidine 5'-triphosphate
+C00459;CHEMBL363559;CC1=CN([C@H]2C[C@H](O)[C@@H](COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O2)C(=O)NC1=O;dTTP_Deoxythymidine triphosphate
+C00460;CHEMBL374361;O[C@H]1C[C@@H](O[C@@H]1COP(=O)(O)OP(=O)(O)OP(=O)(O)O)N2C=CC(=O)NC2=O;dUTP_2'-Deoxyuridine 5'-triphosphate
+C00463;CHEMBL15844;c1ccc2[nH]ccc2c1;Indole_2,3-Benzopyrrole
+C00468;CHEMBL1405;C[C@]12CC[C@H]3[C@@H](CCc4cc(O)ccc34)[C@@H]1CCC2=O;Estrone_3-Hydroxy-1,3,5(10)-estratrien-17-one
+C00469;CHEMBL545;CCO;Ethanol_Ethyl alcohol
+C00473;CHEMBL986;C\C(=C/CO)\C=C\C=C(/C)\C=C\C1=C(C)CCCC1(C)C;Retinol_all-trans-Retinol
+C00474;CHEMBL1865120;OC[C@@H](O)C(O)[C@@H](O)CO;Ribitol_Adonitol
+C00475;CHEMBL2028065;NC1=NC(=O)N(C=C1)C2O[C@H](CO)[C@@H](O)[C@H]2O;Cytidine
+C00476;CHEMBL1159661;O[C@@H]1CO[C@H](O)[C@@H](O)[C@H]1O;D-Lyxose
+C00479;CHEMBL275626;CCC=O;Propanal_Propionaldehyde
+C00482;CHEMBL109341;COc1cc(\C=C\C(=O)O)cc(OC)c1O;Sinapate_Sinapic acid
+C00483;CHEMBL11608;NCCc1ccc(O)cc1;Tyramine_2-(p-Hydroxyphenyl)ethylamine
+C00486;CHEMBL501680;CC1=C(C=C)\C(=C\c2[nH]c(Cc3[nH]c(\C=C\4/NC(=O)C(=C4C)C=C)c(C)c3CCC(=O)O)c(CCC(=O)O)c2C)\NC1=O;Bilirubin
+C00487;CHEMBL1620698;C[N+](C)(C)CC(O)CC(=O)O;Carnitine_gamma-Trimethyl-hydroxybutyrobetaine
+C00488;CHEMBL266160;NC=O;Formamide_Methanamide
+C00489;CHEMBL1162495;OC(=O)CCCC(=O)O;Glutarate_Glutaric acid
+C00491;CHEMBL590540;N[C@@H](CSSC[C@H](N)C(=O)O)C(=O)O;L-Cystine_L-Dicysteine
+C00492;CHEMBL175500;OC[C@H]1OC(OC[C@H]2OC(O[C@]3(CO)O[C@H](CO)[C@@H](O)[C@@H]3O)[C@H](O)[C@@H](O)[C@@H]2O)[C@H](O)[C@@H](O)[C@H]1O;Raffinose_Melitose
+C00493;CHEMBL290345;O[C@@H]1CC(=C[C@@H](O)[C@H]1O)C(=O)O;Shikimate_Shikimic acid
+C00497;CHEMBL225986;O[C@H](CC(=O)O)C(=O)O;(R)-Malate_D-Malate
+C00498;CHEMBL227552;Nc1ncnc2c1ncn2[C@@H]3O[C@H](COP(=O)(O)OP(=O)(O)O[C@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)[C@@H](O)[C@H]3O;ADP-glucose_ADP-alpha-D-glucose
+C00500;CHEMBL455477;CC1=C(C=C)\C(=C\c2[nH]c(\C=C\3/N=C(\C=C\4/NC(=O)C(=C4C)C=C)C(=C3CCC(=O)O)C)c(CCC(=O)O)c2C)\NC1=O;Biliverdin_Biliverdin IX alpha
+C00501;CHEMBL227515;NC1=NC(=O)N(C=C1)[C@@H]2O[C@H](COP(=O)(O)OP(=O)(O)O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)[C@@H](O)[C@H]2O;CDP-glucose_CDP-D-Glucose
+C00503;CHEMBL349605;OC[C@@H](O)[C@@H](O)CO;Erythritol_Erythrol
+C00504;CHEMBL1622;NC1=NC(=O)c2nc(CNc3ccc(cc3)C(=O)N[C@@H](CCC(=O)O)C(=O)O)cnc2N1;Folate_Pteroylglutamic acid
+C00509;CHEMBL9352;Oc1ccc(cc1)[C@@H]2CC(=O)c3c(O)cc(O)cc3O2;Naringenin_4',5,7-Trihydroxyflavanone
+C00515;CHEMBL103686;NCCC[C@@H](N)C(=O)O;D-Ornithine
+C00517;CHEMBL1235338;CCCCCCCCCCCCCCCC=O;Hexadecanal_Palmitaldehyde
+C00519;CHEMBL1256480;NCCS(=O)O;Hypotaurine_2-Aminoethanesulfinic acid
+C00521;CHEMBL236688;CC(=C)[C@H]1CCC(=CC1)C;(-)-Limonene_(-)-(S)-Limonene
+C00522;CHEMBL1794671;CC(C)(CO)[C@@H](O)C(=O)O;(R)-Pantoate_Pantoate
+C00523;CHEMBL87285;C[C@]12CC[C@@H](O)C[C@@H]1CC[C@@H]3[C@@H]2CC[C@@]4(C)[C@H]3CCC4=O;Androsterone_3alpha-Hydroxy-5alpha-androstan-17-one
+C00526;CHEMBL353955;OC[C@H]1O[C@H](C[C@@H]1O)N2C=CC(=O)NC2=O;Deoxyuridine_2-Deoxyuridine
+C00530;CHEMBL537;Oc1ccc(O)cc1;Hydroquinone_p-Benzenediol
+C00533;CHEMBL1200689;O=[N];Nitric
+C00534;CHEMBL593019;Cc1ncc(CO)c(CN)c1O;Pyridoxamine_PM
+C00535;CHEMBL386630;C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@@H]2O;Testosterone_17beta-Hydroxy-4-androsten-3-one
+C00536;CHEMBL1230191;OP(=O)(O)OP(=O)(O)OP(=O)(O)O;Triphosphate_Triphosphoric acid
+C00543;CHEMBL120433;CNC;Dimethylamine_(CH3)2NH
+C00546;CHEMBL170721;CC(=O)C=O;Methylglyoxal_Pyruvaldehyde
+C00547;CHEMBL1437;NC[C@H](O)c1ccc(O)c(O)c1;L-Noradrenaline_Noradrenaline
+C00552;CHEMBL225983;O[C@H]([C@H](O)C(=O)O)C(=O)O;meso-Tartaric
+C00555;CHEMBL2261442;NCCCC=O;4-Aminobutyraldehyde_4-Aminobutanal
+C00559;CHEMBL449329;Nc1ncnc2c1ncn2[C@H]3C[C@H](O)[C@@H](CO)O3;Deoxyadenosine_2'-Deoxyadenosine
+C00565;CHEMBL439723;CN(C)C;Trimethylamine_(CH3)3N
+C00568;CHEMBL542;Nc1ccc(cc1)C(=O)O;4-Aminobenzoate_ABEE
+C00575;CHEMBL316966;Nc1ncnc2c1ncn2[C@@H]3O[C@@H]4COP(=O)(O)O[C@H]4[C@H]3O;3',5'-Cyclic
+C00576;CHEMBL1231491;C[N+](C)(C)CC=O;Betaine
+C00580;CHEMBL15580;CSC;Dimethyl
+C00581;CHEMBL281593;NC(=N)NCC(=O)O;Guanidinoacetate_Guanidinoacetic acid
+C00582;CHEMBL3526286;CC(C)(COP(=O)(O)OP(=O)(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(=O)(O)O)n2cnc3c(N)ncnc23)C(O)C(=O)NCCC(=O)NCCSC(=O)Cc4ccccc4;Phenylacetyl-CoA_Phenylacetyl coenzyme A
+C00583;CHEMBL286398;CC(O)CO;Propane-1,2-diol_1,2-Propanediol
+C00584;CHEMBL548;CCCCC[C@H](O)\C=C\[C@H]1[C@H](O)CC(=O)[C@@H]1C\C=C/CCCC(=O)O;Prostaglandin
+C00587;CHEMBL65369;OC(=O)c1cccc(O)c1;3-Hydroxybenzoate_3-Hydroxybenzoic acid
+C00588;CHEMBL1235161;C[N+](C)(C)CCOP(=O)(O)O;Choline
+C00590;CHEMBL501870;COc1cc(\C=C\CO)ccc1O;Coniferyl
+C00601;CHEMBL1233464;O=CCc1ccccc1;Phenylacetaldehyde_alpha-Tolualdehyde
+C00606;CHEMBL1160508;N[C@@H](CS(=O)O)C(=O)O;3-Sulfino-L-alanine_L-Cysteinesulfinic acid
+C00620;CHEMBL603367;OC[C@H]1O[C@H](OP(=O)(O)O)[C@H](O)[C@@H]1O;alpha-D-Ribose
+C00624;CHEMBL1234751;CC(=O)N[C@@H](CCC(=O)O)C(=O)O;N-Acetyl-L-glutamate_N-Acetyl-L-glutamic acid
+C00628;CHEMBL1461;OC(=O)c1cc(O)ccc1O;2,5-Dihydroxybenzoate_2,5-Dihydroxybenzoic acid
+C00632;CHEMBL445304;Nc1c(O)cccc1C(=O)O;3-Hydroxyanthranilate_3-Hydroxyanthranilic acid
+C00633;CHEMBL14193;Oc1ccc(C=O)cc1;4-Hydroxybenzaldehyde_p-Hydroxybenzaldehyde
+C00636;CHEMBL291890;OC[C@H]1O[C@H](OP(=O)(O)O)[C@@H](O)[C@@H](O)[C@@H]1O;D-Mannose
+C00639;CHEMBL1903583;CCCCC[C@H](O)\C=C\[C@H]1[C@H](O)CC(O)[C@@H]1C\C=C/CCCC(=O)O;Prostaglandin
+C00642;CHEMBL1772;OC(=O)Cc1ccc(O)cc1;4-Hydroxyphenylacetate_4-Hydroxyphenylacetic acid
+C00643;CHEMBL350221;N[C@@H](Cc1c[nH]c2ccc(O)cc12)C(=O)O;5-Hydroxy-L-tryptophan_Oxitriptan
+C00645;CHEMBL1231391;CC(=O)N[C@@H]1[C@@H](O)O[C@H](CO)[C@@H](O)[C@@H]1O;N-Acetyl-D-mannosamine_2-Acetamido-2-deoxy-D-mannose
+C00647;CHEMBL1235353;Cc1ncc(COP(=O)(O)O)c(CN)c1O;Pyridoxamine
+C00655;CHEMBL1206243;O[C@H]1[C@@H](O)[C@@H](O[C@@H]1COP(=O)(O)O)n2cnc3C(=O)NC(=O)Nc23;Xanthosine
+C00663;CHEMBL67622;OC[C@H]1O[C@@H](OP(=O)(O)O)[C@H](O)[C@@H](O)[C@@H]1O;beta-D-Glucose
+C00669;CHEMBL460831;N[C@@H](CCC(=O)N[C@@H](CS)C(=O)O)C(=O)O;gamma-L-Glutamyl-L-cysteine_L-gamma-Glutamylcysteine
+C00670;CHEMBL1567463;C[N+](C)(C)CCOP(=O)([O-])OC[C@H](O)CO;sn-Glycero-3-phosphocholine_Glycerophosphocholine
+C00674;CHEMBL1230438;C[C@]12CCC(=O)C[C@@H]1CC[C@@H]3[C@@H]2CC[C@@]4(C)[C@H]3CCC4=O;5alpha-Androstane-3,17-dione_Androstanedione
+C00680;CHEMBL415306;N[C@H](CCC[C@H](N)C(=O)O)C(=O)O;meso-2,6-Diaminoheptanedioate_meso-2,6-Diaminopimelate
+C00695;CHEMBL205596;C[C@H](CCC(=O)O)[C@H]1CC[C@H]2[C@@H]3[C@H](O)C[C@@H]4C[C@H](O)CC[C@]4(C)[C@H]3C[C@H](O)[C@]12C;Cholic
+C00696;CHEMBL1235252;CCCCC[C@H](O)\C=C\[C@@H]1[C@@H](C\C=C/CCCC(=O)O)[C@@H](O)CC1=O;Prostaglandin
+C00697;CHEMBL142438;N#N;Nitrogen_N2
+C00698;CHEMBL19429;[Cl-];Cl-_Chloride
+C00708;CHEMBL185537;[I-];Iodide_I-
+C00712;CHEMBL8659;CCCCCCCC\C=C/CCCCCCCC(=O)O;(9Z)-Octadecenoic
+C00719;CHEMBL1182;C[N+](C)(C)CC(=O)[O-];Betaine_Trimethylaminoacetate
+C00729;CHEMBL113555;CN1C2CCC1CC(O)C2;Tropine_3alpha-Tropanol
+C00735;CHEMBL1092578;C[C@]12CCC(=O)C=C1CCC3[C@@H]4CC[C@](O)(C(=O)CO)[C@@]4(C)C[C@H](O)[C@H]23;Cortisol_Hydrocortisone
+C00739;CHEMBL319497;NCCCC[C@@H](N)C(=O)O;D-Lysine_D-2,6-Diaminohexanoic acid
+C00740;CHEMBL285123;N[C@H](CO)C(=O)O;D-Serine
+C00741;CHEMBL365809;CC(=O)C(=O)C;Diacetyl_Biacetyl
+C00745;CHEMBL3;CN1CCC[C@H]1c2cccnc2;Nicotine_(S)-3-(1-Methylpyrrolidin-2-yl)pyridine
+C00746;CHEMBL395429;CC[C@H](C)[C@@H]1NC(=O)[C@H](Cc2ccc(O)cc2)NC(=O)[C@@H](N)CSSC[C@H](NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](CCC(=O)N)NC1=O)C(=O)N3CCC[C@H]3C(=O)N[C@@H](CC(C)C)C(=O)NCC(=O)N;Oxytocin_Ocytocin
+C00750;CHEMBL23194;NCCCNCCCCNCCCN;Spermine_N,N'-Bis(3-aminopropyl)-1,4-butanediamine
+C00751;CHEMBL458402;CC(=CCC\C(=C\CC\C(=C\CC\C=C(/C)\CC\C=C(/C)\CCC=C(C)C)\C)\C)C;Squalene_Spinacene
+C00755;CHEMBL13883;COc1cc(C=O)ccc1O;4-Hydroxy-3-methoxy-benzaldehyde_Vanillin
+C00757;CHEMBL295124;COc1ccc2cc3c4cc5OCOc5cc4CC[n+]3cc2c1OC;Berberine_Umbellatine
+C00762;CHEMBL1499;C[C@]12CCC(=O)C=C1CC[C@H]3[C@@H]4CC[C@](O)(C(=O)CO)[C@@]4(C)CC(=O)[C@H]23;Cortisone_17alpha,21-Dihydroxy-4-pregnene-3,11,20-trione
+C00763;CHEMBL80257;OC(=O)[C@H]1CCCN1;D-Proline
+C00777;CHEMBL38;C\C(=C/C=C/C(=C/C(=O)O)/C)\C=C\C1=C(C)CCCC1(C)C;Retinoate_Retinoic acid
+C00780;CHEMBL39;NCCc1c[nH]c2ccc(O)cc12;Serotonin_3-(2-Aminoethyl)-1H-indol-5-ol
+C00785;CHEMBL1236602;OC(=O)\C=C\c1c[nH]cn1;Urocanate_Urocanic acid
+C00788;CHEMBL679;CNC[C@H](O)c1ccc(O)c(O)c1;L-Adrenaline_(R)-(-)-Adrenaline
+C00791;CHEMBL65567;CN1CC(=O)N=C1N;Creatinine_1-Methylglycocyamidine
+C00792;CHEMBL212301;N[C@H](CCCNC(=N)N)C(=O)O;D-Arginine_D-2-Amino-5-guanidinovaleric acid
+C00793;CHEMBL171281;N[C@H](CS)C(=O)O;D-Cysteine_D-Amino-3-mercaptopropionic acid
+C00794;CHEMBL1682;OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)CO;D-Sorbitol_D-Glucitol
+C00795;CHEMBL3183898;OC[C@]1(O)OC[C@@H](O)[C@H](O)[C@@H]1O;D-Tagatose_lyxo-Hexulose
+C00804;CHEMBL1213530;OC(=O)C#C;Propynoate_Propiolic acid
+C00805;CHEMBL424;OC(=O)c1ccccc1O;Salicylate_o-Hydroxybenzoic acid
+C00811;CHEMBL66879;OC(=O)\C=C\c1ccc(O)cc1;4-Coumarate_p-Coumaric acid
+C00813;CHEMBL574699;O=C1CC(=O)NC(=O)N1;Barbiturate_Barbituric acid
+C00819;CHEMBL1232207;N[C@H](CCC(=O)N)C(=O)O;D-Glutamine_D-2-Aminoglutaramic acid
+C00823;CHEMBL706;CCCCCCCCCCCCCCCCO;1-Hexadecanol_Hexadecanol
+C00825;CHEMBL176;NC[C@H]1O[C@H](O[C@@H]2[C@@H](N)C[C@@H](N)[C@H](O[C@H]3O[C@H](CO)[C@@H](O)[C@H](N)[C@H]3O)[C@H]2O)[C@H](N)[C@@H](O)[C@@H]1O;Kanamycin
+C00829;CHEMBL16293;c1ccc2ccccc2c1;Naphthalene
+C00831;CHEMBL1738861;CC(C)(CO)[C@@H](O)C(=O)NCCC(=O)NCCS;Pantetheine_(R)-Pantetheine
+C00832;CHEMBL370143;NC[C@@H]1O[C@H](O[C@H]2[C@@H](O)[C@H](O[C@@H]3[C@@H](O)[C@H](N)C[C@H](N)[C@H]3O[C@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4N)O[C@@H]2CO)[C@H](N)[C@@H](O)[C@@H]1O;Paromomycin_Paromomycin I
+C00835;CHEMBL1255653;C[C@H](O)C(=O)C1=NC2=C(NC1)NC(=NC2=O)N;Sepiapterin
+C00836;CHEMBL448741;CCCCCCCCCCCCCCC[C@@H](O)[C@@H](N)CO;Sphinganine_Dihydrosphingosine
+C00855;CHEMBL1234268;CSCC[C@@H](N)C(=O)O;D-Methionine_D-2-Amino-4-(methylthio)butyric acid
+C00860;CHEMBL278081;N[C@H](CO)Cc1c[nH]cn1;L-Histidinol
+C00864;CHEMBL1594;CC(C)(CO)[C@@H](O)C(=O)NCCC(=O)O;Pantothenate_Pantothenic acid
+C00873;CHEMBL262670;CC[C@H](C)[C@H](NC(=O)[C@H](Cc1ccc(O)cc1)NC(=O)[C@@H](NC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@@H](N)CC(=O)O)C(C)C)C(=O)N[C@@H](Cc2c[nH]cn2)C(=O)N3CCC[C@H]3C(=O)N[C@@H](Cc4ccccc4)C(=O)N[C@@H](Cc5c[nH]cn5)C(=O)N[C@@H](CC(C)C)C(=O)O;Angiotensin
+C00879;CHEMBL1232958;O[C@@H]([C@@H](O)[C@H](O)C(=O)O)[C@@H](O)C(=O)O;D-Galactarate_D-Mucic acid
+C00881;CHEMBL66115;NC1=NC(=O)N(C=C1)[C@H]2C[C@H](O)[C@@H](CO)O2;Deoxycytidine_2'-Deoxycytidine
+C00884;CHEMBL243618;NCCCC(=O)N[C@@H](Cc1cnc[nH]1)C(=O)O;Homocarnosine_L-Homocarnosine
+C00887;CHEMBL1234579;[O-][N+]#N;Nitrous
+C00898;CHEMBL1236315;O[C@H]([C@@H](O)C(=O)O)C(=O)O;(R,R)-Tartaric
+C00903;CHEMBL293492;O=C\C=C\c1ccccc1;Cinnamaldehyde
+C00908;CHEMBL194126;CN[C@@H]1[C@@H](O)[C@@H](O[C@H]2[C@H](N)C[C@H](N)[C@@H](O[C@H]3O[C@H](CN)CC[C@H]3N)[C@@H]2O)OC[C@]1(C)O;Gentamicin
+C00909;CHEMBL69439;CCCCC\C=C/C\C=C/C=C/C=C/[C@@H]1O[C@H]1CCCC(=O)O;Leukotriene
+C00916;CHEMBL482858;CC(=O)OCC1=C(N2[C@H](SC1)[C@H](NC(=O)CCC[C@@H](N)C(=O)O)C2=O)C(=O)O;Cephalosporin
+C00921;CHEMBL1614805;NC1=NC2=C(N=C(CNc3ccc(cc3)C(=O)O)CN2)C(=O)N1;Dihydropteroate_7,8-Dihydropteroate
+C00942;CHEMBL395336;NC1=Nc2c(ncn2[C@@H]3O[C@@H]4COP(=O)(O)O[C@H]4[C@H]3O)C(=O)N1;3',5'-Cyclic
+C00951;CHEMBL135;C[C@]12CC[C@H]3[C@@H](CCc4cc(O)ccc34)[C@@H]1CC[C@@H]2O;Estradiol-17beta_Estradiol
+C00954;CHEMBL82411;OC(=O)Cc1c[nH]c2ccccc12;Indole-3-acetate_Indole-3-acetic acid
+C00955;CHEMBL226545;OCCc1c[nH]c2ccccc12;Indole-3-ethanol_Tryptophol
+C00956;CHEMBL88804;N[C@@H](CCCC(=O)O)C(=O)O;L-2-Aminoadipate_L-alpha-Aminoadipate
+C00974;CHEMBL9323;O[C@@H]1[C@H](Oc2cc(O)cc(O)c2C1=O)c3ccc(O)cc3;Dihydrokaempferol_Aromadendrin
+C00975;CHEMBL41028;OC(=O)\C(=C(/O)\C(=O)O)\O;Dihydroxyfumarate_Dihydroxyfumaric acid
+C00978;CHEMBL33103;CC(=O)NCCc1c[nH]c2ccc(O)cc12;N-Acetylserotonin_N-Acetyl-5-hydroxytryptamine
+C00984;CHEMBL1233058;OC[C@H]1O[C@H](O)[C@H](O)[C@@H](O)[C@H]1O;alpha-D-Galactose

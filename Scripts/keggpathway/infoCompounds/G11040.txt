@@ -1,0 +1,43 @@
+ENTRY       G11040                      Glycan
+COMPOSITION (GlcNAc)2 (Man)13 (Asn)1
+MASS        2514.2 (Asn)
+PATHWAY     map00513  Various types of N-glycan biosynthesis
+            map01100  Metabolic pathways
+ORTHOLOGY   K05538  alpha 1,3-mannosyltransferase [EC:2.4.1.-]
+DBLINKS     CCSD: 35125
+            GlyTouCan: G72606LT
+            JCGGDB: JCGG-STR030566
+NODE        16
+            1   Asn        29     0
+            2   GlcNAc     20     0
+            3   GlcNAc     11     0
+            4   Man         2     0
+            5   Man        -6     6
+            6   Man        -6    -6
+            7   Man       -14    10
+            8   Man       -14     2
+            9   Man       -14    -2
+            10  Man       -14   -10
+            11  Man       -22    10
+            12  Man       -22    -2
+            13  Man       -22   -10
+            14  Man       -30    10
+            15  Man       -30    -2
+            16  Man       -30   -10
+EDGE        15
+            1     2:b1    1    
+            2     3:b1    2:4  
+            3     4:b1    3:4  
+            4     5:a1    4:6  
+            5     6:a1    4:3  
+            6     7:a1    5:6  
+            7     8:a1    5:3  
+            8     9:a1    6:6  
+            9    10:a1    6:2  
+            10   11:a1    7:2  
+            11   12:a1    9:2  
+            12   13:a1   10:2  
+            13   14:a1   11:3  
+            14   15:a1   12:3  
+            15   16:a1   13:3  
+///

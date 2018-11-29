@@ -1,0 +1,32 @@
+ENTRY       G00019                      Glycan
+COMPOSITION (GlcNAc)5 (Man)3 (Asn)1
+MASS        1502.4 (Asn)
+REACTION    R05986
+PATHWAY     map00510  N-Glycan biosynthesis
+            map01100  Metabolic pathways
+MODULE      M00075  N-glycan biosynthesis, complex type
+ENZYME      2.4.1.144
+ORTHOLOGY   K00737  beta-1,4-mannosyl-glycoprotein beta-1,4-N-acetylglucosaminyltransferase [EC:2.4.1.144]
+DBLINKS     CCSD: 2838 4637 5056 6445 7633 7634 7655 11716 24570 30809 34935
+            GlyTouCan: G59471TH
+            JCGGDB: JCGG-STR013751
+NODE        9
+            1   Asn        20     0
+            2   GlcNAc     12     0
+            3   GlcNAc      3     0
+            4   Man        -5     0
+            5   Man       -12     5
+            6   Man       -12    -5
+            7   GlcNAc    -15     0
+            8   GlcNAc    -20     5
+            9   GlcNAc    -20    -5
+EDGE        8
+            1     2:b1    1    
+            2     3:b1    2:4  
+            3     4:b1    3:4  
+            4     5:a1    4:6  
+            5     6:a1    4:3  
+            6     7:b1    4:4  
+            7     8:b1    5:2  
+            8     9:b1    6:2  
+///

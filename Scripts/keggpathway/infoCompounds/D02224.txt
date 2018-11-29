@@ -1,0 +1,38 @@
+ENTRY       D02224                      Drug
+NAME        Protamine sulfate (JP17/USP/INN);
+            Protamine sulfate (TN)
+PRODUCT
+  GENERIC   PROTAMINE SULFATE (Cardinal Health) bc755638-8797-43ab-be0b-4ea3ded3f644
+            PROTAMINE SULFATE (Fresenius Kabi USA) 7a31fc4c-579f-45cc-9559-39cfad9a57b3
+            PROTAMINE SULFATE (Fresenius Kabi USA) 8df0a819-9e1a-44ce-97a6-3ea82c867d44
+            PROTAMINE SULFATE (Fresenius Kabi USA) e1964129-33f4-4e4e-86e3-8e6a4e65bd83
+REMARK      Therapeutic category: 3329
+            ATC code: V03AB14
+            Chemical group: DG01154
+ACTIVITY    Neutralizer (heparin)
+INTERACTION  
+OTHER_MAP   map01503  Cationic antimicrobial peptide (CAMP) resistance
+            map02010  ABC transporters
+BRITE       Anatomical Therapeutic Chemical (ATC) classification [BR:br08303]
+             V VARIOUS
+              V03 ALL OTHER THERAPEUTIC PRODUCTS
+               V03A ALL OTHER THERAPEUTIC PRODUCTS
+                V03AB Antidotes
+                 V03AB14 Protamine
+                  D02224  Protamine sulfate (JP17/USP/INN)
+            Therapeutic category of drugs in Japan [BR:br08301]
+             3  Agents affecting metabolism
+              33  Blood and body fluid agents
+               332  Hemostatics
+                3329  Others
+                 D02224  Protamine sulfate (JP17/USP/INN)
+            Pharmaceutical additives in Japan [BR:br08316]
+             Stability agent
+              D02224  [001699] Protamine sulfate
+            Drugs listed in the Japanese Pharmacopoeia [BR:br08311]
+             Chemicals
+              D02224  Protamine sulfate
+              D02224  Protamine sulfate injection
+DBLINKS     CAS: 9009-65-8
+            PubChem: 7849283
+///

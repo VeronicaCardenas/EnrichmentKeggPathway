@@ -1,0 +1,41 @@
+ENTRY       C17225                      Compound
+NAME        Tetrahomomethionine;
+            L-Tetrahomomethionine
+FORMULA     C9H19NO2S
+EXACT_MASS  205.1137
+MOL_WEIGHT  205.3177
+REACTION    R08638 R08673
+PATHWAY     map00966  Glucosinolate biosynthesis
+            map01210  2-Oxocarboxylic acid metabolism
+ENZYME      1.14.14.42      2.6.1.-
+DBLINKS     PubChem: 96023633
+            ChEBI: 50712
+            NIKKAJI: J2.806.043B
+ATOM        13
+            1   C1a C    12.6002  -16.5203
+            2   S2a S    13.8126  -15.8202
+            3   C1b C    15.0251  -16.5203
+            4   C1b C    16.2375  -15.8202
+            5   C1b C    17.4500  -16.5203
+            6   C1b C    18.6625  -15.8202
+            7   C1b C    19.8749  -16.5203
+            8   C1b C    21.0873  -15.8202
+            9   C1c C    22.2998  -16.5203
+            10  C6a C    23.5123  -15.8202
+            11  O6a O    24.7248  -16.5203
+            12  O6a O    23.5123  -14.4202
+            13  N1a N    22.2998  -17.9203
+BOND        12
+            1     1   2 1
+            2     2   3 1
+            3     3   4 1
+            4     4   5 1
+            5     5   6 1
+            6     6   7 1
+            7     7   8 1
+            8     8   9 1
+            9     9  10 1
+            10   10  11 1
+            11   10  12 2
+            12    9  13 1 #Up
+///

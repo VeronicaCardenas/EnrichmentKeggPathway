@@ -1,0 +1,41 @@
+ENTRY       G12617                      Glycan
+COMPOSITION (Gal)2 (GlcNAc)4 (LFuc)3 (Man)3 (Xyl)1 (Asn)1
+MASS        2194 (Asn)
+PATHWAY     map00513  Various types of N-glycan biosynthesis
+            map01100  Metabolic pathways
+REFERENCE   1  [PMID:17630273]
+            Strasser R, Bondili JS, Vavra U, Schoberer J, Svoboda B, Glossl J, Leonard R, Stadlmann J, Altmann F, Steinkellner H, Mach L.
+            A unique beta1,3-galactosyltransferase is indispensable for the biosynthesis of N-glycans containing Lewis a structures in Arabidopsis thaliana.
+            Plant. Cell. 19 (2007) 2278-92.
+DBLINKS     GlyTouCan: G33219SU
+            JCGGDB: JCGG-STR016077
+NODE        14
+            1   Asn      25.7  -5.5
+            2   GlcNAc   18.3  -5.5
+            3   LFuc      9.5   -10
+            4   GlcNAc    8.3  -1.5
+            5   Man      -0.7  -1.5
+            6   Xyl      -6.6  -6.4
+            7   Man      -9.7   6.5
+            8   Man      -9.7  -1.5
+            9   GlcNAc  -17.7   6.5
+            10  GlcNAc  -17.7  -1.5
+            11  Gal     -25.7   3.5
+            12  Gal     -25.7  -4.5
+            13  LFuc    -26.7   9.5
+            14  LFuc    -26.7   1.5
+EDGE        13
+            1     2:b1    1    
+            2     3:a1    2:3  
+            3     4:b1    2:4  
+            4     5:b1    4:4  
+            5     6:b1    5:2  
+            6     7:a1    5:6  
+            7     8:a1    5:3  
+            8     9:b1    7:2  
+            9    10:b1    8:2  
+            10   11:b1    9:3  
+            11   13:a1    9:4  
+            12   12:b1   10:3  
+            13   14:a1   10:4  
+///

@@ -1,0 +1,15 @@
+ENTRY       C21641                      Compound
+NAME        Hydroperoxyl radical;
+            Perhydroxyl radical
+FORMULA     HO2
+EXACT_MASS  32.9977
+MOL_WEIGHT  33.0067
+PATHWAY     map05225  Hepatocellular carcinoma
+DBLINKS     CAS: 3170-83-0
+            PubChem: 346930780
+ATOM        2
+            1   O1a O    19.0400  -15.9600
+            2   O1a O    20.4400  -15.9600 #^
+BOND        1
+            1     1   2 1
+///

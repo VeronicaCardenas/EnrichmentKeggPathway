@@ -1,0 +1,38 @@
+ENTRY       G00179                      Glycan
+COMPOSITION (GlcNAc)4 (Man)3 (Xyl)1 (Asn)1
+MASS        1431.3 (Asn)
+REACTION    R06016 R09318
+PATHWAY     map00513  Various types of N-glycan biosynthesis
+            map01100  Metabolic pathways
+ENZYME      2.4.1.214       2.4.2.38
+REFERENCE   1  [PMID:11791722]
+            Misaki R, Kimura Y, Fujiyama K, Seki T.
+            Glycoproteins secreted from suspension-cultured tobacco BY2 cells have distinct glycan structures from intracellular glycoproteins.
+            Biosci. Biotechnol. Biochem. 65 (2001) 2482-8.
+            2  [PMID:12423885]
+            Olczak M, Watorek W.
+            Processing of N-glycans of two yellow lupin phosphohydrolases during seed maturation and dormancy.
+            Phytochemistry. 61 (2002) 645-55.
+DBLINKS     CCSD: 4913
+            GlyTouCan: G93351GM
+            JCGGDB: JCGG-STR004176
+NODE        9
+            1   Asn        20     0
+            2   GlcNAc     13     0
+            3   GlcNAc      3     0
+            4   Man        -5     0
+            5   Man       -13     5
+            6   Man       -13     0
+            7   Xyl       -13    -5
+            8   GlcNAc    -21     5
+            9   GlcNAc    -21     0
+EDGE        8
+            1     2:b1    1    
+            2     3:b1    2:4  
+            3     4:b1    3:4  
+            4     5:a1    4:6  
+            5     6:a1    4:3  
+            6     7:b1    4:2  
+            7     8:b1    5:2  
+            8     9:b1    6:2  
+///

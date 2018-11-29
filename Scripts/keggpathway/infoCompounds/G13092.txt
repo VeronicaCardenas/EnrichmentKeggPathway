@@ -1,0 +1,18 @@
+ENTRY       G13092                      Glycan
+NAME        Phospho-core M3
+COMPOSITION (GalNAc)1 (GlcNAc)1 (Man)1 (P)1 (Ser/Thr)1
+MASS        648.5 (Ser/Thr)
+PATHWAY     map00515  Mannose type O-glycan biosynthesis
+            map01100  Metabolic pathways
+NODE        5
+            1   Ser/Thr  14.8    -2
+            2   Man       5.8    -2
+            3   P        -1.4   2.2
+            4   GlcNAc   -4.2  -2.1
+            5   GalNAc  -14.2  -2.1
+EDGE        4
+            1     2:a1    1    
+            2     3       2:6  
+            3     4:b1    2:4  
+            4     5:b1    4:3  
+///

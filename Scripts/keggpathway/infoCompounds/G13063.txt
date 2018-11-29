@@ -1,0 +1,6 @@
+ENTRY       G13063                      Glycan
+NAME        Binding domain for FGF2 in heparin/heparan sulfate
+COMMENT     (IdoA(2S)alpha1-4GlcNSalpha1-4) (IdoA(2R)alpha1-4GlcNSalpha1-4)2
+            R = -OH  or -OSO3
+PATHWAY     map05205  Proteoglycans in cancer
+///

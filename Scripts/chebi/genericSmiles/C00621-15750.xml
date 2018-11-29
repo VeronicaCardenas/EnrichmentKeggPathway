@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<TABLE>
+<ENTRY>
+<ID>CHEBI:15750</ID>
+<NAME>dolichyl diphosphate</NAME>
+<STAR>3</STAR>
+<SECONDARY_ID>CHEBI:4691</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:14197</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:23876</SECONDARY_ID>
+<SYNONYM>Dolichyl pyrophosphate</SYNONYM>
+<SYNONYM>Dolichyl diphosphate</SYNONYM>
+<SYNONYM>Dolichol pyrophosphate</SYNONYM>
+<SYNONYM>Dolichol diphosphate</SYNONYM>
+<IUPAC_NAME>alpha-(3-methylbut-2-en-1-yl)-omega-(4-{[hydroxy(phosphonooxy)phosphoryl]oxy}-2-methylbutyl)poly[(2E)-2-methylbut-2-ene-1,4-diyl]</IUPAC_NAME>
+<FORMULA>C20H38O7P2(C5H8)n</FORMULA>
+<MASS>520.57610</MASS>
+<CHARGE>0</CHARGE>
+<CAS_REGISTRY_NUMBER>37247-98-6</CAS_REGISTRY_NUMBER>
+<CHEMIDPLUS>37247-98-6</CHEMIDPLUS>
+<KEGG_COMPOUND_ACCESSION>C00621</KEGG_COMPOUND_ACCESSION>
+</ENTRY>
+</TABLE>

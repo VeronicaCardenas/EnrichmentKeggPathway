@@ -1,0 +1,40 @@
+ENTRY       G01813                      Glycan
+COMPOSITION (GlcNAc)2 (Man)9 (Asn)1
+MASS        1865.7 (Asn)
+REACTION    R08599
+PATHWAY     map00513  Various types of N-glycan biosynthesis
+            map01100  Metabolic pathways
+MODULE      M00074  N-glycan biosynthesis, high-mannose type
+ENZYME      2.4.1.232
+ORTHOLOGY   K05528  alpha 1,6-mannosyltransferase [EC:2.4.1.232]
+            K05529  mannan polymerase complexes MNN9 subunit [EC:2.4.1.232]
+            K05530  mannan polymerase I complex VAN1 subunit [EC:2.4.1.-]
+DBLINKS     CCSD: 26139 31278 33257
+            GlyTouCan: G97455PT
+            JCGGDB: JCGG-STR030138
+NODE        12
+            1   Asn        25     0
+            2   GlcNAc     17     0
+            3   GlcNAc      7     0
+            4   Man        -1     0
+            5   Man        -9     5
+            6   Man        -9    -5
+            7   Man       -17     9
+            8   Man       -17     1
+            9   Man       -17    -1
+            10  Man       -17    -9
+            11  Man       -25     9
+            12  Man       -25    -9
+EDGE        11
+            1     2:b1    1    
+            2     3:b1    2:4  
+            3     4:b1    3:4  
+            4     5:a1    4:6  
+            5     6:a1    4:3  
+            6     7:a1    5:6  
+            7     8:a1    5:3  
+            8     9:a1    6:6  
+            9    10:a1    6:2  
+            10   11:a1    7:2  
+            11   12:a1   10:2  
+///

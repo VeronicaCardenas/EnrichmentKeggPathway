@@ -1,0 +1,47 @@
+ENTRY       G00015                      Glycan
+COMPOSITION (GlcNAc)4 (Man)3 (Asn)1
+MASS        1299.2 (Asn)
+REACTION    R05985 R05986 R05987 R05988 R06015 R06016 R07622 R07623
+PATHWAY     map00510  N-Glycan biosynthesis
+            map00513  Various types of N-glycan biosynthesis
+            map01100  Metabolic pathways
+MODULE      M00075  N-glycan biosynthesis, complex type
+ENZYME      2.4.1.68        2.4.1.143       2.4.1.144       2.4.1.145       
+            2.4.1.214       2.4.1.-         2.4.2.38
+ORTHOLOGY   K00717  glycoprotein 6-alpha-L-fucosyltransferase [EC:2.4.1.68]
+            K00736  alpha-1,6-mannosyl-glycoprotein beta-1,2-N-acetylglucosaminyltransferase [EC:2.4.1.143]
+            K00737  beta-1,4-mannosyl-glycoprotein beta-1,4-N-acetylglucosaminyltransferase [EC:2.4.1.144]
+            K00738  alpha-1,3-mannosylglycoprotein beta-1,4-N-acetylglucosaminyltransferase A/B [EC:2.4.1.145]
+REFERENCE   1  [PMID:11343276]
+            Mandal TK, Mukhopadhyay C.
+            Effect of glycosylation on structure and dynamics of MHC class I glycoprotein: a molecular dynamics study.
+            Biopolymers. 59 (2001) 11-23.
+            2  [PMID:12018942]
+            Saba JA, Kunkel JP, Jan DC, Ens WE, Standing KG, Butler M, Jamieson JC, Perreault H.
+            A study of immunoglobulin G glycosylation in monoclonal and polyclonal species by electrospray and matrix-assisted laser desorption/ionization mass spectrometry.
+            Anal. Biochem. 305 (2002) 16-31.
+            3  [PMID:14559815]
+            Noda K, Miyoshi E, Gu J, Gao CX, Nakahara S, Kitada T, Honke K, Suzuki K, Yoshihara H, Yoshikawa K, Kawano K, Tonetti M, Kasahara A, Hori M, Hayashi N, Taniguchi N.
+            Relationship between elevated FX expression and increased production of GDP-L-fucose, a common donor substrate for fucosylation in human hepatocellular carcinoma and hepatoma cell lines.
+            Cancer. Res. 63 (2003) 6282-9.
+DBLINKS     CCSD: 1277 4334 5054 6260 7021 7574 7576 7577 7578 7581 7582 12769 12789 26076 30027 31284 34934 35053 35728 38433 38550 43244 43555 45025 8108 44538 4624
+            GlyTouCan: G39213VZ
+            JCGGDB: JCGG-STR009224
+NODE        8
+            1   Asn        20     0
+            2   GlcNAc     12     0
+            3   GlcNAc      3     0
+            4   Man        -5     0
+            5   Man       -12     5
+            6   Man       -12    -5
+            7   GlcNAc    -20     5
+            8   GlcNAc    -20    -5
+EDGE        7
+            1     2:b1    1    
+            2     3:b1    2:4  
+            3     4:b1    3:4  
+            4     5:a1    4:6  
+            5     6:a1    4:3  
+            6     7:b1    5:2  
+            7     8:b1    6:2  
+///

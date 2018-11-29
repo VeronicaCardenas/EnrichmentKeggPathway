@@ -1,0 +1,187 @@
+ENTRY       D00533                      Drug
+NAME        Oxcarbazepine (JAN/USAN/INN);
+            Oxtellar (TN);
+            Trileptal (TN)
+PRODUCT     TRILEPTAL (Novartis Pharmaceuticals Corporation) 4c5c86c8-ab7f-4fcf-bc1b-5a0b1fd0691b
+            TRILEPTAL (PD-Rx Pharmaceuticals) e61cfb01-55fc-42d5-8d9a-25d73f905e04
+            TRILEPTAL (Physicians Total Care) d9741f36-0abd-49b7-9f43-e9700663122b
+            OXTELLAR XR (Supernus) aa610e56-1d1d-11e1-8bc2-0800200c9a66
+  GENERIC   OXCARBAZEPINE (Aidarex Pharmaceuticals LLC) abbf6b75-bc22-42af-ae08-445d8c186092
+            OXCARBAZEPINE (American Health Packaging) 1664b832-7fed-451c-9783-4ad8f8fc354d
+            OXCARBAZEPINE (Amneal Pharmaceuticals) 2515391e-3a88-4226-92e5-f641c8409fe5
+            OXCARBAZEPINE (Breckenridge Pharmaceutical) 682a1210-b26e-426e-8ffe-d25d91bdd608
+            OXCARBAZEPINE (Bryant Ranch Prepack) 78f196d4-110e-45b1-813a-725f52c1a4eb
+            OXCARBAZEPINE (Bryant Ranch Prepack) 9530c23e-7f67-492c-b00c-a17092a5387e
+            OXCARBAZEPINE (Bryant Ranch Prepack) d3c7a3b8-b9a2-4a5f-98b3-0ed02eca3433
+            OXCARBAZEPINE (Cardinal Health) c84ef3b3-dd15-47b7-a663-0c5d643428ea
+            TRILEPTAL (DIRECT RX) 33af9350-95f3-384e-e054-00144ff88e88
+            OXCARBAZEPINE (Glenmark Pharmaceuticals) 1c713b59-a628-42e6-b166-ae71c3913284
+            OXCARBAZEPINE (Golden State Medical Supply) b9db5c45-8b51-449b-b4af-1a235c08f189
+            OXCARBAZEPINE (Golden State Medical Supply) 9dcbdfb5-0ee4-45b2-8351-001ed2e1a1f5
+            OXCARBAZEPINE (Jubilant Cadista Pharmaceuticals) 7832f876-7713-4de3-80b6-a0c10c5e0f21
+            OXCARBAZEPINE (Medsource Pharmaceuticals) 209b629d-e462-61b1-e054-00144ff8d46c
+            OXCARBAZEPINE (NCS HealthCare of KY) 524c025b-809b-440f-a756-e3518d7c92db
+            OXCARBAZEPINE (NCS HealthCare of KY) b28905b2-f99a-4b4a-9dc4-c0a06d7b0689
+            OXCARBAZEPINE (Physicians Total Care) 92919b7e-b499-4afb-8f78-1b1fff099bae
+            OXCARBAZEPINE (Precision Dose) 636fc847-b3d2-4255-a959-d75499fdb198
+            OXCARBAZEPINE (REMEDYREPACK) 083735ad-8d7e-4a51-a8f5-2d254d093789
+            OXCARBAZEPINE (REMEDYREPACK) 712754fe-4619-4e46-b36e-d72570f80763
+            OXCARBAZEPINE (REMEDYREPACK) 77bfdb7c-cf99-40ce-80b2-91dd6f38c4d2
+            OXCARBAZEPINE (REMEDYREPACK) 7e5fb9dd-1672-442b-b5cc-c886c5dda863
+            OXCARBAZEPINE (REMEDYREPACK) 82220b24-f401-4def-a36e-6a66d310e03a
+            OXCARBAZEPINE (REMEDYREPACK) a0ca0500-8d13-42aa-8c3d-040ea502db75
+            OXCARBAZEPINE (REMEDYREPACK) a5bcb4c3-26f9-4195-95be-f0dc8ce48154
+            OXCARBAZEPINE (REMEDYREPACK) d191aa07-6de5-46cf-a4ed-34e3b9e15666
+            OXCARBAZEPINE (REMEDYREPACK) de381031-cd25-4930-a59a-431acda0e94a
+            OXCARBAZEPINE (Ranbaxy Pharmaceuticals) ca6bfbbb-fcca-4c15-a160-ee5791ed2f6e
+            OXCARBAZEPINE (Rebel Distributors Corp) e8a485af-a78b-49a0-9bf4-75e1cd5bb740
+            OXCARBAZEPINE (Sandoz) 1ccdb12e-3c52-4fb4-a2db-aeb8ca5757f7
+            OXCARBAZEPINE (Sun Pharmaceutical Industries Limited) 7ecd5eef-46f4-407f-9b63-ba65adb3eced
+            OXCARBAZEPINE (TYA Pharmaceuticals) 654d6aac-f7bf-4404-921c-5b8470c9064a
+            OXCARBAZEPINE (TYA Pharmaceuticals) 6b4f9f7b-b48a-4dfd-bff5-9405cb38eff2
+            OXCARBAZEPINE (Taro Pharmaceuticals U.S.A.) 17325a80-fb9c-4a83-b4b4-98e0b999d852
+            OXCARBAZEPINE (West-Ward Pharmaceticals Corp.) 6ebd3c83-7d28-4a73-9070-bbb3f9b547b1
+            OXCARBAZEPINE (West-Ward Pharmaceuticals Corp.) 45a6d619-9198-45c3-b9fa-1b52325366d3
+FORMULA     C15H12N2O2
+EXACT_MASS  252.0899
+MOL_WEIGHT  252.268
+CLASS       Neuropsychiatric agent
+             DG02034  Carboxamide antiepileptics
+            Cyp inhibitor
+             DG01933  CYP2C19 inhibitor
+            Cyp inducer
+             DG01635  CYP3A4 inducer
+             DG01897  CYP3A5 inducer
+REMARK      Same as: C07492
+            ATC code: N03AF02
+            Chemical group: DG02382
+ACTIVITY    Anticonvulsant, Antiepileptic
+COMMENT     Carboxamide derivative
+TARGET      SCN1A [HSA:6323] [KO:K04833];
+            SCN2A [HSA:6326] [KO:K04834];
+            SCN3A [HSA:6328] [KO:K04836];
+            SCN4A [HSA:6329] [KO:K04837];
+            SCN5A [HSA:6331] [KO:K04838];
+            SCN8A [HSA:6334] [KO:K04840];
+            SCN9A [HSA:6335] [KO:K04841];
+            SCN10A [HSA:6336] [KO:K04842];
+            SCN11A [HSA:11280] [KO:K04843]
+  PATHWAY   hsa04728(6323)  Dopaminergic synapse
+INTERACTION CYP induction: CYP3A4 [HSA:1576], CYP3A5 [HSA:1577], CYP3A7 [HSA:1551]
+            CYP inhibition: CYP2C19 [HSA:1557]
+STR_MAP     map07033  Anticonvulsants
+OTHER_MAP   map00982  Drug metabolism - cytochrome P450
+BRITE       Anatomical Therapeutic Chemical (ATC) classification [BR:br08303]
+             N NERVOUS SYSTEM
+              N03 ANTIEPILEPTICS
+               N03A ANTIEPILEPTICS
+                N03AF Carboxamide derivatives
+                 N03AF02 Oxcarbazepine
+                  D00533  Oxcarbazepine (JAN/USAN/INN)
+            USP drug classification [BR:br08302]
+             Anticonvulsants
+              Sodium Channel Agents
+               Oxcarbazepine
+                D00533  Oxcarbazepine (JAN/USAN/INN)
+            Target-based classification of drugs [BR:br08310]
+             Ion channels
+              Voltage-gated cation channels
+               Na+ channel, SCN alpha, NaV1.x
+                voltage-gated sodium channel (SCN1A)
+                 Oxcarbazepine
+                  D00533  Oxcarbazepine (JAN/USAN/INN)
+                voltage-gated sodium channel (SCN2A)
+                 Oxcarbazepine
+                  D00533  Oxcarbazepine (JAN/USAN/INN)
+                voltage-gated sodium channel (SCN3A)
+                 Oxcarbazepine
+                  D00533  Oxcarbazepine (JAN/USAN/INN)
+                voltage-gated sodium channel (SCN4A)
+                 Oxcarbazepine
+                  D00533  Oxcarbazepine (JAN/USAN/INN)
+                voltage-gated sodium channel (SCN5A)
+                 Oxcarbazepine
+                  D00533  Oxcarbazepine (JAN/USAN/INN)
+                voltage-gated sodium channel (SCN8A)
+                 Oxcarbazepine
+                  D00533  Oxcarbazepine (JAN/USAN/INN)
+                voltage-gated sodium channel (SCN9A)
+                 Oxcarbazepine
+                  D00533  Oxcarbazepine (JAN/USAN/INN)
+                voltage-gated sodium channel (SCN10A)
+                 Oxcarbazepine
+                  D00533  Oxcarbazepine (JAN/USAN/INN)
+                voltage-gated sodium channel (SCN11A)
+                 Oxcarbazepine
+                  D00533  Oxcarbazepine (JAN/USAN/INN)
+            Cytochrome P450 interactions [BR:br08309]
+             CYP inhbitors
+              CYP2C19
+               Oxcarbazepine
+                D00533  Oxcarbazepine (JAN/USAN/INN)
+             CYP inducers
+              CYP3A5
+               Oxcarbazepine
+                D00533  Oxcarbazepine (JAN/USAN/INN)
+              CYP3A7
+               Oxcarbazepine
+                D00533  Oxcarbazepine (JAN/USAN/INN)
+            New drug approvals in the USA [br08319.html]
+             New Molecular Entity and New Therapeutic Biological Product Approvals
+              D00533
+            New drug approvals in Japan [br08318.html]
+             Drugs with new active ingredients
+              D00533
+            New drug approvals in the USA, Europe and Japan [br08328.html]
+             Approval dates by FDA, EMA and PMDA
+              D00533
+DBLINKS     CAS: 28721-07-5
+            PubChem: 7847599
+            ChEBI: 7824
+            ChEMBL: CHEMBL1068
+            DrugBank: DB00776
+            LigandBox: D00533
+            NIKKAJI: J21.258J
+ATOM        19
+            1   C5x C    18.8052  -13.4873
+            2   C8y C    17.9608  -12.3747
+            3   C8y C    18.2969  -11.0142
+            4   N1y N    19.5614  -10.4345
+            5   C1x C    20.2148  -13.5126
+            6   C8y C    20.8183  -11.0585
+            7   C8y C    21.1056  -12.4310
+            8   C8x C    17.2870  -10.0431
+            9   C8x C    15.9414  -10.4323
+            10  C8x C    15.6053  -11.7928
+            11  C8x C    16.6151  -12.7636
+            12  C8x C    22.4404  -12.8693
+            13  C8x C    23.4875  -11.9323
+            14  C8x C    23.2004  -10.5598
+            15  C8x C    21.8653  -10.1215
+            16  C5a C    19.5131   -9.0558
+            17  N1a N    20.7404   -8.3728
+            18  O5x O    18.0836  -14.6869
+            19  O5a O    18.2961   -8.3686
+BOND        21
+            1     3   4 1
+            2     1   5 1
+            3     4   6 1
+            4     2   3 1
+            5     5   7 1
+            6     1   2 1
+            7     6   7 1
+            8     3   8 2
+            9     8   9 1
+            10    9  10 2
+            11   10  11 1
+            12    2  11 2
+            13    7  12 2
+            14   12  13 1
+            15   13  14 2
+            16   14  15 1
+            17    6  15 2
+            18    4  16 1
+            19   16  17 1
+            20    1  18 2
+            21   16  19 2
+///

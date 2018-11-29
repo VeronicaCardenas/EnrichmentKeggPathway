@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TABLE>
+<ENTRY>
+<ID>CHEBI:15511</ID>
+<NAME>trans-feruloyl-CoA</NAME>
+<DEFINITION>A feruloyl-CoA that results from the formal condensation of the thiol group of coenzyme A with the carboxy group of trans-feruloic acid.</DEFINITION>
+<STAR>3</STAR>
+<SECONDARY_ID>CHEBI:5047</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:12881</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:24033</SECONDARY_ID>
+<SYNONYM>trans-feruloyl-coenzyme A</SYNONYM>
+<SYNONYM>trans-Feruloyl-CoA</SYNONYM>
+<SYNONYM>trans-feruloyl-CoA</SYNONYM>
+<SYNONYM>trans-4-hydroxy-3-methoxycinnamoyl-coenzyme A</SYNONYM>
+<SYNONYM>trans-4-hydroxy-3-methoxycinnamoyl-CoA</SYNONYM>
+<SYNONYM>feruloyl-CoA</SYNONYM>
+<IUPAC_NAME>3'-phosphoadenosine 5'-{3-[(3R)-3-hydroxy-4-({3-[(2-{[(2E)-3-(4-hydroxy-3-methoxyphenyl)prop-2-enoyl]sulfanyl}ethyl)amino]-3-oxopropyl}amino)-2,2-dimethyl-4-oxobutyl] dihydrogen diphosphate}</IUPAC_NAME>
+<FORMULA>C31H44N7O19P3S</FORMULA>
+<FORMULA>C31H44N7O19P3S</FORMULA>
+<MASS>943.70300</MASS>
+<MONOISOTOPIC_MASS>943.163</MONOISOTOPIC_MASS>
+<CHARGE>0</CHARGE>
+<SMILES>COc1cc(\C=C\C(=O)SCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(O)(=O)OP(O)(=O)OC[C@H]2O[C@H]([C@H](O)[C@@H]2OP(O)(O)=O)n2cnc3c(N)ncnc23)ccc1O</SMILES>
+<INCHI>InChI=1S/C31H44N7O19P3S/c1-31(2,26(43)29(44)34-9-8-21(40)33-10-11-61-22(41)7-5-17-4-6-18(39)19(12-17)52-3)14-54-60(50,51)57-59(48,49)53-13-20-25(56-58(45,46)47)24(42)30(55-20)38-16-37-23-27(32)35-15-36-28(23)38/h4-7,12,15-16,20,24-26,30,39,42-43H,8-11,13-14H2,1-3H3,(H,33,40)(H,34,44)(H,48,49)(H,50,51)(H2,32,35,36)(H2,45,46,47)/b7-5+/t20-,24-,25-,26+,30-/m1/s1</INCHI>
+<INCHIKEY>GBXZVJQQDAJGSO-NBXNMEGSSA-N</INCHIKEY>
+<KEGG_COMPOUND_ACCESSION>C00406</KEGG_COMPOUND_ACCESSION>
+<KNAPSACK_ACCESSION>C00007264</KNAPSACK_ACCESSION>
+<PUBMED_CITATION>16666570</PUBMED_CITATION>
+</ENTRY>
+</TABLE>

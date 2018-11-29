@@ -1,0 +1,125 @@
+ENTRY       D01790                      Drug
+NAME        Oxaliplatin (JAN/USAN/INN);
+            Eloxatin (TN)
+PRODUCT     ELOXATIN (Aventis Pharma) 98e269f3-fd0f-4415-bf73-0cf6a1907204
+            OXALIPLATIN (Teva Parenteral Medicines) 9e51cc79-620c-48d7-b267-78e43c1ef6e4
+            ELOXATIN (sanofi-aventis U.S. LLC) 3c740b43-f396-4998-bc66-6964a21f7161
+  GENERIC   OXALIPLATIN (Actavis Pharma) 78f6a5f3-d088-4aee-9743-fa8cf19d3d75
+            OXALIPLATIN (Alvogen) 69158776-cea7-505c-723b-e30117f29e89
+            OXALIPLATIN (Apotex Corp.) ee5a5a1d-63f6-4d5a-901b-65be45ec6610
+            OXALIPLATIN (Athenex Pharmaceutical Division) da19a970-f85c-4f13-8a45-6a673c23502e
+            OXALIPLATIN (Breckenridge Pharmaceutical) 080a7c33-1106-464b-b52e-6ac97aca2d3d
+            OXALIPLATIN (Breckenridge Pharmaceutical) 6400debf-ef77-48d7-a233-4cf252039e16
+            OXALIPLATIN (Cipla USA) 5ffb166a-8283-44c0-8590-ecad2743c154
+            OXALIPLATIN (Fresenius Kabi USA) e12e2850-4980-48de-af58-15e559fb921f
+            OXALIPLATIN (Gland Pharma Limited) a6f89dc3-a594-4b5b-8728-272e20c1ecb5
+            OXALIPLATIN (Gland Pharma Limited) d6178bc6-9dae-413f-8f47-de75d576c5b8
+            OXALIPLATIN (Hospira) 80bb754d-38c2-483e-afae-b693f99896e8
+            OXALIPLATIN (Hospira) e51a62ba-d163-4c57-835c-8c86cf097e40
+            OXALIPLATIN (Meitheal Pharmaceuticals) 873fa936-157a-4f85-bc70-5df31d71d122
+            OXALIPLATIN (Mylan Institutional LLC) 5023650b-d15b-4cce-a8cd-ccbdcd891f0c
+            OXALIPLATIN (Mylan Institutional LLC) da0e8523-609a-4326-96b1-d7de78662d91
+            OXALIPLATIN (NorthStar RxLLC) 36e7a154-759a-487b-b67f-6c605d017c7d
+            OXALIPLATIN (Pfizer Laboratories Div Pfizer) b114b6c1-8a19-480c-8459-c23cbdc3516a
+            OXALIPLATIN (Pfizer Laboratories Div Pfizer) e0890b0c-c1e9-4760-8914-0f28467d0e36
+            OXALIPLATIN (Qilu Pharmaceutical) 33d4f4b4-bb4e-46af-9e89-df20154436d0
+            OXALIPLATIN (Sagent Pharmaceuticals) 29a5d098-bfa7-4a65-bb4f-5daa1fef1c2f
+            OXALIPLATIN (Sagent Pharmaceuticals) 6d020a9b-1244-45e5-b8d7-8342e85d7666
+            OXALIPLATIN (Sandoz) 86f6c19d-30d1-42e3-8d46-5e3f45776e85
+            OXALIPLATIN (Sandoz) ab162009-6f84-4d56-ab56-5e84409ec814
+            OXALIPLATIN (Sanja Pharmaceuticals Company) 3c853336-2533-48ff-8b02-1bdbe196ed6b
+            OXALIPLATIN (Sun Pharma Global FZE) 20910750-2bb6-4258-8368-df9ec207bfdd
+            OXALIPLATIN (Sun Pharma Global FZE) 8efb4c07-455b-4c91-b257-6fd43854454c
+            OXALIPLATIN (Winthrop U.S.) 70269278-fe61-4800-a064-32cb6845cc28
+            OXALIPLATIN (Winthrop U.S.) a98b4070-822f-4fba-a844-690ff5556f0b
+FORMULA     Pt. C6H14N2. C2O4
+EXACT_MASS  397.0601
+MOL_WEIGHT  397.2918
+CLASS       Antineoplastic
+             DG01679  Platinum compound
+REMARK      Therapeutic category: 4291
+            ATC code: L01XA03
+            Chemical group: DG02187
+ACTIVITY    Antineoplastic, Cell growth inhibitor
+COMMENT     Platinum compound
+            DNA alkylator
+TARGET      DNA
+METABOLISM  Transporter: SLC22A2 [HSA:6582], SLC22A1 [HSA:6580]
+INTERACTION  
+STR_MAP     map07040  Antineoplastics - alkylating agents
+OTHER_MAP   map01524  Platinum drug resistance
+BRITE       Anatomical Therapeutic Chemical (ATC) classification [BR:br08303]
+             L ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS
+              L01 ANTINEOPLASTIC AGENTS
+               L01X OTHER ANTINEOPLASTIC AGENTS
+                L01XA Platinum compounds
+                 L01XA03 Oxaliplatin
+                  D01790  Oxaliplatin (JAN/USAN/INN)
+            Therapeutic category of drugs in Japan [BR:br08301]
+             4  Agents affecting cellular function
+              42  Antineoplastics
+               429  Miscellaneous
+                4291  Other Antitumors
+                 D01790  Oxaliplatin (JAN/USAN/INN)
+            Target-based classification of drugs [BR:br08310]
+             Others
+              Nucleic acid
+               DNA
+                Oxaliplatin
+                 D01790  Oxaliplatin (JAN/USAN/INN)
+            Cytochrome P450 interactions [BR:br08309]
+             Transporter substrates
+              SLC22A1
+               Oxaliplatin
+                D01790  Oxaliplatin (JAN/USAN/INN)
+              SLC22A2
+               Oxaliplatin
+                D01790  Oxaliplatin (JAN/USAN/INN)
+            Antineoplastics [br08340.html]
+             D01790
+            New drug approvals in the USA [br08319.html]
+             New Molecular Entity and New Therapeutic Biological Product Approvals
+              D01790
+            New drug approvals in Japan [br08318.html]
+             Drugs with new active ingredients
+              D01790
+            New drug approvals in the USA, Europe and Japan [br08328.html]
+             Approval dates by FDA, EMA and PMDA
+              D01790
+DBLINKS     CAS: 61825-94-3
+            PubChem: 7848852
+            ChEBI: 31941
+            DrugBank: DB00526
+            LigandBox: D01790
+            NIKKAJI: J2.108.891I
+ATOM        15
+            1   O6a O    27.6304  -16.6769 #-
+            2   C6a C    28.8402  -17.3773
+            3   C6a C    30.0500  -16.6769
+            4   O6a O    31.2599  -17.3773 #-
+            5   O6a O    28.8402  -18.7782
+            6   O6a O    30.0500  -15.2761
+            7   C1x C    18.8079  -16.6698
+            8   C1x C    18.8079  -18.0706
+            9   C1x C    20.0240  -18.7710
+            10  C1y C    21.2329  -18.0706
+            11  C1y C    21.2329  -16.6698
+            12  C1x C    20.0240  -15.9694
+            13  N1a N    22.4327  -15.9781
+            14  N1a N    22.4241  -18.7572
+            15  Z   Pt   24.9608  -17.2359 #2+
+BOND        13
+            1     2   3 1
+            2     3   4 1
+            3     2   5 2
+            4     1   2 1
+            5     3   6 2
+            6     7   8 1
+            7     8   9 1
+            8     9  10 1
+            9    10  11 1
+            10   11  12 1
+            11   12   7 1
+            12   11  13 1 #Up
+            13   10  14 1 #Down
+///

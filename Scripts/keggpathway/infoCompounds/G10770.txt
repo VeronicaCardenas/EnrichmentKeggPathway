@@ -1,0 +1,28 @@
+ENTRY       G10770                      Glycan
+COMPOSITION (GlcNAc)3 (LFuc)1 (Man)3 (Asn)1
+MASS        1242.2 (Asn)
+REACTION    R09319 R09320 R11318
+PATHWAY     map00513  Various types of N-glycan biosynthesis
+            map01100  Metabolic pathways
+ENZYME      2.4.1.68        2.4.1.214       2.4.1.-
+DBLINKS     CCSD: 5087 7080 7756 7757 7758 11715 45809
+            GlyTouCan: G07483YN
+            JCGGDB: JCGG-STR017411
+NODE        8
+            1   Asn        22     2
+            2   GlcNAc     14     2
+            3   LFuc        4     7
+            4   GlcNAc      4    -3
+            5   Man        -5    -3
+            6   Man       -13     1
+            7   Man       -13    -7
+            8   GlcNAc    -22    -7
+EDGE        7
+            1     2:b1    1    
+            2     3:a1    2:6  
+            3     4:b1    2:4  
+            4     5:b1    4:4  
+            5     6:a1    5:6  
+            6     7:a1    5:3  
+            7     8:b1    7:2  
+///

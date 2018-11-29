@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<TABLE>
+<ENTRY>
+<ID>CHEBI:28102</ID>
+<NAME>amylose</NAME>
+<DEFINITION>A glucan composed of unbranched chains of D-glucopyranose residues in α(1→4) glycosidic linkage. The number of repeated glucose subunits (n) is usually in the range of 300 to 3000, but can be many thousands. One of the two components of starch (the other, 70-80%, being amylopectin). Cf. linear maltodextrin, in which the chain length is typically between 3 and 17 glucose units.</DEFINITION>
+<STAR>3</STAR>
+<SECONDARY_ID>CHEBI:2694</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:22539</SECONDARY_ID>
+<SYNONYM>Amylose chain</SYNONYM>
+<SYNONYM>Amylose</SYNONYM>
+<SYNONYM>4-{(1,4)-alpha-D-Glucosyl}(n-1)-D-glucose</SYNONYM>
+<SYNONYM>1,4-alpha-D-Glucan</SYNONYM>
+<SYNONYM>(1,4-alpha-D-Glucosyl)n-1</SYNONYM>
+<SYNONYM>(1,4-alpha-D-Glucosyl)n+1</SYNONYM>
+<SYNONYM>(1,4-alpha-D-Glucosyl)n</SYNONYM>
+<IUPAC_NAME>(1->4)-alpha-D-glucopyranan</IUPAC_NAME>
+<FORMULA>(C6H10O5)nH2O</FORMULA>
+<MASS>0.0</MASS>
+<CHARGE>0</CHARGE>
+<CAS_REGISTRY_NUMBER>9005-82-7</CAS_REGISTRY_NUMBER>
+<REAXYS_REGISTRY_NUMBER>8194785</REAXYS_REGISTRY_NUMBER>
+<CHEMIDPLUS>9005-82-7</CHEMIDPLUS>
+<HMDB_ACCESSION>HMDB0003403</HMDB_ACCESSION>
+<KEGG_COMPOUND_ACCESSION>C00718</KEGG_COMPOUND_ACCESSION>
+<KEGG_DRUG_ACCESSION>D02329</KEGG_DRUG_ACCESSION>
+<KEGG_GLYCAN_ACCESSION>G10495</KEGG_GLYCAN_ACCESSION>
+<WIKIPEDIA_ACCESSION>Amylose</WIKIPEDIA_ACCESSION>
+<PUBMED_CITATION>24162153</PUBMED_CITATION>
+<PUBMED_CITATION>24299760</PUBMED_CITATION>
+<PUBMED_CITATION>24491702</PUBMED_CITATION>
+<PUBMED_CITATION>24505384</PUBMED_CITATION>
+</ENTRY>
+</TABL

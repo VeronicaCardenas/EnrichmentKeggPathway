@@ -1,0 +1,14 @@
+ENTRY       G13027                      Glycan
+COMPOSITION (Man)1 (Ser/Thr)1
+MASS        162.1 (Ser/Thr)
+REACTION    R07619 R07620 R09300 R11407
+PATHWAY     map00515  Mannose type O-glycan biosynthesis
+            map01100  Metabolic pathways
+ENZYME      2.4.1.109       2.4.1.312       2.4.1.-
+DBLINKS     GlyTouCan: G61491DK
+NODE        2
+            1   Ser/Thr     4   0.3
+            2   Man        -5   0.3
+EDGE        1
+            1     2:a1    1    
+///

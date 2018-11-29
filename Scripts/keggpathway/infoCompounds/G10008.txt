@@ -1,0 +1,15 @@
+ENTRY       G10008                      Glycan
+COMPOSITION (GlcA)1 (GlcNAc)1
+MASS        397.3
+REACTION    R10831
+PATHWAY     map00531  Glycosaminoglycan degradation
+ENZYME      3.2.1.52
+DBLINKS     CCSD: 34763
+            GlyTouCan: G35674CY
+            JCGGDB: JCGG-STR015100
+NODE        2
+            1   GlcNAc      0     0
+            2   GlcA      -10     0
+EDGE        1
+            1     2:b1    1:3  
+///

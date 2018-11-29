@@ -1,0 +1,37 @@
+ENTRY       G00114                      Glycan
+NAME        GD2
+COMPOSITION (Gal)1 (GalNAc)1 (Glc)1 (Neu5Ac)2 (Cer)1
+MASS        1110 (Cer)
+REMARK      Same as: C06134
+REACTION    R05946 R05948 R06009
+PATHWAY     map00604  Glycosphingolipid biosynthesis - ganglio series
+            map01100  Metabolic pathways
+ENZYME      2.4.1.62        2.4.1.92        2.4.99.8
+ORTHOLOGY   K00715  ganglioside galactosyltransferase [EC:2.4.1.62]
+            K00725  (N-Acetylneuraminyl)-galactosylglucosylceramide N-acetylgalactosaminyltransferase [EC:2.4.1.92]
+BRITE       Lipids [BR:br08002]
+             SP  Sphingolipids
+              SP06 Acidic glycosphingolipids
+               SP0601 Gangliosides
+                G00114  GalNAc-beta1->4(Neu5Ac-alpha2->8Neu5Ac2->3)Gal-beta1->4Glc-beta1->1'Cer (GD2)
+            Cancer-accociated carbohydrates [br08441.html]
+             G00114
+DBLINKS     CCSD: 2670 3675 6511 6889 8102 9325 11566 13637 13657 14449 15396 15554 16078 17003 17088 17878 18910 18957 19364 21307 21511 21809 21983 22206 23861 23912 25789 25909 25938 25960 25966 26137 26143 26833 27261 27456 27465 29991 30387 30646 31970 31990 32003 32040 32084 32675 32688 32705 33684 34105 34662 34683 34684 34692 34700 34822 34827 34863 34888 34896 34908 34928 34938 35161 35303 35304 35334 35338 35414 35525 35561 35585 35624 35659 35791 35800 35933 35999 36105 36126 36638 36869 36903 36904 36929 37024 37223 37255 37281 37344 37478 37644 38080 38084 38106 38118 38125 38138 38383 38395 38633 39203 39427 39788 40353 40358 40560 42142 42413 42798 43291 43464 43494 43611 43833 44048 44075 44191 44815 44825 44884 44942 45145 45159 45359 45880 46033 46039 46055 46267 46345 46499 46867 46990 47377 47387 47852 48420 48424 48541 49486 49494 49500 50157 50177 50183 50192 50216 50260 50701 50798
+            GlyTouCan: G02657AK
+            JCGGDB: JCGG-STR004909
+            LipidBank: GSG1102 GSG3044
+            GlycoEpitope: EP0061 EP0308
+NODE        6
+            1   Cer        15     0
+            2   Glc         8     0
+            3   Gal         1     0
+            4   GalNAc     -7     4
+            5   Neu5Ac     -7    -4
+            6   Neu5Ac    -16    -4
+EDGE        5
+            1     2:b1    1:1  
+            2     3:b1    2:4  
+            3     4:b1    3:4  
+            4     5:a2    3:3  
+            5     6:a2    5:8  
+///

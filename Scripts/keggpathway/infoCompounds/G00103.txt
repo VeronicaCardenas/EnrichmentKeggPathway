@@ -1,0 +1,27 @@
+ENTRY       G00103                      Glycan
+COMPOSITION (Gal)4 (GalNAc)1 (Glc)1 (GlcNAc)1 (Cer)1
+MASS        1217.1 (Cer)
+REACTION    R05903 R05904
+PATHWAY     map00603  Glycosphingolipid biosynthesis - globo and isoglobo series
+ENZYME      2.4.1.152       2.4.1.-
+DBLINKS     GlyTouCan: G62971NJ
+            JCGGDB: JCGG-STR007915
+            LipidBank: GSG1430
+NODE        8
+            1   Cer        20     0
+            2   Glc        14     0
+            3   Gal         8     0
+            4   Gal         2     0
+            5   GalNAc     -5     0
+            6   Gal       -12    -4
+            7   GlcNAc    -13     4
+            8   Gal       -20     4
+EDGE        7
+            1     2:b1    1:1  
+            2     3:b1    2:4  
+            3     4:a1    3:4  
+            4     5:b1    4:3  
+            5     6:b1    5:3  
+            6     7:b1    5:6  
+            7     8:b1    7:4  
+///

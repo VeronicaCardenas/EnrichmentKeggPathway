@@ -1,0 +1,332 @@
+ENTRY       D00842                      Drug
+NAME        Morphine sulfate (USP);
+            Morphine sulfate hydrate (JP17);
+            Morphine sulfate pentahydrate;
+            Astramor PH (TN);
+            Avinza (TN);
+            Depodur (TN);
+            Kadian (TN);
+            MS contin (TN)
+PRODUCT     KADIAN (Actavis Kadian LLC) 2cb462d0-f4a5-41b4-b4d5-8b3d8453e0e9
+            KADIAN (Actavis Pharma) adae46f8-3477-418d-9fd0-322ace413817
+            KADIAN (Allergan) b5cee013-000f-4e35-a284-1f58add31b4d
+            MORPHINE SULFATE (Atlantic Biologicals Corps) 12c17cfb-7bcf-4457-b1b9-531d7562493c
+            MORPHINE SULFATE (Atlantic Biologicals Corps) 3c6a7216-e49b-411c-b53a-dd952ecfa039
+            MORPHINE SULFATE (Avera McKennan Hospital) cbff04a4-4128-43dc-bc76-d9291e0b969f
+            KADIAN (Bryant Ranch Prepack) 155e8576-c28d-4ec5-bc03-baeb3e65878b
+            MORPHINE SULFATE (Bryant Ranch Prepack) 3f3a870e-f325-475b-8453-fe3d1bb8f54a
+            MORPHINE SULFATE (Bryant Ranch Prepack) 408eda31-0188-4f1d-96b9-8224dfe1bbc7
+            AVINZA (Bryant Ranch Prepack) 83958c50-93d4-4af1-b742-51fd98e4f883
+            AVINZA (Bryant Ranch Prepack) d7a23afd-95ea-4eb8-b88c-416c3c12a078
+            AVINZA (Bryant Ranch Prepack) ec7efdca-42a0-416a-b57c-af24cc43d9f3
+            KADIAN (Bryant Ranch Prepack) f4474706-e0de-5170-05c5-cf6762630ebc
+            KADIAN (Bryant Ranch Prepack) f62a95d3-67dd-4016-9959-7519363d5ae9
+            MORPHABOND (Daiichi Sankyo) 1806c935-0a76-4f6a-80c8-4aee8a95cb7d
+            MORPHINE SULFATE (Dispensing Solutions) 67b3273e-af71-4dac-8e49-8bc134d4c591
+            ARYMO (Egalet US) e60552c9-06ce-4790-95e7-aadd4df12b2a
+            MORPHINE SULFATE (Fresenius Kabi) b62ee1ef-db55-417a-a02e-b103890f9c4b
+            MORPHINE SULFATE (H.J. Harkins Company) d4286d3c-7226-47a6-9fbc-e67e60e46286
+            MORPHINE SULFATE (Hospira) 5b96e83a-d878-4dd5-8480-83a985db4609
+            MORPHINE SULFATE (Hospira) be420e8b-bcb0-49b5-bb4d-1df8b9959809
+            MORPHINE SULFATE (Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC) 135f85e2-f000-4ef1-98a5-9bf0ab55d2c0
+            MORPHINE SULFATE (Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC) d9a4179d-b21d-4921-be29-089ecfcb6e6a
+            AVINZA (Lake Erie Medical DBA Quality Care Products LLC) 092883c0-687f-4ced-9e2b-a1d7a9579926
+            KADIAN (Lake Erie Medical DBA Quality Care Products LLC) 7a99cf0a-557e-4a02-8331-f3570ce87514
+            KADIAN (Lake Erie Medical DBA Quality Care Products LLC) 7e086802-dcbf-4548-a0d1-2367972f9c74
+            MORPHINE SULFATE (Lannett Company) 4d425667-006b-446d-832c-63040509ad59
+            MORPHINE SULFATE (Meridian Medical Technologies) 28673b5e-9211-444b-acc0-56007e7231f0
+            MORPHINE SULFATE (Par Pharmaceutical) 4598407c-11cc-4f04-8acb-723f97aa16b8
+            MORPHINE SULFATE (Physicians Total Care) 680a996c-08a5-4cdb-b7bd-0ada5d8c7adf
+            KADIAN (Physicians Total Care) 6c826b0a-ac87-48cc-a780-9a4a2118e8a8
+            MORPHINE SULFATE (Physicians Total Care) 9740d1b2-d140-4959-a94b-843d4bf139c2
+            MORPHINE SULFATE (Precision Dose) 54735ee5-9ab8-4614-805d-12c2ffb19fa0
+            MORPHINE SULFATE (Precision Dose) 5e6618a9-f7b1-49a1-b504-60232b466cd1
+            MORPHINE SULFATE (Precision Dose) 8d800d8e-8fe2-453b-a8ac-dcf7c47e55fc
+            MS CONTIN (Purdue Pharma LP) e0472c35-3f44-42e2-9b75-37b2e9ff65f6
+            MORPHINE SULFATE (RedPharm Drug) 5178907d-3695-3666-e054-00144ff88e88
+            MS CONTIN (Rhodes Pharmaceuticals L.P.) c354b3bf-86c0-4bb8-8b1f-be2164942698
+            AVINZA (STAT RX USA LLC) 59007321-a6e4-4c98-858e-e824921f6a35
+            MS CONTIN (STAT RX USA LLC) 989a17e2-b7fd-478c-a584-327d368247ce
+            KADIAN (STAT RX USA LLC) a6b1858a-e796-4cb0-8a4d-d5c521874e84
+            MORPHINE SULFATE (STAT Rx USA LLC) ca2e2b04-c12c-4957-a93e-f8bbe554a8be
+            KADIAN ER (St Marys Medical Park Pharmacy) 58159bbc-d862-4a2a-8486-874e0007487b
+            MORPHINE SULFATE (West-Ward Pharmaceuticals Corp) 3c847554-3b4b-4d24-a145-2ef7e9b83699
+            MORPHINE SULFATE (West-Ward Pharmaceuticals Corp.) 19a17354-8ae9-48cf-ad52-cc774ca801be
+            MORPHINE SULFATE (West-Ward Pharmaceuticals Corp.) db9ac9e3-d761-4a99-9f34-4946ebe8f255
+            DURAMORPH (West-Ward Pharmaceuticals Corp.) ebb18761-e5c4-4238-bb84-f9549f500210
+  GENERIC   MORPHINE SULFATE (Actavis Elizabeth LLC) 6fe62c06-5bab-4fc8-b546-ff015a1fc40c
+            MORPHINE SULFATE (Actavis Pharma) 2da87bfa-11fd-43e3-8fef-d16ebeb15680
+            MORPHINE SULFATE (Actavis Pharma) 75fb4282-0bbd-4d63-a7d1-5142780a4fae
+            MORPHINE SULFATE (American Health Packaging) 134a09e1-8c73-2943-e054-00144ff88e88
+            MORPHINE SULFATE (Avera McKennan Hospital) 5005d1f7-3767-44ee-b3d5-94a6aa19e72a
+            MORPHINE SULFATE (Bryant Ranch Prepack) 2e8ec435-acce-0c3e-26d9-0a069eb5a000
+            MORPHINE SULFATE (Bryant Ranch Prepack) 872ceecb-1f14-7a43-7451-e4650a01fbd9
+            MORPHINE SULFATE (Bryant Ranch Prepack) 8a6f34df-6bd8-4ea5-839f-43cd2b0ef5c4
+            MORPHINE SULFATE (Bryant Ranch Prepack) a6195532-388b-47f7-a984-89ed10e29bc6
+            MORPHINE SULFATE (Bryant Ranch Prepack) cc3b491c-a206-3027-54f0-f87c0dd40a7f
+            MORPHINE SULFATE (Bryant Ranch Prepack) f6b6bf90-bd82-45d6-9150-65b370458bbe
+            MORPHINE SULFATE (DIRECT RX) 14da9360-2be2-4897-896a-f9739c1b0441
+            MORPHINE SULFATE (DIRECT RX) 4cb3ea11-5891-415f-b043-4c084396e98e
+            MORPHINE SULFATE (ETHEX Corporation) 1a2c9474-fab6-41a0-844d-d6bd5e6a4341
+            MORPHINE SULFATE (H.J. Harkins Company) 73e60510-751a-419c-82bb-c958e61e495e
+            MORPHINE SULFATE (Hi-Tech Pharmacal) 431a06fb-b6e3-4aab-a965-6b90ad8b5aa5
+            MORPHINE SULFATE (Hospira) 1d181906-f3ec-4222-1883-e61577a3122e
+            MORPHINE SULFATE (Impax Generics) f7e9a4b3-a2ee-4f0a-becd-6ef90867332b
+            MORPHINE SULFATE (Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC) 67df468c-ce7e-4e8f-8a26-016eee1051f6
+            MORPHINE SULFATE (Lake Erie Medical DBA Quality Care Products LLC) 01cf289a-5523-4de1-9d9a-08276001fc12
+            MORPHINE SULFATE (Lake Erie Medical DBA Quality Care Products LLC) 23fa4500-7d5b-409f-9942-ddef11e45503
+            MORPHINE SULFATE (Lake Erie Medical DBA Quality Care Products LLC) 31392b3b-5d64-4a68-afab-4ef80704dd87
+            MORPHINE SULFATE (Lake Erie Medical DBA Quality Care Products LLC) 3256e6a3-aed7-4a38-818d-86bef7ef83f6
+            MORPHINE SULFATE (Lake Erie Medical DBA Quality Care Products LLC) 32a16f14-b8e7-47f6-b1fd-0a5c3dd512e9
+            MORPHINE SULFATE (Lake Erie Medical DBA Quality Care Products LLC) 36defcbb-bbf8-4e2d-a310-d8095626fec3
+            MORPHINE SULFATE (Lake Erie Medical DBA Quality Care Products LLC) 4bf994a4-6cc5-4941-8a81-6cf4c7ee235a
+            MORPHINE SULFATE (Lake Erie Medical DBA Quality Care Products LLC) 60f13170-9706-4f17-b890-44737c4d3a8d
+            MORPHINE SULFATE (Lake Erie Medical DBA Quality Care Products LLC) 7b666ef7-871d-403f-865a-4360c5ec61fd
+            MORPHINE SULFATEER (Lake Erie Medical DBA Quality Care Products LLC) bf82350e-9a31-47c6-bfd4-3b6a4713a730
+            MORPHINE SULFATE (Lake Erie Medical DBA Quality Care Products LLC) ceb3002f-28d3-45a7-9ad0-456be5e37596
+            MORPHINE SULFATEER (Lake Erie Medical DBA Quality Care Products LLC) dba16dd8-5a2e-4914-a09d-2e4af18ee432
+            MORPHINE SULFATE (Lake Erie Medical DBA Quality Care Products LLC) f1845c76-8c8c-40a1-a145-78338649925e
+            MORPHINE SULFATE (Lake Erie Medical Surgical & Supply DBA Quality Care Products LLC) 4d9e387d-a702-4ea0-b96e-2659e940ff19
+            MORPHINE SULFATE (Lupin Pharmaceuticals) d360a33f-6323-4b10-9e81-07e2813c2dbd
+            MORPHINE SULFATE (Major Pharmaceuticals) dbb37dfd-0196-45f7-b9ca-393f56cf1d28
+            MORPHINE SULFATE (Mallinckrodt) 242c2512-1d49-486b-a9c3-6905f667799e
+            MORPHINE SULFATE (Mallinckrodt) 533034fd-c8e7-495b-8874-0db41bd1e65a
+            MORPHINE SULFATE (Mayne Pharma) 053e3fd9-25fc-4b55-b683-63fb9d190dae
+            MORPHINE SULFATE (McKesson Corporation) 110ca2be-781a-4056-aa54-ac3853d73be9
+            MORPHINE SULFATE (Mylan Pharmaceuticals) ff61d8e8-ea48-43be-828f-de13a9746b5e
+            MORPHINE SULFATE ORAL SOLUTION CII (Nostrum Laboratories) d6ec8aec-1abd-4fcc-a780-e77a4cf93e39
+            MORPHINE SULFATE (Novel Laboratories) e044604d-f210-4411-a6e8-6a9dbdb1a9bd
+            MORPHINE SULFATE (PD-Rx Pharmaceuticals) 38290f24-14fb-6dfe-e054-00144ff8d46c
+            MORPHINE SULFATE (PD-Rx Pharmaceuticals) 3829e491-b829-29e1-e054-00144ff8d46c
+            MORPHINE SULFATE (PD-Rx Pharmaceuticals) 386cb226-7243-444b-840b-f07b5f174f15
+            MORPHINE SULFATE (PD-Rx Pharmaceuticals) 9f9f5c22-27d8-4a7f-99e3-9c22961c1e14
+            MORPHINE SULFATE (PD-Rx Pharmaceuticals) d7a4a5b2-1dc5-4856-8a22-4f1890ee9f00
+            MORPHINE SULFATE (PD-Rx Pharmaceuticals) f5cc0732-8797-485e-8abd-27dcc91053a4
+            MORPHINE SULFATE (Paddock Laboratories) 3b3146e9-17bc-4b2e-b84b-25f85e055a35
+            MORPHINE SULFATE (Par Pharmaceutical) bcb37ca5-9406-4e5a-bcd4-7e737e403c33
+            MORPHINE SULFATE (Pharmaceutical Associates) 9405556c-20e0-4e47-b1b0-7872bcc6517e
+            MORPHINE SULFATE (Physicians Total Care) 1798cf82-9893-4de2-89a5-2fa4f229a5c5
+            MORPHINE SULFATE (Qualitest Pharmaceuticals) a07378f9-607a-49c6-bdb8-5c8b4ce91a49
+            MORPHINE SULFATE (Ranbaxy Pharmaceuticals) 736c9b80-682c-4cda-bf18-61b18de0bd39
+            MORPHINE SULFATE (RedPharm Drug) 504a340d-2bf8-70b9-e054-00144ff8d46c
+            MORPHINE SULFATE (Rhodes Pharmaceuticals L. P.) 19c7d9cc-6ce2-4c5c-8c3f-c24fd3342804
+            MORPHINE SULFATE (Rhodes Pharmaceuticals L.P.) 673f8acf-1b22-4f0f-8b67-a76e63fdf4c9
+            MORPHINE SULFATE (STAT Rx USA LLC) 225ffea2-7f0e-4340-b39f-4fcad0f545de
+            MORPHINE SULFATE (STAT Rx USA LLC) 8e3ec6c6-7c9d-41ab-ad62-da8d4556f391
+            MORPHINE SULFATE (Safecor Health) d5e29ebe-0e74-4ba7-a16c-e3199cc70c11
+            MORPHINE SULFATE (St Marys Medical Park Pharmacy) 33228f1a-5dea-0e17-e054-00144ff8d46c
+            MORPHINE SULFATE (Tris Pharma) 0b8b655b-3953-4aae-9c00-e307937bd738
+            MORPHINE SULFATE (Tris Pharma) d8598654-94ad-4cfb-81d2-9b68e013a428
+            MORPHINE SULFATE (Upsher-Smith Laboratories) 97948a8f-7d1b-4614-b11d-e944cf56590b
+            MORPHINE SULFATE (VistaPharm) 4a219dac-2007-406e-a7de-e5495c36ac00
+            MORPHINE SULFATE (Watson Laboratories) 0e56601d-1c78-4258-9106-40c19a92cca8
+            MORPHINE SULFATE (Watson Laboratories) 9c0c7c79-48ae-48c6-affb-c48861fce7e8
+            MORPHINE SULFATE (West-Ward Pharmaceuticals Corp.) 6023606c-150c-40c5-9175-598efe2a56c3
+            MORPHINE SULFATE (Zydus Pharmaceuticals (USA)) 7fc20bfa-86c2-40a0-be8e-8f5447bcee44
+            MORPHINE SULFATE EXTENDED RELEASE (bryant ranch prepack) fbfa1874-a710-49da-9e79-56cfaad69080
+            MORPHINE SULFATE EXTENDED-RELEASE (Sun Pharmaceutical Industries) 6208902e-4e2f-4b91-8a24-29f122aa7b24
+            MORPHINE SULFATE ORAL SOLUTION (Nostrum Laboratories) 534cd13c-c067-4fdd-b062-4f3bc2fb222b
+  OTHER     MORPHINE SULFATE (Cantrell Drug Company) 093bee1a-a532-4dc1-83df-c0c5c7cdc58a
+            MORPHINE SULFATE (Cantrell Drug Company) 33a1a27e-da5a-449a-bc7b-a702de0afdaa
+            MORPHINE SULFATE (Cantrell Drug Company) 4f2f2f5f-459b-4fb6-ada3-37a4d52af272
+            MORPHINE SULFATE (Cantrell Drug Company) 6078699c-9461-4641-bd3e-dad62b6db648
+            MORPHINE SULFATE (Cantrell Drug Company) 74b2a815-7751-4c82-8fa7-9f29746940d5
+            MORPHINE SULFATE (Cantrell Drug Company) 8e02a975-cfbf-453e-8552-d30f6291e794
+            MORPHINE SULFATE (Cantrell Drug Company) 911a6b35-cced-417d-91d1-a80db6596e6c
+            MORPHINE SULFATE (Cantrell Drug Company) 95681101-8898-4c77-9ed3-c512647a1597
+            MORPHINE SULFATE (Cantrell Drug Company) a2edd898-1688-436a-ac04-6859fdafa6b9
+            MORPHINE SULFATE (Cantrell Drug Company) cc3600b4-4ac2-4d79-a381-58cebf4d2d3f
+            MORPHINE SULFATE (Cantrell Drug Company) d2f9f46e-c3f6-4926-a72c-c24c9f1510e0
+            MORPHINE SULFATE (Cantrell Drug Company) d3f37738-336f-40e1-a7ee-81cb924b8cd7
+            MORPHINE SULFATE (Cantrell Drug Company) e3baa633-2a3c-458e-961f-9ca03f73648f
+            MORPHINE SULFATE (Cantrell Drug Company) ed9ada68-6104-4b33-866d-76ad768a2ec2
+            MORPHINE SULFATE (Hospira) cadc3fdb-8edc-44cd-aaea-89e68aaf9a04
+            MORPHINE SULFATE (International Medication Systems) e360d6b6-d9ef-487d-bf14-fcbbee8beb29
+            MORPHINE SULFATE (Paddock Laboratories) 649d731b-962a-45df-b043-7e0781e8a530
+FORMULA     (C17H19NO3)2. H2SO4. 5H2O
+EXACT_MASS  758.2932
+MOL_WEIGHT  758.8302
+CLASS       Neuropsychiatric agent
+             DG01564  Opioid receptor agonist
+              DG01563  mu-Opioid receptor agonist
+            Analgesic
+             DG01984  Opioid analgesics
+REMARK      Therapeutic category: 8114
+            ATC code: N02AA01
+            Chemical group: DG00810
+ACTIVITY    Analgesic (narcotic), Opioid receptor agonist
+COMMENT     Opium alkaloid
+TARGET      OPRM1 [HSA:4988] [KO:K04215]
+  PATHWAY   hsa04080(4988)  Neuroactive ligand-receptor interaction
+METABOLISM  Enzyme: UGT [KO:K00699]
+INTERACTION  
+STR_MAP     map07039  Opioid analgesics
+            map07224  Opioid receptor agonists/antagonists
+OTHER_MAP   map05032  Morphine addiction
+BRITE       Anatomical Therapeutic Chemical (ATC) classification [BR:br08303]
+             N NERVOUS SYSTEM
+              N02 ANALGESICS
+               N02A OPIOIDS
+                N02AA Natural opium alkaloids
+                 N02AA01 Morphine
+                  D00842  Morphine sulfate (USP)
+            USP drug classification [BR:br08302]
+             Analgesics
+              Opioid Analgesics, Long-acting
+               Morphine
+                D00842  Morphine sulfate (USP)
+            Therapeutic category of drugs in Japan [BR:br08301]
+             8  Narcotics
+              81  Alkaloidal narcotics
+               811  Opium alkaloids
+                8114  Morphines
+                 D00842  Morphine sulfate (USP); Morphine sulfate hydrate (JP17)
+            Target-based classification of drugs [BR:br08310]
+             G Protein-coupled receptors
+              Rhodopsin family
+               Opioid
+                mu-opioid receptor
+                 Morphine
+                  D00842  Morphine sulfate (USP)
+            Drugs listed in the Japanese Pharmacopoeia [BR:br08311]
+             Chemicals
+              D00842  Morphine sulfate hydrate
+            Phytochemicals used as drugs [BR:br08306]
+             Alkaloids
+              Alkaloids derived from tyrosine
+               Isoquinoline alkaloids
+                D00842  Morphine sulfate hydrate (JAN); Morphine sulfate (USP)
+            Anesthetics, analgesics and anti-inflammatory drugs [br08369.html]
+             Analgesics
+              D00842
+            Orphan drugs in the USA [br08355.html]
+             Orphan drugs in the USA
+              D00842
+DBLINKS     CAS: 6211-15-0
+            PubChem: 7847907
+            ChEBI: 50731
+            ChEMBL: CHEMBL2103744
+            DrugBank: DB00295
+            LigandBox: D00842
+            NIKKAJI: J244.872F
+ATOM        52
+            1   S4a S    29.2515  -20.6431
+            2   O1d O    29.2457  -19.2411
+            3   O1d O    29.2457  -22.0511
+            4   O1d O    27.8437  -20.6374
+            5   O1d O    30.6536  -20.6431
+            6   O0  O    30.0311  -24.2752
+            7   C1z C    18.8784  -23.6206
+            8   C8y C    18.8784  -22.2988
+            9   C1y C    20.0610  -24.3162
+            10  C1y C    17.7653  -24.2467
+            11  C1x C    20.0610  -22.9945
+            12  C8y C    17.7653  -21.6727
+            13  C8y C    20.0610  -21.6727
+            14  C1y C    21.1741  -23.6206
+            15  C2x C    20.0610  -25.5684
+            16  O2x O    16.4436  -22.9248
+            17  C1y C    17.7653  -25.5684
+            18  C1x C    22.2871  -22.9945
+            19  C8y C    17.7653  -20.3509
+            20  C1x C    21.1741  -22.3683
+            21  C8x C    20.0610  -20.3509
+            22  N1y N    22.2871  -24.3162
+            23  C2x C    18.8784  -26.2641
+            24  O1a O    16.6523  -26.2641
+            25  C8x C    18.9480  -19.7249
+            26  O1a O    16.6523  -19.7249
+            27  C1a C    23.6837  -24.3162
+            28  O0  O    30.0311  -24.2752
+            29  O0  O    30.0311  -24.2752
+            30  O0  O    30.0311  -24.2752
+            31  O0  O    30.0311  -24.2752
+            32  C1z C    18.8784  -23.6206
+            33  C8y C    18.8784  -22.2988
+            34  C8y C    17.7653  -21.6727
+            35  C8y C    17.7653  -20.3509
+            36  C8x C    18.9480  -19.7249
+            37  C8x C    20.0610  -20.3509
+            38  C8y C    20.0610  -21.6727
+            39  C1x C    21.1741  -22.3683
+            40  C1y C    21.1741  -23.6206
+            41  C1y C    20.0610  -24.3162
+            42  C2x C    20.0610  -25.5684
+            43  C2x C    18.8784  -26.2641
+            44  C1y C    17.7653  -25.5684
+            45  C1y C    17.7653  -24.2467
+            46  O2x O    16.4436  -22.9248
+            47  O1a O    16.6523  -26.2641
+            48  N1y N    22.2871  -24.3162
+            49  C1x C    22.2871  -22.9945
+            50  C1x C    20.0610  -22.9945
+            51  C1a C    23.6837  -24.3162
+            52  O1a O    16.6523  -19.7249
+BOND        54
+            1     1   2 2
+            2     1   3 2
+            3     1   4 1
+            4     1   5 1
+            5     7   8 1
+            6     7   9 1
+            7     7  10 1
+            8     7  11 1 #Up
+            9     8  12 2
+            10    8  13 1
+            11    9  14 1
+            12    9  15 1
+            13   10  16 1 #Down
+            14   10  17 1
+            15   11  18 1
+            16   12  19 1
+            17   13  20 1
+            18   13  21 2
+            19   14  22 1 #Up
+            20   15  23 2
+            21   17  24 1 #Down
+            22   19  25 2
+            23   19  26 1
+            24   12  16 1
+            25   14  20 1
+            26   17  23 1
+            27   18  22 1
+            28   21  25 1
+            29   22  27 1
+            30   32  33 1
+            31   32  41 1
+            32   32  45 1
+            33   32  50 1 #Up
+            34   33  34 2
+            35   33  38 1
+            36   41  40 1
+            37   41  42 1
+            38   45  46 1 #Down
+            39   45  44 1
+            40   50  49 1
+            41   34  35 1
+            42   38  39 1
+            43   38  37 2
+            44   40  48 1 #Up
+            45   42  43 2
+            46   44  47 1 #Down
+            47   35  36 2
+            48   35  52 1
+            49   34  46 1
+            50   40  39 1
+            51   44  43 1
+            52   49  48 1
+            53   37  36 1
+            54   48  51 1
+BRACKET     1    28.0700  -25.2700   28.0700  -23.2400
+            1    30.4500  -23.2400   30.4500  -25.2700
+            1  5
+  ORIGINAL  1    6
+  REPEAT    1   29  30  31  32
+            2    14.5600  -27.0200   14.5600  -18.6900
+            2    25.4800  -18.6900   25.4800  -27.0200
+            2  2
+  ORIGINAL  2    7   8  12  19  25  21  13  20  14   9  15  23  17  10  16  24
+            2   27  22  18  11  28  26
+  REPEAT    2   33  34  35  36  37  38  39  40  41  42  43  44  45  46  47  48
+            2   49  50  51  52  53  54
+///

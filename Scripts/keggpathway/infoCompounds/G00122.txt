@@ -1,0 +1,35 @@
+ENTRY       G00122                      Glycan
+NAME        GP1c
+COMPOSITION (Gal)2 (GalNAc)1 (Glc)1 (Neu5Ac)5 (Cer)1
+MASS        2145.9 (Cer)
+REACTION    R05955
+PATHWAY     map00604  Glycosphingolipid biosynthesis - ganglio series
+            map01100  Metabolic pathways
+ORTHOLOGY   K00785  beta-galactosamide-alpha-2,3-sialyltransferase [EC:2.4.99.-]
+DBLINKS     CCSD: 6998 27845 29479 33692 35401 35529 36136 37234 41135 42148 44056 44835 50228
+            GlyTouCan: G26203DP
+            JCGGDB: JCGG-STR027098
+            LipidBank: GSG1110
+            GlycoEpitope: EP0032 EP0033
+NODE        10
+            1   Cer        22     0
+            2   Glc        16     0
+            3   Gal        10     0
+            4   GalNAc      2     4
+            5   Neu5Ac      2    -4
+            6   Gal        -6     4
+            7   Neu5Ac     -7    -4
+            8   Neu5Ac    -14     4
+            9   Neu5Ac    -16    -4
+            10  Neu5Ac    -23     4
+EDGE        9
+            1     2:b1    1:1  
+            2     3:b1    2:4  
+            3     4:b1    3:4  
+            4     5:a2    3:3  
+            5     6:b1    4:3  
+            6     7:a2    5:8  
+            7     8:a2    6:3  
+            8     9:a2    7:8  
+            9    10:a2    8:8  
+///

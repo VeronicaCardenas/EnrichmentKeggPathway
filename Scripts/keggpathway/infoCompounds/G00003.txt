@@ -1,0 +1,27 @@
+ENTRY       G00003                      Glycan
+COMPOSITION (GlcNAc)2 (Man)1 (PP-Dol)1
+MASS        568.5 (PP-Dol)
+REMARK      Same as: C05860
+REACTION    R05972 R05973
+PATHWAY     map00510  N-Glycan biosynthesis
+            map01100  Metabolic pathways
+MODULE      M00055  N-glycan precursor biosynthesis
+ENZYME      2.4.1.132       2.4.1.142
+BRITE       Lipids [BR:br08002]
+             PR  Prenol Lipids
+              PR03 Polyprenols
+               PR0309 Dolichol diphosphates
+                C05860  beta-D-Mannosyldiacetylchitobiosyldiphosphodolichol
+DBLINKS     CCSD: 6764 9173 11882 15505 29332 29580 50156
+            GlyTouCan: G65996GC
+            JCGGDB: JCGG-STR024580
+NODE        4
+            1   PP-Dol     13     0
+            2   GlcNAc      5     0
+            3   GlcNAc     -4     0
+            4   Man       -13     0
+EDGE        3
+            1     2:a1    1    
+            2     3:b1    2:4  
+            3     4:b1    3:4  
+///

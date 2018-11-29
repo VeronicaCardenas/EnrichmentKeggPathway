@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TABLE>
+<ENTRY>
+<ID>CHEBI:15812</ID>
+<NAME>dolichyl beta-D-glucosyl phosphate</NAME>
+<DEFINITION>A polyprenyl glycosyl phosphate having dolichyl as the polyprenyl component and β-D-glucose as the glycosyl component.</DEFINITION>
+<STAR>3</STAR>
+<SECONDARY_ID>CHEBI:23880</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:4689</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:14191</SECONDARY_ID>
+<SYNONYM>Dolichyl beta-D-glucosyl phosphate</SYNONYM>
+<IUPAC_NAME>alpha-(3-methylbut-2-en-1-yl)-omega-{4-[(beta-D-glucopyranosyloxy)(hydroxy)phosphoryloxy]-2-methylbutyl}poly[(2E)-2-methylbut-2-ene-1,4-diyl]</IUPAC_NAME>
+<FORMULA>C31H55O9P</FORMULA>
+<MASS>602.73680</MASS>
+<MONOISOTOPIC_MASS>602.358</MONOISOTOPIC_MASS>
+<CHARGE>0</CHARGE>
+<KEGG_COMPOUND_ACCESSION>C01246</KEGG_COMPOUND_ACCESSION>
+<KEGG_GLYCAN_ACCESSION>G10618</KEGG_GLYCAN_ACCESSION>
+</ENTRY>
+</TABLE>

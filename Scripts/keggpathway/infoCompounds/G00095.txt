@@ -1,0 +1,37 @@
+ENTRY       G00095                      Glycan
+NAME        Forssman antigen, IV3GalNAca-Gb4Cer
+COMPOSITION (Gal)2 (GalNAc)2 (Glc)1 (Cer)1
+MASS        892.8 (Cer)
+REMARK      Same as: C04925
+REACTION    R05965 R05966
+PATHWAY     map00603  Glycosphingolipid biosynthesis - globo and isoglobo series
+            map01100  Metabolic pathways
+ENZYME      2.4.1.88        3.2.1.49
+ORTHOLOGY   K00722  globoside alpha-N-acetylgalactosaminyltransferase [EC:2.4.1.88]
+            K01204  alpha-N-acetylgalactosaminidase [EC:3.2.1.49]
+BRITE       Lipids [BR:br08002]
+             SP  Sphingolipids
+              SP05 Neutral glycosphingolipids
+               SP0502 GalNAcb1-3Gala1-4Galb1-4Glc- (Globo series)
+                G00095  GalNAc-alpha1->3GalNAc-beta1->3Gal-alpha1->4Gal-beta1->4Glc-beta1->1'Cer
+            Cancer-accociated carbohydrates [br08441.html]
+             G00095
+DBLINKS     CCSD: 169 702 2606 2615 4868 8266 8597 11589 14429 16336 16359 16871 17109 17688 17701 18550 21032 21075 21139 21301 21350 22097 22222 22737 23030 23867 24127 25276 25305 25310 25325 25544 25554 25583 26056 26271 27275 29415 29956 30835 32052 33108 36465 37064 37269 37841 38026 38041 39524 42664 43017 43466 44691 47206 47569 47662 47765 47976
+            GlyTouCan: G80062GG
+            JCGGDB: JCGG-STR003244
+            LipidBank: GSG1161
+            GlycoEpitope: EP0037
+NODE        6
+            1   Cer        16     0
+            2   Glc        10     0
+            3   Gal         4     0
+            4   Gal        -2     0
+            5   GalNAc     -9     0
+            6   GalNAc    -17     0
+EDGE        5
+            1     2:b1    1:1  
+            2     3:b1    2:4  
+            3     4:a1    3:4  
+            4     5:b1    4:3  
+            5     6:a1    5:3  
+///

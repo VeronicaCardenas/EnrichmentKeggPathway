@@ -1,0 +1,26 @@
+ENTRY       G13041                      Glycan
+COMPOSITION (GalNAc)2 (GlcA)1 (LIdoA)1 (S)3
+MASS        1016.8
+REACTION    R07820 R07821
+PATHWAY     map00531  Glycosaminoglycan degradation
+            map01100  Metabolic pathways
+MODULE      M00076  Dermatan sulfate degradation
+ENZYME      3.1.6.13        3.2.-.-
+DBLINKS     GlyTouCan: G15398PM
+            JCGGDB: JCGG-STR016157
+NODE        7
+            1   GalNAc   16.9  -2.3
+            2   S         9.9   1.7
+            3   GlcA      7.9  -2.3
+            4   GalNAc   -1.1  -2.3
+            5   S        -8.1   1.7
+            6   LIdoA   -10.1  -2.3
+            7   S       -17.1   1.7
+EDGE        6
+            1     2       1:4  
+            2     3:b1    1:3  
+            3     4:b1    3:4  
+            4     5       4:4  
+            5     6:a1    4:3  
+            6     7       6:2  
+///

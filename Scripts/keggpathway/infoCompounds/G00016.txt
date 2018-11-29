@@ -1,0 +1,53 @@
+ENTRY       G00016                      Glycan
+COMPOSITION (GlcNAc)4 (LFuc)1 (Man)3 (Asn)1
+MASS        1445.4 (Asn)
+REACTION    R05988 R05989
+PATHWAY     map00510  N-Glycan biosynthesis
+            map00513  Various types of N-glycan biosynthesis
+            map01100  Metabolic pathways
+MODULE      M00075  N-glycan biosynthesis, complex type
+ENZYME      2.4.1.38        2.4.1.68
+ORTHOLOGY   K00717  glycoprotein 6-alpha-L-fucosyltransferase [EC:2.4.1.68]
+REFERENCE   1  [PMID:7592613]
+            Dell A, Morris HR, Easton RL, Panico M, Patankar M, Oehniger S, Koistinen R, Koistinen H, Seppala M, Clark GF.
+            Structural analysis of the oligosaccharides derived from glycodelin, a human glycoprotein with potent immunosuppressive and contraceptive activities.
+            J. Biol. Chem. 270 (1995) 24116-26.
+            2  [PMID:11343276]
+            Mandal TK, Mukhopadhyay C.
+            Effect of glycosylation on structure and dynamics of MHC class I glycoprotein: a molecular dynamics study.
+            Biopolymers. 59 (2001) 11-23.
+            3  [PMID:12199704]
+            Ikeda K, Yonezawa N, Naoi K, Katsumata T, Hamano S, Nakano M.
+            Localization of N-linked carbohydrate chains in glycoprotein ZPA of the bovine egg zona pellucida.
+            Eur. J. Biochem. 269 (2002) 4257-66.
+            4  [PMID:12485595]
+            Kotra LP, Zhang L, Fridman R, Orlando R, Mobashery S.
+            N-Glycosylation pattern of the zymogenic form of human matrix metalloproteinase-9.
+            Bioorg. Chem. 30 (2002) 356-70.
+            5  [PMID:14559815]
+            Noda K, Miyoshi E, Gu J, Gao CX, Nakahara S, Kitada T, Honke K, Suzuki K, Yoshihara H, Yoshikawa K, Kawano K, Tonetti M, Kasahara A, Hori M, Hayashi N, Taniguchi N.
+            Relationship between elevated FX expression and increased production of GDP-L-fucose, a common donor substrate for fucosylation in human hepatocellular carcinoma and hepatoma cell lines.
+            Cancer. Res. 63 (2003) 6282-9.
+DBLINKS     CCSD: 1570 1571 7158 7778 7779 7780 7782 7783 7785 7786 11920 12791 20455 33018 35219 45820 46611
+            GlyTouCan: G80858MF
+            JCGGDB: JCGG-STR017422
+NODE        9
+            1   Asn        20     3
+            2   GlcNAc     12     3
+            3   LFuc        4     8
+            4   GlcNAc      3    -2
+            5   Man        -5    -2
+            6   Man       -12     3
+            7   Man       -12    -7
+            8   GlcNAc    -20     3
+            9   GlcNAc    -20    -7
+EDGE        8
+            1     2:b1    1    
+            2     3:a1    2:6  
+            3     4:b1    2:4  
+            4     5:b1    4:4  
+            5     6:a1    5:6  
+            6     7:a1    5:3  
+            7     8:b1    6:2  
+            8     9:b1    7:2  
+///

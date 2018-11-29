@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TABLE>
+<ENTRY>
+<ID>CHEBI:15734</ID>
+<NAME>primary alcohol</NAME>
+<DEFINITION>A primary alcohol is a compound in which a hydroxy group, ‒OH, is attached to a saturated carbon atom which has either three hydrogen atoms attached to it or only one other carbon atom and two hydrogen atoms attached to it.</DEFINITION>
+<STAR>3</STAR>
+<SECONDARY_ID>CHEBI:13676</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:8406</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:14887</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:26262</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:57489</SECONDARY_ID>
+<SYNONYM>primary alcohols</SYNONYM>
+<SYNONYM>Primary alcohol</SYNONYM>
+<SYNONYM>a primary alcohol</SYNONYM>
+<SYNONYM>1-Alcohol</SYNONYM>
+<FORMULA>CH3OR</FORMULA>
+<MASS>31.034</MASS>
+<MONOISOTOPIC_MASS>31.018</MONOISOTOPIC_MASS>
+<CHARGE>0</CHARGE>
+<SMILES>*C(O)([H])[H]</SMILES>
+<KEGG_COMPOUND_ACCESSION>C00226</KEGG_COMPOUND_ACCESSION>
+</ENTRY>
+</TABLE

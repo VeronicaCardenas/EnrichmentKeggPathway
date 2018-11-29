@@ -1,0 +1,25 @@
+ENTRY       G13058                      Glycan
+COMPOSITION (Gal)1 (GlcNAc)2 (LFuc)1 (Man)3 (Asn)1
+MASS        1201.1 (Asn)
+REACTION    R09323 R09324
+PATHWAY     map00513  Various types of N-glycan biosynthesis
+            map01100  Metabolic pathways
+ENZYME      2.4.1.-         3.2.1.52
+NODE        8
+            1   Asn      17.6     2
+            2   GlcNAc    9.6     2
+            3   LFuc     -0.4     7
+            4   GlcNAc   -0.4    -3
+            5   Gal      -8.4     7
+            6   Man      -9.4    -3
+            7   Man     -17.4     1
+            8   Man     -17.4    -7
+EDGE        7
+            1     2:b1    1    
+            2     3:a1    2:6  
+            3     4:b1    2:4  
+            4     5:b1    3:4  
+            5     6:b1    4:4  
+            6     7:a1    6:6  
+            7     8:a1    6:3  
+///

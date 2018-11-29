@@ -1,0 +1,55 @@
+ENTRY       G13047                      Glycan
+COMPOSITION (GlcNAc)2 (Man)19 (Asn)1
+MASS        3487.1 (Asn)
+PATHWAY     map00513  Various types of N-glycan biosynthesis
+            map01100  Metabolic pathways
+MODULE      M00074  N-glycan biosynthesis, high-mannose type
+NODE        22
+            1   Asn      44.2  -1.6
+            2   GlcNAc   36.2  -1.6
+            3   GlcNAc   27.2  -1.6
+            4   Man      18.2  -1.6
+            5   Man      10.2   3.4
+            6   Man      10.2  -7.6
+            7   Man       2.2   7.4
+            8   Man       2.2  -0.6
+            9   Man       2.2  -3.6
+            10  Man       2.2 -12.6
+            11  Man      -5.8   7.4
+            12  Man      -5.8  -3.6
+            13  Man      -5.8 -12.6
+            14  Man     -13.8   0.4
+            15  Man     -13.9  -7.6
+            16  Man     -21.8   4.4
+            17  Man     -21.9  -3.6
+            18  Man     -29.8   8.4
+            19  Man     -29.8   0.4
+            20  Man     -37.7   4.4
+            21  Man     -37.8  12.4
+            22  Man     -44.8  12.4
+EDGE        21
+            1     2:b1    1    
+            2     3:b1    2:4  
+            3     4:b1    3:4  
+            4     5:a1    4:6  
+            5     6:a1    4:3  
+            6     7:a1    5:6  
+            7     8:a1    5:3  
+            8     9:a1    6:6  
+            9    10:a1    6:2  
+            10   11:a1    7:2  
+            11   12:a1    9:6  
+            12   13:a1   10:2  
+            13   14:a1   12:6  
+            14   15:a1   12:2  
+            15   16:a1   14:6  
+            16   17:a1   14:2  
+            17   18:a1   16:6  
+            18   19:a1   16:2  
+            19   20:a1   18:2  
+            20   21:a1   18:6  
+            21   22:a1   21:6  
+BRACKET     1 -33.3  14.1 -33.3   8.1
+            1  -2.4  -6.9  -2.4  -0.9
+            1 n
+///

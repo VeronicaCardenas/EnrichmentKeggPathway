@@ -1,0 +1,24 @@
+ENTRY       G00026                      Glycan
+COMPOSITION (Gal)1 (GalNAc)1 (Neu5Ac)1 (Ser/Thr)1
+MASS        656.6 (Ser/Thr)
+REMARK      Same as: C04901
+REACTION    R05913 R05914
+PATHWAY     map00512  Mucin type O-glycan biosynthesis
+            map01100  Metabolic pathways
+ENZYME      2.4.99.3        2.4.99.4
+ORTHOLOGY   K00780  beta-galactoside alpha-2,3-sialyltransferase (sialyltransferase 4A) [EC:2.4.99.4]
+            K03368  beta-galactoside alpha-2,3-sialyltransferase (sialyltransferase 4B) [EC:2.4.99.4]
+            K03479  alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase (sialyltransferase 7A) [EC:2.4.99.3]
+DBLINKS     CCSD: 262 263 265 5185 5186 5207 6812 7887 7889 7895 7973 7980 9120 10716 11752 11808 11809 20286 24979 28181 29174 29484 30519 30790 30865 31656 32381 33078 33773 33950 36235 36455 40726 42378 47201
+            GlyTouCan: G65562ZE
+            JCGGDB: JCGG-STR025535
+NODE        4
+            1   Ser/Thr    14     0
+            2   GalNAc      3     0
+            3   Gal        -6     0
+            4   Neu5Ac    -14     0
+EDGE        3
+            1     2:a1    1    
+            2     3:b1    2:3  
+            3     4:a2    3:3  
+///

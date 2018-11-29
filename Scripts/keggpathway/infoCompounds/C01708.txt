@@ -1,0 +1,12 @@
+ENTRY       C01708                      Compound
+NAME        Hemoglobin
+COMMENT     Generic compound in reaction hierarchy
+REACTION    R03682 R03684
+PATHWAY     map00860  Porphyrin and chlorophyll metabolism
+            map01100  Metabolic pathways
+            map01110  Biosynthesis of secondary metabolites
+DBLINKS     CAS: 9008-02-0
+            PubChem: 4846
+            ChEBI: 5656
+            NIKKAJI: J209.188G
+///

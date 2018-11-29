@@ -1,0 +1,15 @@
+ENTRY       C05785                      Compound
+NAME        Peroxidase
+REACTION    R00314
+PATHWAY     map00860  Porphyrin and chlorophyll metabolism
+BRITE       Risk category of Japanese OTC drugs [BR:br08312]
+             Second-class OTC drugs
+              Not used for human
+               Vitro diagnostics listed below
+                ------  Glucose (sugar in urine) kit (OTC)
+                 C05785  Peroxidase
+DBLINKS     CAS: 9003-99-0
+            PubChem: 8080
+            ChEBI: 8027
+            NIKKAJI: J209.236K
+///

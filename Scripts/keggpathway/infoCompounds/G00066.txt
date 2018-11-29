@@ -1,0 +1,32 @@
+ENTRY       G00066                      Glycan
+NAME        nLc5Cer
+COMPOSITION (Gal)2 (Glc)1 (GlcNAc)2 (Cer)1
+MASS        892.8 (Cer)
+REMARK      Same as: C04938
+REACTION    R05975 R06033
+PATHWAY     map00601  Glycosphingolipid biosynthesis - lacto and neolacto series
+            map01100  Metabolic pathways
+ENZYME      2.4.1.149       2.4.1.-
+BRITE       Lipids [BR:br08002]
+             SP  Sphingolipids
+              SP05 Neutral glycosphingolipids
+               SP0505 Galb1-4GlcNAcb1-3Galb1-4Glc- (Neolacto series)
+                G00066  GlcNAc-beta1->3Gal-beta1->4GlcNAc-beta1->3Gal-beta1->4Glc-beta1->1'Cer (nLc5Cer)
+DBLINKS     CCSD: 8761 16154 16506 18431 18455 18480 21103 22658 31585 37065 37107 37576 38290 41771 44600 47006 48135
+            GlyTouCan: G70874WW
+            JCGGDB: JCGG-STR006200
+            GlycoEpitope: EP0370 EP0371
+NODE        6
+            1   Cer        18     0
+            2   Glc        12     0
+            3   Gal         6     0
+            4   GlcNAc     -2     0
+            5   Gal       -10     0
+            6   GlcNAc    -18     0
+EDGE        5
+            1     2:b1    1:1  
+            2     3:b1    2:4  
+            3     4:b1    3:3  
+            4     5:b1    4:4  
+            5     6:b1    5:3  
+///

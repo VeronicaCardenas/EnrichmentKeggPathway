@@ -1,0 +1,153 @@
+ENTRY       D00346                      Drug
+NAME        Isoniazid (JP17/USP/INN);
+            Laniazid (TN)
+PRODUCT     ISONIAZID (Eon Labs) 1553312b-ed76-421c-a055-2579bdcf366c
+            ISONIAZID (PD-Rx Pharmaceuticals) 401273b6-8ca4-403c-9748-2ac8561c5631
+            ISONIAZID (PD-Rx Pharmaceuticals) aa0f0c68-1fb8-4deb-81c4-2347ab58c061
+            ISONIAZID (Preferred Pharmaceuticals) 66cff57a-9722-40f0-a61a-daa194914542
+            ISONIAZID (REMEDYREPACK) 5c49f029-eda9-4f58-8610-f0851c975d45
+  GENERIC   ISONIAZID (American Health Packaging) 7ad44382-b567-4a7b-be31-7cec23a5d0d4
+            ISONIAZID (Avera McKennan Hospital) d448c193-97c4-433a-9b40-6a31bbf1ed03
+            ISONIAZID (Blenheim Pharmacal) 1169212a-8192-5337-e054-00144ff88e88
+            ISONIAZID (Blenheim Pharmacal) 116d86ea-6a9d-00f3-e054-00144ff88e88
+            ISONIAZID (Blenheim Pharmacal) 7367f8da-1212-4f9e-b854-198dd92bf411
+            ISONIAZID (Bryant Ranch Prepack) 378ff091-8469-48ba-9686-7d41130b65ff
+            ISONIAZID (Bryant Ranch Prepack) 43641090-3e34-4195-81bc-abdbca4b671b
+            ISONIAZID (Bryant Ranch Prepack) 71550f2e-0f61-4bec-9b08-8f534d60c2ab
+            ISONIAZID (Carolina Medical Products Company) db8a3ae7-fb5b-47a9-a9f7-f57cd90501c2
+            ISONIAZID (Clinical Solutions Wholesale) 31a0c06d-6cc2-4f77-909c-9cfc22ed600b
+            ISONIAZID (Contract Pharmacy Services-PA) ec0df56a-7746-45f2-88dc-a975cf48abc9
+            ISONIAZID (Department of State Health Services) 2b87aa05-8028-1b46-e054-00144ff8d46c
+            ISONIAZID (Department of State Health Services) 9461d512-bbb4-4e2f-86f8-6df58cd21a8a
+            ISONIAZID (H.J. Harkins Company) e43d77c2-f7e8-4d84-9425-37adb38410f0
+            ISONIAZID (Lannett Company) 14c12014-c306-4c8e-9b25-72604793ff43
+            ISONIAZID (Liberty Pharmaceuticals) 0013c0c8-513a-48f3-a918-5bc1750c96a7
+            ISONIAZID (Liberty Pharmaceuticals) c50ce37b-c963-4eb0-bc22-8189efca7533
+            ISONIAZID (Major Pharmaceuticals) 43cc6759-3dc6-4a54-a2a1-5afa8ebd76c3
+            ISONIAZID (Marlex Pharmaceuticals) b9e6aa9e-c905-4774-b4d4-ae6acc2f64a1
+            ISONIAZID (Mikart) 0044ca87-ab7e-4955-a77f-e8fd665ce2ae
+            ISONIAZID (Mikart) 38b899c9-1f8b-4260-a9b3-df5f140ee1ba
+            ISONIAZID (Mylan Institutional) 60a6b514-fa7f-4bc7-85b0-e5a14fa56b59
+            ISONIAZID (Northwind Pharmaceuticals) 9c34d487-693b-43e3-803e-45d87425e3d6
+            ISONIAZID (NuCare Pharmaceuticals) 3e8712a3-4554-6efd-e054-00144ff88e88
+            ISONIAZID (PD-Rx Pharmaceuticals) 0c415ff1-e8a9-4c06-aea6-e6d61ab48910
+            ISONIAZID (PD-Rx Pharmaceuticals) 5aa596d6-2a56-4cd3-8318-3ca54711be13
+            ISONIAZID (Physicians Total Care) 63dd70bb-e79b-4fa4-93f1-314440354813
+            ISONIAZID (Preferred Pharmaceuticals) 45df9851-27b4-4cce-aed1-c15314876fc1
+            ISONIAZID (Preferred Pharmaceuticals) e199dbfa-6d79-4c20-9984-9cd0c1907510
+            ISONIAZID (REMEDYREPACK) 0d6be0bf-a451-4cea-ae19-b3869759c59a
+            ISONIAZID (REMEDYREPACK) 370878e2-6122-43c3-be60-76fc15ed78dd
+            ISONIAZID (REMEDYREPACK) 4a91a9e2-d035-4cb3-b32d-13a5d72f0468
+            ISONIAZID (REMEDYREPACK) 5c40e41f-6401-4bda-975c-e1fac69867e9
+            ISONIAZID (Rebel Distributors Corp) c42a2926-8542-49aa-b61b-19a19a31bcb4
+            ISONIAZID (STAT RX USA LLC) 42602989-2a6d-4df6-ac41-780c1aa724ae
+            ISONIAZID (Sandoz) 77795c31-1cdf-4a20-b4a1-cd15f5b310f1
+            ISONIAZID (State of Florida DOH Central Pharmacy) fdc162f2-67c5-4e36-9832-cf48e05b6ed1
+            ISONIAZID (Teva Pharmaceuticals USA) 9499f1cf-2f46-4047-8b71-90aee7dee854
+            ISONIAZID (VersaPharm Incorporated) 1247f0c8-25be-49b0-96e1-22b1cf50dc00
+            ISONIAZID (West-Ward Pharmaceuticals Corp) 5ab01773-d1e4-4b87-884a-9e5b3f13bdcb
+FORMULA     C6H7N3O
+EXACT_MASS  137.0589
+MOL_WEIGHT  137.1393
+CLASS       Antibacterial
+             DG01966  Antitubercular
+            Neuropsychiatric agent
+             DG01568  MAO inhibitor
+              DG01519  Non-selective monoamine oxidase inhibitor
+            Cyp inhibitor
+             DG01643  CYP2C9 inhibitor
+             DG01522  CYP3A4 inhibitor
+            Cyp inducer
+             DG01635  CYP3A4 inducer
+REMARK      Same as: C07054
+            Therapeutic category: 6222
+            ATC code: J04AC01
+            Chemical group: DG00642
+ACTIVITY    Antibacterial (tuberculostatic)
+COMMENT     Hydrazide
+TARGET      enoyl-[acyl-carrier-protein] reductase (NADH) [KO:K11611];
+            MAO [HSA:4128 4129] [KO:K00274]
+INTERACTION CYP induction: CYP2E1 [HSA:1571]
+            CYP inhibition: CYP2C9 [HSA:1559], CYP3A [HSA:1576 1577 1551]
+STR_MAP     map07216  Catecholamine transferase inhibitors
+OTHER_MAP   map00983  Drug metabolism - other enzymes
+BRITE       Anatomical Therapeutic Chemical (ATC) classification [BR:br08303]
+             J ANTIINFECTIVES FOR SYSTEMIC USE
+              J04 ANTIMYCOBACTERIALS
+               J04A DRUGS FOR TREATMENT OF TUBERCULOSIS
+                J04AC Hydrazides
+                 J04AC01 Isoniazid
+                  D00346  Isoniazid (JP17/USP/INN)
+            USP drug classification [BR:br08302]
+             Antimycobacterials
+              Antituberculars
+               Isoniazid
+                D00346  Isoniazid (JP17/USP/INN)
+            Therapeutic category of drugs in Japan [BR:br08301]
+             6  Agents against pathologic organisms and parasites
+              62  Chemotherapeutics
+               622  Tuberculosis preparations
+                6222  Isoniazids
+                 D00346  Isoniazid (JP17/USP/INN)
+            Target-based classification of drugs [BR:br08310]
+             Enzymes
+              Oxidoreductases
+               monoamine oxidase (MAO)
+                Isoniazid
+                 D00346  Isoniazid (JP17/USP/INN)
+            Antiinfectives [BR:br08307]
+             Antibacterials
+              Others
+               enoyl-[acyl-carrier-protein] reductase (NADH) inhibitor
+                Isoniazid
+                 D00346  Isoniazid (JP17/USP/INN)
+            Cytochrome P450 interactions [BR:br08309]
+             CYP inhbitors
+              CYP2C9
+               Isoniazid
+                D00346  Isoniazid (JP17/USP/INN)
+              CYP3A
+               Isoniazid
+                D00346  Isoniazid (JP17/USP/INN)
+             CYP inducers
+              CYP2E1
+               Isoniazid
+                D00346  Isoniazid (JP17/USP/INN)
+            Drugs listed in the Japanese Pharmacopoeia [BR:br08311]
+             Chemicals
+              D00346  Isoniazid
+              D00346  Isoniazid tablets
+              D00346  Isoniazid injection
+            Antibacterials [br08350.html]
+             D00346
+DBLINKS     CAS: 54-85-3
+            PubChem: 7847412
+            ChEBI: 6030
+            ChEMBL: CHEMBL64
+            DrugBank: DB00951
+            PDB-CCD: NIZ
+            LigandBox: D00346
+            NIKKAJI: J1.371D
+ATOM        10
+            1   C8y C    22.4877  -16.7300
+            2   C5a C    23.6995  -17.4291
+            3   C8x C    21.2816  -17.4291
+            4   C8x C    22.4877  -15.3316
+            5   N1b N    24.9115  -16.7300
+            6   O5a O    23.6995  -18.8275
+            7   C8x C    20.0638  -16.7300
+            8   C8x C    21.2816  -14.6266
+            9   N1a N    26.1293  -17.4291
+            10  N5x N    20.0638  -15.3316
+BOND        10
+            1     1   2 1
+            2     1   3 2
+            3     1   4 1
+            4     2   5 1
+            5     2   6 2
+            6     3   7 1
+            7     4   8 2
+            8     5   9 1
+            9     7  10 2
+            10    8  10 1
+///

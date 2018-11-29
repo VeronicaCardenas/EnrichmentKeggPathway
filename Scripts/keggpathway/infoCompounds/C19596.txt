@@ -1,0 +1,8 @@
+ENTRY       C19596                      Compound
+NAME        Lipooligosaccharide;
+            LOS
+PATHWAY     map01503  Cationic antimicrobial peptide (CAMP) resistance
+            map05133  Pertussis
+DBLINKS     PubChem: 124490267
+            ChEBI: 35371
+///

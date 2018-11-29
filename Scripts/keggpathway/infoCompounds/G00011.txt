@@ -1,0 +1,42 @@
+ENTRY       G00011                      Glycan
+COMPOSITION (GlcNAc)2 (Man)9 (Asn)1
+MASS        1865.7 (Asn)
+REACTION    R05981 R05982 R06722 R06986
+PATHWAY     map00510  N-Glycan biosynthesis
+            map00513  Various types of N-glycan biosynthesis
+            map01100  Metabolic pathways
+            map04141  Protein processing in endoplasmic reticulum
+MODULE      M00073  N-glycan precursor trimming
+            M00074  N-glycan biosynthesis, high-mannose type
+ENZYME      2.4.1.232       3.2.1.84        3.2.1.113
+ORTHOLOGY   K01230  mannosyl-oligosaccharide alpha-1,2-mannosidase [EC:3.2.1.113]
+            K05546  alpha 1,3-glucosidase [EC:3.2.1.84]
+DBLINKS     CCSD: 1895 1896 1897 1898 1900 1901 2919 2920 2921 3902 5080 5081 6013 6582 6605 6625 7720 7721 7722 7723 7724 7725 8439 11438 13811 14024 14083 16085 21472 21761 22616 24195 25657 26841 29116 29979 30024 30472 31276 33149 33196 34436 35743 36540 36560 37918 38412 38427 38432 38473 38697 39400 40318 41428 41486 41789 41790 43569 43665 44649 45833 45908 47648 50130 50777
+            GlyTouCan: G60230HH
+            JCGGDB: JCGG-STR015500
+NODE        12
+            1   Asn        24    -2
+            2   GlcNAc     14    -2
+            3   GlcNAc      5    -2
+            4   Man        -3    -2
+            5   Man       -10     5
+            6   Man       -10    -9
+            7   Man       -17    10
+            8   Man       -17     0
+            9   Man       -17    -9
+            10  Man       -24    10
+            11  Man       -24     0
+            12  Man       -24    -9
+EDGE        11
+            1     2:b1    1    
+            2     3:b1    2:4  
+            3     4:b1    3:4  
+            4     5:a1    4:6  
+            5     6:a1    4:3  
+            6     7:a1    5:6  
+            7     8:a1    5:3  
+            8     9:a1    6:2  
+            9    10:a1    7:2  
+            10   11:a1    8:2  
+            11   12:a1    9:2  
+///

@@ -1,0 +1,17 @@
+ENTRY       G13100                      Glycan
+COMPOSITION (Gal)1 (GlcNAc)1 (LFuc)1 (Man)1 (Ser/Thr)1
+MASS        673.6 (Ser/Thr)
+PATHWAY     map00515  Mannose type O-glycan biosynthesis
+            map01100  Metabolic pathways
+NODE        5
+            1   Ser/Thr  14.9   2.6
+            2   Man       5.5   2.6
+            3   GlcNAc   -5.1   2.6
+            4   LFuc    -14.4  -2.4
+            5   Gal     -14.7   2.6
+EDGE        4
+            1     2:a1    1    
+            2     3:b1    2:2  
+            3     4:a1    3:3  
+            4     5:b1    3:4  
+///

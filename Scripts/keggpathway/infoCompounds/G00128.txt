@@ -1,0 +1,36 @@
+ENTRY       G00128                      Glycan
+NAME        GT1aalpha
+COMPOSITION (Gal)2 (GalNAc)1 (Glc)1 (Neu5Ac)3 (Cer)1
+MASS        1563.4 (Cer)
+REACTION    R05945
+PATHWAY     map00604  Glycosphingolipid biosynthesis - ganglio series
+            map01100  Metabolic pathways
+ORTHOLOGY   K00785  beta-galactosamide-alpha-2,3-sialyltransferase [EC:2.4.99.-]
+            K03376  N-acetylgalactosaminide alpha-2,6-sialyltransferase (sialyltransferase 7F) [EC:2.4.99.-]
+REFERENCE   1  [PMID:3384822]
+            Nakamura K, Inagaki F, Tamai Y.
+            A novel ganglioside in dogfish brain. Occurrence of a trisialoganglioside with a sialic acid linked to N-acetylgalactosamine.
+            J. Biol. Chem. 263 (1988) 9896-900.
+DBLINKS     CCSD: 1374 1375 6592 17779 21377 33113 44855 46831 47971
+            GlyTouCan: G02149VR
+            JCGGDB: JCGG-STR014592
+            LipidBank: GSG1085 GSG3048
+            GlycoEpitope: EP0111
+NODE        8
+            1   Cer        17    -2
+            2   Glc        11    -2
+            3   Gal         5    -2
+            4   GalNAc     -3     2
+            5   Neu5Ac     -3    -6
+            6   Gal       -11    -2
+            7   Neu5Ac    -12     6
+            8   Neu5Ac    -18    -2
+EDGE        7
+            1     2:b1    1:1  
+            2     3:b1    2:4  
+            3     4:b1    3:4  
+            4     5:a2    3:3  
+            5     6:b1    4:3  
+            6     7:a2    4:6  
+            7     8:a2    6:3  
+///

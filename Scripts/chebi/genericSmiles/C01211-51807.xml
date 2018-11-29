@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TABLE>
+<ENTRY>
+<ID>CHEBI:51807</ID>
+<NAME>procollagen 5-hydroxy-L-lysine</NAME>
+<STAR>3</STAR>
+<SECONDARY_ID>CHEBI:8441</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:14890</SECONDARY_ID>
+<SYNONYM>Procollagen L-erythro-5-hydroxylysine</SYNONYM>
+<SYNONYM>Procollagen L-erythro-5-hydroxy-L-lysine</SYNONYM>
+<SYNONYM>procollagen 5-hydroxy-L-lysine</SYNONYM>
+<SYNONYM>Procollagen 5-hydroxy-L-lysine</SYNONYM>
+<SYNONYM>(2S,5R)- 5-hydroxy-L-lysine-[procollagen]</SYNONYM>
+<FORMULA>C7H13N3O3</FORMULA>
+<MASS>187.19640</MASS>
+<MONOISOTOPIC_MASS>187.096</MONOISOTOPIC_MASS>
+<CHARGE>0</CHARGE>
+<KEGG_COMPOUND_ACCESSION>C01211</KEGG_COMPOUND_ACCESSION>
+</ENTRY>
+</TABLE>

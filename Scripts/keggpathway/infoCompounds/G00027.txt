@@ -1,0 +1,31 @@
+ENTRY       G00027                      Glycan
+COMPOSITION (Gal)1 (GalNAc)1 (Neu5Ac)2 (Ser/Thr)1
+MASS        947.9 (Ser/Thr)
+REACTION    R05914
+PATHWAY     map00512  Mucin type O-glycan biosynthesis
+            map01100  Metabolic pathways
+ENZYME      2.4.99.3
+ORTHOLOGY   K03479  alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase (sialyltransferase 7A) [EC:2.4.99.3]
+REFERENCE   1  [PMID:7509790]
+            Saito S, Levery SB, Salyan ME, Goldberg RI, Hakomori S.
+            Common tetrasaccharide epitope NeuAc alpha 2-->3Gal beta 1-->3(Neu-Ac alpha 2-->6)GalNAc, presented by different carrier glycosylceramides or O-linked peptides, is recognized by different antibodies and ligands having distinct specificities.
+            J. Biol. Chem. 269 (1994) 5644-52.
+            2  [PMID:14631106]
+            Wu AM.
+            Carbohydrate structural units in glycoproteins and polysaccharides as important ligands for Gal and GalNAc reactive lectins.
+            J. Biomed. Sci. 10 (2003) 676-88.
+DBLINKS     CCSD: 600 601 602 604 605 606 607 608 610 611 612 3749 4200 4672 5161 5215 6813 7930 7941 7942 7948 7951 7953 8011 8012 8013 8014 8015 8016 8017 8018 8019 9121 13281 13571 14271 14272 18996 21557 22442 22443 22747 22750 23361 24978 29113 30507 32382 32428 32429 35081 35742 35990 36195 40320 41469 42351 42377 44021 46409 46758 46759 46760 46761 46762 46763 46764 46765 46766 47200 48731
+            GlyTouCan: G01614ZM
+            JCGGDB: JCGG-STR026341
+NODE        5
+            1   Ser/Thr    13     0
+            2   GalNAc      3     0
+            3   Gal        -5    -4
+            4   Neu5Ac     -6     4
+            5   Neu5Ac    -13    -4
+EDGE        4
+            1     2:a1    1    
+            2     3:b1    2:3  
+            3     4:a2    2:6  
+            4     5:a2    3:3  
+///

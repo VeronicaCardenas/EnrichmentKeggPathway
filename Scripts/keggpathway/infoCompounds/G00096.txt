@@ -1,0 +1,23 @@
+ENTRY       G00096                      Glycan
+NAME        IV3GalNAcb-Gb4Cer
+COMPOSITION (Gal)2 (GalNAc)2 (Glc)1 (Cer)1
+MASS        892.8 (Cer)
+PATHWAY     map00603  Glycosphingolipid biosynthesis - globo and isoglobo series
+DBLINKS     CCSD: 784 785 15643 15727 16333 17356 19327 21094 23033 23092 27462 29648 47766
+            GlyTouCan: G51699SI
+            JCGGDB: JCGG-STR026482
+            LipidBank: GSG1338
+NODE        6
+            1   Cer        16     0
+            2   Glc        10     0
+            3   Gal         4     0
+            4   Gal        -2     0
+            5   GalNAc     -9     0
+            6   GalNAc    -17     0
+EDGE        5
+            1     2:b1    1:1  
+            2     3:b1    2:4  
+            3     4:a1    3:4  
+            4     5:b1    4:3  
+            5     6:b1    5:3  
+///

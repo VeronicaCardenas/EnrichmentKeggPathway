@@ -1,0 +1,16 @@
+ENTRY       G13084                      Glycan
+NAME        O-Mannose core M1
+COMPOSITION (Gal)1 (GlcNAc)1 (Man)1 (Ser/Thr)1
+MASS        527.5 (Ser/Thr)
+PATHWAY     map00515  Mannose type O-glycan biosynthesis
+            map01100  Metabolic pathways
+NODE        4
+            1   Ser/Thr  14.3  -0.3
+            2   Man       4.9  -0.3
+            3   GlcNAc   -5.7  -0.3
+            4   Gal     -15.3  -0.3
+EDGE        3
+            1     2:a1    1    
+            2     3:b1    2:2  
+            3     4:b1    3:4  
+///

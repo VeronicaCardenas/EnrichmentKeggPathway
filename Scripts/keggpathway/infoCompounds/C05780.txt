@@ -1,0 +1,7 @@
+ENTRY       C05780                      Compound
+NAME        Apotransferrin
+REACTION    R04124 R04155
+PATHWAY     map00860  Porphyrin and chlorophyll metabolism
+DBLINKS     PubChem: 8075
+            ChEBI: 2786
+///

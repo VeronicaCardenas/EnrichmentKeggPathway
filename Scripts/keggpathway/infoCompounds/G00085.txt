@@ -1,0 +1,39 @@
+ENTRY       G00085                      Glycan
+COMPOSITION (Gal)4 (Glc)1 (GlcNAc)3 (LFuc)2 (Cer)1
+MASS        1712.6 (Cer)
+REACTION    R06222 R06224
+PATHWAY     map00601  Glycosphingolipid biosynthesis - lacto and neolacto series
+ENZYME      2.4.1.-
+REFERENCE   1  [PMID:3164721]
+            Macher BA, Buehler J, Scudder P, Knapp W, Feizi T.
+            A novel carbohydrate, differentiation antigen on fucogangliosides of human myeloid cells recognized by monoclonal antibody VIM-2.
+            J. Biol. Chem. 263 (1988) 10186-91.
+DBLINKS     CCSD: 1774 1775 9305 20734 25851
+            GlyTouCan: G52160KJ
+            JCGGDB: JCGG-STR025390
+            LipidBank: GSG1402
+            GlycoEpitope: EP0011 EP0042
+NODE        11
+            1   Cer        27    -2
+            2   Glc        21    -2
+            3   Gal        15    -2
+            4   GlcNAc      8    -2
+            5   Gal         1    -2
+            6   GlcNAc     -6    -2
+            7   Gal       -13     2
+            8   LFuc      -13    -6
+            9   GlcNAc    -20     2
+            10  Gal       -27     6
+            11  LFuc      -27    -2
+EDGE        10
+            1     2:b1    1:1  
+            2     3:b1    2:4  
+            3     4:b1    3:3  
+            4     5:b1    4:4  
+            5     6:b1    5:3  
+            6     7:b1    6:4  
+            7     8:a1    6:3  
+            8     9:b1    7:3  
+            9    10:b1    9:4  
+            10   11:a1    9:3  
+///

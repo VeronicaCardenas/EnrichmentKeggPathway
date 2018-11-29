@@ -1,0 +1,31 @@
+ENTRY       G00170                      Glycan
+NAME        9-O-Acetylated GT3;
+            9-O-Ac-GT3
+COMPOSITION (Gal)1 (Glc)1 (Neu5Ac)2 (Neu5Ac9Ac)1 (Cer)1
+MASS        1240.1 (Cer)
+PATHWAY     map00604  Glycosphingolipid biosynthesis - ganglio series
+            map01100  Metabolic pathways
+ORTHOLOGY   K03372  MFS transporter, PAT family, solute carrier family 33 (acetyl-CoA transportor), member 1 [EC:2.3.1.-]
+REFERENCE   1  [PMID:12374193]
+            Kohla G, Stockfleth E, Schauer R.
+            Gangliosides with O-acetylated sialic acids in tumors of neuroectodermal origin.
+            Neurochem. Res. 27 (2002) 583-92.
+DBLINKS     CCSD: 31904 47634
+            GlyTouCan: G94547EX
+            JCGGDB: JCGG-STR031342
+            LipidBank: GSG1135
+            GlycoEpitope: EP0065
+NODE        6
+            1   Cer        22     0
+            2   Glc        15     0
+            3   Gal         8     0
+            4   Neu5Ac     -1     0
+            5   Neu5Ac    -11     0
+            6   Neu5Ac9Ac   -22     0
+EDGE        5
+            1     2:b1    1:1  
+            2     3:b1    2:4  
+            3     4:a2    3:3  
+            4     5:a2    4:8  
+            5     6:a2    5:8  
+///

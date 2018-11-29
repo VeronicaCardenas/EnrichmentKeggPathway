@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<TABLE>
+<ENTRY>
+<ID>CHEBI:18337</ID>
+<NAME>5-amino-6-(5-phospho-beta-D-ribosylamino)uracil</NAME>
+<DEFINITION>An N-glycosyl compound that consists of 5,6-diaminouracil in which one of the hydrogens on the 6-amino function is substituted by a 5-phospho-β-D-ribosyl residue.</DEFINITION>
+<STAR>3</STAR>
+<SECONDARY_ID>CHEBI:12108</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:2032</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:20546</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:59550</SECONDARY_ID>
+<SYNONYM>5-Amino-6-(ribosylamino)-2,4-(1H,3H)-pyrimidinedione 5'-phosphate</SYNONYM>
+<SYNONYM>5-Amino-6-(5-phosphoribosylamino)uracil</SYNONYM>
+<SYNONYM>5-Amino-6-(5'-phosphoribosylamino)uracil</SYNONYM>
+<IUPAC_NAME>N-(5-amino-2,6-dioxo-1,2,3,6-tetrahydropyrimidin-4-yl)-beta-D-ribofuranosylamine 5-(dihydrogen phosphate)</IUPAC_NAME>
+<IUPAC_NAME>N-(5-amino-2,6-dioxo-1,2,3,6-tetrahydropyrimidin-4-yl)-5-O-phosphono-beta-D-ribofuranosylamine</IUPAC_NAME>
+<FORMULA>C9H15N4O9P</FORMULA>
+<MASS>354.21060</MASS>
+<MONOISOTOPIC_MASS>354.058</MONOISOTOPIC_MASS>
+<CHARGE>0</CHARGE>
+<SMILES>Nc1c(N[C@@H]2O[C@H](COP(O)(O)=O)[C@@H](O)[C@H]2O)[nH]c(=O)[nH]c1=O</SMILES>
+<INCHI>InChI=1S/C9H15N4O9P/c10-3-6(12-9(17)13-7(3)16)11-8-5(15)4(14)2(22-8)1-21-23(18,19)20/h2,4-5,8,14-15H,1,10H2,(H2,18,19,20)(H3,11,12,13,16,17)/t2-,4-,5-,8-/m1/s1</INCHI>
+<INCHIKEY>LZEXYCAGPMYXLX-UMMCILCDSA-N</INCHIKEY>
+<KEGG_COMPOUND_ACCESSION>C01268</KEGG_COMPOUND_ACCESSION>
+<KNAPSACK_ACCESSION>C00019665</KNAPSACK_ACCESSION>
+</ENTRY>
+</TABLE>

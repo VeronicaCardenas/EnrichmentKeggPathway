@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<TABLE>
+<ENTRY>
+<ID>CHEBI:16466</ID>
+<NAME>3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-26-al</NAME>
+<DEFINITION>A cholestanoid that is 5β-cholestan-26-al substituted by hydroxy groups at positions 3, 7 and 12 respectively.</DEFINITION>
+<STAR>3</STAR>
+<SECONDARY_ID>CHEBI:1696</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:20218</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:11896</SECONDARY_ID>
+<SYNONYM>3alpha,7alpha,12alpha-Trihydroxy-5beta-cholestan-26-al</SYNONYM>
+<SYNONYM>3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-26-al</SYNONYM>
+<SYNONYM>3-alpha,7-alpha,12-alpha-trihydroxy-5-beta-cholestan-26-al</SYNONYM>
+<SYNONYM>3,7,12-trihydroxycholestan-26-al</SYNONYM>
+<SYNONYM>(3alpha,5beta,7alpha,12alpha)-3,7,12-trihydroxycholestan-26-al</SYNONYM>
+<IUPAC_NAME>3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-26-al</IUPAC_NAME>
+<FORMULA>C27H46O4</FORMULA>
+<MASS>434.65174</MASS>
+<MONOISOTOPIC_MASS>434.340</MONOISOTOPIC_MASS>
+<CHARGE>0</CHARGE>
+<SMILES>[H]C(=O)C(C)CCC[C@@H](C)[C@@]1([H])CC[C@@]2([H])[C@]3([H])[C@H](O)C[C@]4([H])C[C@H](O)CC[C@]4(C)[C@@]3([H])C[C@H](O)[C@]12C</SMILES>
+<INCHI>InChI=1S/C27H46O4/c1-16(15-28)6-5-7-17(2)20-8-9-21-25-22(14-24(31)27(20,21)4)26(3)11-10-19(29)12-18(26)13-23(25)30/h15-25,29-31H,5-14H2,1-4H3/t16?,17-,18+,19-,20-,21+,22+,23-,24+,25+,26+,27-/m1/s1</INCHI>
+<INCHIKEY>USFJGINJGUIFSY-XZULNKEGSA-N</INCHIKEY>
+<CAS_REGISTRY_NUMBER>3836-01-9</CAS_REGISTRY_NUMBER>
+<CHEMIDPLUS>3836-01-9</CHEMIDPLUS>
+<KEGG_COMPOUND_ACCESSION>C01301</KEGG_COMPOUND_ACCESSION>
+<LIPID_MAPS_INSTANCE_ACCESSION>LMST04030164</LIPID_MAPS_INSTANCE_ACCESSION>
+</ENTRY>
+</TABLE>

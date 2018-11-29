@@ -1,0 +1,92 @@
+ENTRY       D00536                      Drug
+NAME        Felbamate (USAN/INN);
+            Felbatol (TN)
+PRODUCT     FELBATOL (Meda Pharmaceuticals) 2f522701-397a-11de-8a39-0800200c9a66
+  GENERIC   FELBAMATE (Alvogen) 44c7016a-8bdd-ff7e-b0c2-14113c3bfaac
+            FELBAMATE (Amneal Pharmaceuticals LLC) 2e325d79-d0a4-4af7-b09b-96ee5a5b2a37
+            FELBAMATE (Amneal Pharmaceuticals LLC) aa3fd2c0-98d6-45f3-81b0-a902526214c6
+            FELBAMATE (Cadila Healthcare Limited) efa55cb2-b625-4392-9ddb-0a8ad8ee58c4
+            FELBAMATE (Carilion Materials Management) ce919497-c2f3-4362-bfb7-cf4e82e10a5c
+            FELBAMATE (CorePharma) 5d5872e9-2e06-445c-98f8-75a636f3b8e9
+            FELBAMATE (Impax Generics) 255768e3-c7a6-476f-a88b-47a830881f46
+            FELBAMATE (Marlex Pharmaceuticals) 0a82bcc3-0420-45f5-8c5c-44ab378b4ff3
+            FELBAMATE (Mylan Pharmaceuticals) 37946045-ed2a-4f52-a55f-6ee0a4161c7d
+            FELBAMATE (Taro Pharmaceuticals U.S.A.) 0afffb17-e6ac-4bea-a90e-7ef3c8150290
+            FELBAMATE (Taro Pharmaceuticals U.S.A.) f2edb3ed-da20-4093-88ea-00fe781e47e0
+            FELBAMATE (Wallace Pharmaceuticals) c0c15d60-1171-11e1-9be0-0002a5d5c51b
+            FELBAMATE (Zydus Pharmaceuticals (USA)) 781a756e-367d-41b7-a149-73a621f29463
+FORMULA     C11H14N2O4
+EXACT_MASS  238.0954
+MOL_WEIGHT  238.2399
+CLASS       Cyp inhibitor
+             DG01933  CYP2C19 inhibitor
+REMARK      Same as: C07501
+            ATC code: N03AX10
+ACTIVITY    Antiepileptic
+INTERACTION CYP inhibition: CYP2C19 [HSA:1557]
+STR_MAP     map07033  Anticonvulsants
+OTHER_MAP   map00982  Drug metabolism - cytochrome P450
+BRITE       Anatomical Therapeutic Chemical (ATC) classification [BR:br08303]
+             N NERVOUS SYSTEM
+              N03 ANTIEPILEPTICS
+               N03A ANTIEPILEPTICS
+                N03AX Other antiepileptics
+                 N03AX10 Felbamate
+                  D00536  Felbamate (USAN/INN)
+            USP drug classification [BR:br08302]
+             Anticonvulsants
+              Glutamate Reducing Agents
+               Felbamate
+                D00536  Felbamate (USAN/INN)
+            Cytochrome P450 interactions [BR:br08309]
+             CYP inhbitors
+              CYP2C19
+               Felbamate
+                D00536  Felbamate (USAN/INN)
+            Orphan drugs in the USA [br08355.html]
+             Orphan drugs in the USA
+              D00536
+DBLINKS     CAS: 25451-15-4
+            PubChem: 7847602
+            ChEBI: 4995
+            ChEMBL: CHEMBL1094
+            DrugBank: DB00949
+            LigandBox: D00536
+            NIKKAJI: J50.906J
+ATOM        17
+            1   C1c C    22.8142  -18.8475
+            2   C8y C    22.8258  -17.4532
+            3   C1b C    21.6008  -19.5416
+            4   C1b C    24.0275  -19.5476
+            5   C8x C    21.6125  -16.7475
+            6   C8x C    24.0392  -16.7532
+            7   O7a O    20.3933  -18.8416
+            8   O7a O    25.2408  -18.8533
+            9   C8x C    21.6125  -15.3417
+            10  C8x C    24.0450  -15.3474
+            11  C7a C    19.1800  -19.5300
+            12  C7a C    26.4543  -19.5533
+            13  C8x C    22.8317  -14.6474
+            14  N1a N    17.9724  -18.8359
+            15  O6a O    19.1741  -20.9359
+            16  N1a N    27.6618  -18.8592
+            17  O6a O    26.4543  -20.9593
+BOND        17
+            1     1   2 1
+            2     1   3 1
+            3     1   4 1
+            4     2   5 2
+            5     2   6 1
+            6     3   7 1
+            7     4   8 1
+            8     5   9 1
+            9     6  10 2
+            10    7  11 1
+            11    8  12 1
+            12    9  13 2
+            13   11  14 1
+            14   11  15 2
+            15   12  16 1
+            16   12  17 2
+            17   10  13 1
+///

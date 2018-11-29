@@ -1,0 +1,87 @@
+ENTRY       D00275                      Drug
+NAME        Cisplatin (JP17/USP/INN);
+            Platinol (TN)
+PRODUCT     PLATINOL-AQ (Corden Pharma Latina S.p.A.) a043dd33-3d1d-4884-bb75-80f221e749ba
+            PLATINOL (Corden Pharma Latina S.p.A.) b2a8e240-5e93-4a58-9ba2-688a87a5e20c
+            CISPLATIN (WG Critical Care) 2bf8d2fb-80c8-401d-8e9b-d58463f5e954
+  GENERIC   CISPLATIN (Accord Healthcare) b2b029f5-0d7e-4e7f-accc-b722aec34c68
+            CISPLATIN (Alvogen) 61fc9585-d1db-6c41-eb05-8c96d811b2ec
+            CISPLATIN (Athenex Pharmaceutical Division) b822ef6e-fb50-4c86-843e-d656e38872d1
+            CISPLATIN (BluePoint Laboratories) a60c5173-6bc0-4c9d-9674-b3f4d68f79ba
+            CISPLATIN (Fresenius Kabi USA) de6302d5-85f0-4116-a709-57826c2c84fe
+            CISPLATIN (Gland Pharma Limited) a32820f7-9ff6-4c13-a96a-4483a943fe82
+            CISPLATIN (Mylan Institutional LLC) 64975f5d-0eca-4998-8a72-06eec98285eb
+            CISPLATIN (Pfizer Laboratories Div Pfizer) 199a6ab3-9b00-49fc-90d4-644d58141235
+            CISPLATIN (Teva Parenteral Medicines) a440f077-46f6-4688-a209-65bce38d1c92
+FORMULA     PtCl2. 2NH3
+EXACT_MASS  298.9556
+MOL_WEIGHT  300.051
+CLASS       Antineoplastic
+             DG01679  Platinum compound
+REMARK      Same as: C06911
+            Therapeutic category: 4291
+            ATC code: L01XA01
+            Chemical group: DG02146
+ACTIVITY    Antineoplastic, Cell growth inhibitor
+  DISEASE   Bladder cancer [DS:H00022]
+COMMENT     platinum compound
+            DNA alkylator
+TARGET      DNA
+METABOLISM  Transporter: SLC22A2 [HSA:6582]
+INTERACTION Genomic biomarker: TPMT [HSA:7172]
+STR_MAP     map07040  Antineoplastics - alkylating agents
+OTHER_MAP   map01524  Platinum drug resistance
+BRITE       Anatomical Therapeutic Chemical (ATC) classification [BR:br08303]
+             L ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS
+              L01 ANTINEOPLASTIC AGENTS
+               L01X OTHER ANTINEOPLASTIC AGENTS
+                L01XA Platinum compounds
+                 L01XA01 Cisplatin
+                  D00275  Cisplatin (JP17/USP/INN)
+            Therapeutic category of drugs in Japan [BR:br08301]
+             4  Agents affecting cellular function
+              42  Antineoplastics
+               429  Miscellaneous
+                4291  Other Antitumors
+                 D00275  Cisplatin (JP17/USP/INN)
+            Target-based classification of drugs [BR:br08310]
+             Others
+              Nucleic acid
+               DNA
+                Cisplatin
+                 D00275  Cisplatin (JP17/USP/INN)
+            Cytochrome P450 interactions [BR:br08309]
+             Transporter substrates
+              SLC22A2
+               Cisplatin
+                D00275  Cisplatin (JP17/USP/INN)
+              MATE1
+               Cisplatin
+                D00275  Cisplatin (JP17/USP/INN)
+              MATE2
+               Cisplatin
+                D00275  Cisplatin (JP17/USP/INN)
+            Drugs listed in the Japanese Pharmacopoeia [BR:br08311]
+             Chemicals
+              D00275  Cisplatin
+            Antineoplastics [br08340.html]
+             D00275
+            Pharmacogenomic biomarkers in FDA drug labels [br08341.html]
+             Polymorphisms and germline mutations
+              D00275
+DBLINKS     CAS: 15663-27-1
+            PubChem: 7847341
+            ChEBI: 27899
+            DrugBank: DB00515
+            PDB-CCD: CPT
+            NIKKAJI: J277.914E
+ATOM        5
+            1   Z   Pt   34.5801  -25.8301
+            2   X   Cl   35.9846  -25.8301
+            3   X   Cl   34.5743  -27.2286
+            4   N0  N    31.9200  -25.8300
+            5   N0  N    33.8100  -24.0800
+BOND        2
+            1     1   2 1
+            2     1   3 1
+///

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<TABLE>
+<ENTRY>
+<ID>CHEBI:17761</ID>
+<NAME>ceramide</NAME>
+<DEFINITION>Ceramides (N-acyl-sphingoid bases) are a major subclass of sphingoid base derivatives with an amide-linked fatty acid. The fatty acids are typically saturated or monounsaturated with chain lengths from 14 to 26 carbon atoms; the presence of a hydroxyl group on carbon 2 is fairly common. Ceramides are generally precursors of more complex sphingolipids. In the illustrated generalised structure, R1 = OH, OX (where X = acyl, glycosyl, phosphate, phosphonate, etc.), or H.</DEFINITION>
+<STAR>3</STAR>
+<SECONDARY_ID>CHEBI:12487</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:13954</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:7242</SECONDARY_ID>
+<SECONDARY_ID>CHEBI:23074</SECONDARY_ID>
+<SYNONYM>N-acylated sphingoid</SYNONYM>
+<SYNONYM>ceramides</SYNONYM>
+<SYNONYM>Ceramide</SYNONYM>
+<SYNONYM>Cer</SYNONYM>
+<SYNONYM>a ceramide</SYNONYM>
+<FORMULA>C4H6NO2R3</FORMULA>
+<MASS>100.09590</MASS>
+<MONOISOTOPIC_MASS>100.040</MONOISOTOPIC_MASS>
+<CHARGE>0</CHARGE>
+<SMILES>O[C@H]([*])[C@H](C[*])NC([*])=O</SMILES>
+<KEGG_COMPOUND_ACCESSION>C00195</KEGG_COMPOUND_ACCESSION>
+<LIPID_MAPS_CLASS_ACCESSION>LMSP02</LIPID_MAPS_CLASS_ACCESSION>
+<WIKIPEDIA_ACCESSION>Ceramide</WIKIPEDIA_ACCESSION>
+<PUBMED_CITATION>7542630</PUBMED_CITATION>
+</ENTRY>
+</TABLE>

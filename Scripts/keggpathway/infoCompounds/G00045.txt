@@ -1,0 +1,44 @@
+ENTRY       G00045                      Glycan
+NAME        IV2Fuc,III4Fuc-Lc4Cer;
+            IV2-a-Fuc,III4-a-Fuc-Lc4Cer;
+            Leb glycolipid
+COMPOSITION (Gal)2 (Glc)1 (GlcNAc)1 (LFuc)2 (Cer)1
+MASS        981.9 (Cer)
+REACTION    R06163
+PATHWAY     map00601  Glycosphingolipid biosynthesis - lacto and neolacto series
+            map01100  Metabolic pathways
+ENZYME      2.4.1.65
+BRITE       Lipids [BR:br08002]
+             SP  Sphingolipids
+              SP05 Neutral glycosphingolipids
+               SP0504 Galb1-3GlcNAcb1-3Galb1-4Glc- (Lacto series)
+                G00045  Fuc-alpha1->4(Fuc-alpha1->2Gal-beta1->3)GlcNAc-beta1->3LacCer
+REFERENCE   1  [PMID:3392043]
+            Larson G, Falk P, Hoskins LC.
+            Degradation of human intestinal glycosphingolipids by extracellular glycosidases from mucin-degrading bacteria of the human fecal flora.
+            J. Biol. Chem. 263 (1988) 10790-8.
+            2  [PMID:9111138]
+            Henry S, Jovall PA, Ghardashkhani S, Elmgren A, Martinsson T, Larson G, Samuelsson B.
+            Structural and immunochemical identification of Le(a), Le(b), H type 1, and related glycolipids in small intestinal mucosa of a group O Le(a-b-) nonsecretor.
+            Glycoconj. J. 14 (1997) 209-23.
+DBLINKS     CCSD: 1174 1175 1176 2712 8196 8363 8728 13370 14015 14078 14901 15611 16288 16382 16567 18430 21111 21742 21916 23894 23917 25515 33041 34832 35055 36050 36052 36115 40778 42843 43739 48139 48392 50202 50496
+            GlyTouCan: G09552LA
+            JCGGDB: JCGG-STR026472
+            LipidBank: GSG1376
+            GlycoEpitope: EP0010
+NODE        7
+            1   Cer        18     0
+            2   Glc        11     0
+            3   Gal         4     0
+            4   GlcNAc     -4     0
+            5   LFuc      -12     5
+            6   Gal       -12    -5
+            7   LFuc      -19    -5
+EDGE        6
+            1     2:b1    1:1  
+            2     3:b1    2:4  
+            3     4:b1    3:3  
+            4     5:a1    4:4  
+            5     6:b1    4:3  
+            6     7:a1    6:2  
+///
